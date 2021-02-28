@@ -12,7 +12,7 @@ Success: **Move EOS archives and templates to Roam by** [[February 28th, 2021]]
 - # Resources
     - [EOS on Accountiful Shared Drive](https://drive.google.com/drive/folders/1LIdb3FoDxQmPnQwpL0rrWbf0BZstsRp8?usp=sharing)
 - # Tasks
-    - {{[[TODO]]}} Identify EOS collateral to migrate to Roam [[February 27th, 2021]] 
+    - {{[[DONE]]}} Identify EOS collateral to migrate to Roam [[February 27th, 2021]] 
     - Migrate the following:
         - {{[[TODO]]}} [[VTO]]
         - {{[[TODO]]}} Rock sheet

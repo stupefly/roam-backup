@@ -5608,10 +5608,10 @@
                     }
                   },
                   {
-                    "string": "**Key Motivations: **possess knowledge, understand the environment, have everything figured out as a way of defending the self from threats from the environment",
+                    "string": "^^**Key Motivations**^^: possess knowledge, understand the environment, have everything figured out as a way of defending the self from threats from the environment",
                     "create-time": 1614499384823,
                     "uid": "clRJPnLYS",
-                    "edit-time": 1614499406924,
+                    "edit-time": 1614499442182,
                     ":create/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     },
@@ -5620,99 +5620,85 @@
                     }
                   },
                   {
-                    "string": "__Thinking (Head) Center__",
-                    "create-time": 1614496262205,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
+                    "edit-time": 1614499608765,
                     "children": [
                       {
-                        "edit-time": 1614499204565,
-                        "children": [
-                          {
-                            "string": "fear the outer world and their capacity to cope with it",
-                            "create-time": 1614496468164,
-                            "uid": "6Djb7kI57",
-                            "edit-time": 1614496495299,
-                            ":create/user": {
-                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                            }
-                          },
-                          {
-                            "string": "cope by withdrawing from the world",
-                            "create-time": 1614496507684,
-                            "uid": "q_2_9oxwd",
-                            "edit-time": 1614497564905,
-                            ":create/user": {
-                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                            }
-                          },
-                          {
-                            "string": "become secretive, isolated loners who use their minds to penetrate into the nature of the world",
-                            "create-time": 1614496517438,
-                            "uid": "17Ugyitsz",
-                            "edit-time": 1614496517438,
-                            ":create/user": {
-                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                            }
-                          },
-                          {
-                            "string": "hope that eventually, as they understand reality on their own terms, they will be able to rejoin the world and participate in it",
-                            "create-time": 1614496532570,
-                            "uid": "Z-zSmnjak",
-                            "edit-time": 1614496532570,
-                            ":create/user": {
-                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                            }
-                          },
-                          {
-                            "string": "never feel they know enough to participate with total confidence involve themselves with increasingly complex inner worlds",
-                            "create-time": 1614496424619,
-                            "uid": "HL9Ikvh0B",
-                            "edit-time": 1614496551029,
-                            ":create/user": {
-                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                            }
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "9h3dVgcJP"
-                          }
-                        ],
-                        "uid": "FsZ-w250Z",
-                        ":block/refs": [
-                          {
-                            ":block/uid": "9h3dVgcJP"
-                          }
-                        ],
-                        "string": "Thinker Fives [[fear]] being useless, helpless, or incapable: ",
+                        "string": "fear the outer world and their capacity to cope with it",
+                        "create-time": 1614496468164,
+                        "uid": "6Djb7kI57",
+                        "edit-time": 1614496495299,
                         ":create/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                         },
-                        "create-time": 1614496298767,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "cope by withdrawing from the world",
+                        "create-time": 1614496507684,
+                        "uid": "q_2_9oxwd",
+                        "edit-time": 1614497564905,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "become secretive, isolated loners who use their minds to penetrate into the nature of the world",
+                        "create-time": 1614496517438,
+                        "uid": "17Ugyitsz",
+                        "edit-time": 1614496517438,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "hope that eventually, as they understand reality on their own terms, they will be able to rejoin the world and participate in it",
+                        "create-time": 1614496532570,
+                        "uid": "Z-zSmnjak",
+                        "edit-time": 1614496532570,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "never feel they know enough to participate with total confidence involve themselves with increasingly complex inner worlds",
+                        "create-time": 1614496424619,
+                        "uid": "HL9Ikvh0B",
+                        "edit-time": 1614496551029,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
                         ":edit/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                         }
                       }
                     ],
-                    "uid": "hguf94F3_",
-                    "edit-time": 1614497621057,
+                    "refs": [
+                      {
+                        "uid": "9h3dVgcJP"
+                      }
+                    ],
+                    "uid": "FsZ-w250Z",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9h3dVgcJP"
+                      }
+                    ],
+                    "string": "Fives (thinkers) [[fear]] being useless, helpless, or incapable: ",
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "create-time": 1614496298767,
                     ":edit/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     }
@@ -5720,11 +5706,25 @@
                   {
                     "string": "Direction of Stress/Disintegration (Type 7)",
                     "create-time": 1614497630200,
-                    "uid": "dS_zsqPSp",
-                    "edit-time": 1614497660857,
                     ":create/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     },
+                    "children": [
+                      {
+                        "string": "hyperactive and scattered",
+                        "create-time": 1614499490243,
+                        "uid": "rR1H7W1hm",
+                        "edit-time": 1614499502655,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "dS_zsqPSp",
+                    "edit-time": 1614497660857,
                     ":edit/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     }
@@ -5732,11 +5732,25 @@
                   {
                     "string": "Direction of Growth/Integration (Type 8)",
                     "create-time": 1614497662603,
-                    "uid": "bmYOdgJWb",
-                    "edit-time": 1614497677108,
                     ":create/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     },
+                    "children": [
+                      {
+                        "string": "self-confident and decisive",
+                        "create-time": 1614499503359,
+                        "uid": "pBR0nqai-",
+                        "edit-time": 1614499513813,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "bmYOdgJWb",
+                    "edit-time": 1614497677108,
                     ":edit/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     }
@@ -14747,62 +14761,6 @@
     },
     "children": [
       {
-        "string": "{{[[TODO]]}} Buy merchant parking permits #[[Accountiful Todos]]",
-        "create-time": 1614298225203,
-        ":block/refs": [
-          {
-            ":block/uid": "CEVcUQzIF"
-          },
-          {
-            ":block/uid": "hhvTau8RH"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "CEVcUQzIF"
-          },
-          {
-            "uid": "hhvTau8RH"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "2uO6Uhv_-",
-        "edit-time": 1614450392850,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "{{[[TODO]]}} Book dental appointments for boys #[[Personal Todos]]",
-        "create-time": 1614409056030,
-        ":block/refs": [
-          {
-            ":block/uid": "P5uQTWVPt"
-          },
-          {
-            ":block/uid": "hhvTau8RH"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "P5uQTWVPt"
-          },
-          {
-            "uid": "hhvTau8RH"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "dtiNAnVEw",
-        "edit-time": 1614409056030,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
         "string": "{{[[TODO]]}} Take a weekend run! #[[wellness 🕊]]",
         "create-time": 1614410137990,
         ":block/refs": [
@@ -22089,11 +22047,11 @@
         },
         "children": [
           {
-            "string": "{{[[TODO]]}} Identify EOS collateral to migrate to Roam [[February 27th, 2021]] ",
+            "string": "{{[[DONE]]}} Identify EOS collateral to migrate to Roam [[February 27th, 2021]] ",
             "create-time": 1614412285328,
             ":block/refs": [
               {
-                ":block/uid": "hhvTau8RH"
+                ":block/uid": "0HeuefVvJ"
               },
               {
                 ":block/uid": "02-27-2021"
@@ -22101,7 +22059,7 @@
             ],
             "refs": [
               {
-                "uid": "hhvTau8RH"
+                "uid": "0HeuefVvJ"
               },
               {
                 "uid": "02-27-2021"
@@ -22111,7 +22069,7 @@
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
             "uid": "JlIe8CWrz",
-            "edit-time": 1614412445555,
+            "edit-time": 1614499879558,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
@@ -22274,106 +22232,8 @@
     },
     "children": [
       {
-        "string": "{{[[TODO]]}} Pick up Good Earth order 11:00-11:30 #core",
-        "create-time": 1614477520753,
-        ":block/refs": [
-          {
-            ":block/uid": "hhvTau8RH"
-          },
-          {
-            ":block/uid": "A0Su1fppo"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "hhvTau8RH"
-          },
-          {
-            "uid": "A0Su1fppo"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "YS85cdZ1w",
-        "edit-time": 1614477611590,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "{{[[TODO]]}} Pick up Fishmonger Don order 12:30+ #core",
-        "create-time": 1614477540222,
-        ":block/refs": [
-          {
-            ":block/uid": "hhvTau8RH"
-          },
-          {
-            ":block/uid": "A0Su1fppo"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "hhvTau8RH"
-          },
-          {
-            "uid": "A0Su1fppo"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "wQqjPTb9-",
-        "edit-time": 1614477615907,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "{{[[TODO]]}} Shop Whole Foods #core",
-        "create-time": 1614477584860,
-        ":block/refs": [
-          {
-            ":block/uid": "hhvTau8RH"
-          },
-          {
-            ":block/uid": "A0Su1fppo"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "hhvTau8RH"
-          },
-          {
-            "uid": "A0Su1fppo"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "lk6R4suSL",
-        "edit-time": 1614477619887,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      }
-    ],
-    "uid": "02-28-2021",
-    "edit-time": 1614412365481,
-    ":edit/user": {
-      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-    }
-  },
-  {
-    "create-time": 1614412441525,
-    "title": "February 27th, 2021",
-    ":create/user": {
-      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-    },
-    "children": [
-      {
         "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
-        "create-time": 1614412496754,
+        "create-time": 1614499668931,
         ":block/refs": [
           {
             ":block/uid": "hhvTau8RH"
@@ -22411,12 +22271,120 @@
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "uid": "UWn5EZeq9",
-        "edit-time": 1614412496754,
+        "uid": "aIf3HzI0-",
+        "edit-time": 1614499668931,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
       },
+      {
+        "string": "{{[[TODO]]}} Pick up Good Earth order 11:00-11:30 ",
+        "create-time": 1614477520753,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "YS85cdZ1w",
+        "edit-time": 1614499809611,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "{{[[TODO]]}} Pick up Fishmonger Don order 12:30+ ",
+        "create-time": 1614477540222,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "wQqjPTb9-",
+        "edit-time": 1614499812977,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "{{[[TODO]]}} Shop Whole Foods ",
+        "create-time": 1614477584860,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "lk6R4suSL",
+        "edit-time": 1614499816636,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "{{[[TODO]]}} Finish summarizing [enneagram](https://www.enneagraminstitute.com/type-5) in [[_sharpen the saw 🪚]]",
+        "create-time": 1614500034408,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "b2uflAka-"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "b2uflAka-"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "7JqZWFV56",
+        "edit-time": 1614500197289,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "02-28-2021",
+    "edit-time": 1614412365481,
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614412441525,
+    "title": "February 27th, 2021",
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    "children": [
       {
         "string": "{{[[DONE]]}} Verify that roam to github backup is working",
         "create-time": 1614472244207,
@@ -22529,42 +22497,6 @@
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "create-time": 1614472211677,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "edit-time": 1614494735088,
-        "children": [
-          {
-            "string": "[Type Five — The Enneagram Institute](https://www.enneagraminstitute.com/type-5)<img src=\"https://images.squarespace-cdn.com/content/v1/585179fe1b631b51e1837bac/1481923685800-8AF2UNC7FKRTL1E19ZHT/ke17ZwdGBToddI8pDm48kGJhuUC4fYhB0qr4zYQ1TANZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVF5wAUowfLoeyHki4sxHpjkbq6xH0spp_o6E8WxvA3humQ6l2WM7tn7mqHTODzkmeM/image-asset.gif\" alt=\"\" /> \nFives are alert, insightful, and curious. They are able to concentrate and focus on developing complex ideas and skills. Independent, innovative, and inventive, they can also become preoccupied with their thoughts and imaginary constructs. They become detached, yet high-strung and intense. They typically have problems with eccentricity, nihilism, and isolation. At their Best: visionary pioneers, often ahead of their time, and able to see the world in an entirely new way.\n\t•\tBasic Fear: Being useless, helpless, or incapable \n\t•\tBasic Desire: To be capable and competent \n\t•\tEnneagram Five with a Four-Wing: \"The Iconoclast\" \n\t•\tEnneagram Five with a Six-Wing: \"The Problem Solver\" \nKey Motivations: Want to possess knowledge, to understand the environment, to have everything figured out as a way of defending the self from threats from the environment.\nThe Meaning of the Arrows (in brief)\nWhen moving in their Direction of Disintegration (stress), detached Fives suddenl...\n\n",
-            "create-time": 1614486256298,
-            "uid": "2D-0pc4yJ",
-            "edit-time": 1614494735088,
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          }
-        ],
-        "refs": [
-          {
-            "uid": "SZE56rnmQ"
-          }
-        ],
-        "uid": "AXl2cYPEp",
-        ":block/refs": [
-          {
-            ":block/uid": "SZE56rnmQ"
-          }
-        ],
-        "string": "#[[Inbox]]",
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "create-time": 1614486256298,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -25185,6 +25117,76 @@
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614499707689,
+    "title": "March 1st, 2021",
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    "children": [
+      {
+        "string": "{{[[TODO]]}} Buy merchant parking permits #[[Accountiful Todos]]",
+        "create-time": 1614298225203,
+        ":block/refs": [
+          {
+            ":block/uid": "CEVcUQzIF"
+          },
+          {
+            ":block/uid": "hhvTau8RH"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "CEVcUQzIF"
+          },
+          {
+            "uid": "hhvTau8RH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "2uO6Uhv_-",
+        "edit-time": 1614450392850,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "{{[[TODO]]}} Book dental appointments for boys #[[Personal Todos]]",
+        "create-time": 1614409056030,
+        ":block/refs": [
+          {
+            ":block/uid": "P5uQTWVPt"
+          },
+          {
+            ":block/uid": "hhvTau8RH"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "P5uQTWVPt"
+          },
+          {
+            "uid": "hhvTau8RH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "dtiNAnVEw",
+        "edit-time": 1614409056030,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "03-01-2021",
+    "edit-time": 1614499707690,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }

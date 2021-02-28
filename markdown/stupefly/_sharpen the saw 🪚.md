@@ -59,16 +59,17 @@ Keywords: #[[🗺 Areas]], #[[active]]
             - perceptive, innovative, secretive, and isolated
             - Basic fear: being useless, helpless, or incapable
             - Basic desire: To be capable and competent
-            - **Key Motivations: **possess knowledge, understand the environment, have everything figured out as a way of defending the self from threats from the environment
-            - __Thinking (Head) Center__
-                - Thinker Fives [[fear]] being useless, helpless, or incapable: 
-                    - fear the outer world and their capacity to cope with it
-                    - cope by withdrawing from the world
-                    - become secretive, isolated loners who use their minds to penetrate into the nature of the world
-                    - hope that eventually, as they understand reality on their own terms, they will be able to rejoin the world and participate in it
-                    - never feel they know enough to participate with total confidence involve themselves with increasingly complex inner worlds
+            - ^^**Key Motivations**^^: possess knowledge, understand the environment, have everything figured out as a way of defending the self from threats from the environment
+            - Fives (thinkers) [[fear]] being useless, helpless, or incapable: 
+                - fear the outer world and their capacity to cope with it
+                - cope by withdrawing from the world
+                - become secretive, isolated loners who use their minds to penetrate into the nature of the world
+                - hope that eventually, as they understand reality on their own terms, they will be able to rejoin the world and participate in it
+                - never feel they know enough to participate with total confidence involve themselves with increasingly complex inner worlds
             - Direction of Stress/Disintegration (Type 7)
+                - hyperactive and scattered
             - Direction of Growth/Integration (Type 8)
+                - self-confident and decisive
         - **Type Five, Wing 4: The Iconoclast**
         - ^^**Type Five, Wing 6: The Problem Solver**^^
             - Type 6:
