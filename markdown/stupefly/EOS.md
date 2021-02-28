@@ -1,0 +1,46 @@
+- # [[L10]] Meeting Agenda
+    - **Segue**	5 minutes
+    - **Scorecard **	5 minutes
+    - **Rock review [on/off track]**	5 minutes
+    - **Client/EE headlines**	5 minutes
+    - **To-Do List [done/not]**	5 minutes
+    - **IDS**	60 minutes
+        - Identify
+        - Discuss
+        - Solve
+    - **Conclude**	5 minutes
+        - Review To-Do List
+        - Cascading messages?
+        - Rate meeting
+- {{[[table]]}}
+    - **Todo Item**
+        - **Assigned to**
+            - **Date Added**
+    - Document client advanced cost tracking process
+        - BM
+            - 6/18/2019
+    - Develop & doc standardized AP process & policies
+        - BM
+            - 6/18/19
+    - Develop RFP for offshore partner
+        - BM
+            - 6/18/19
+    - Document P/R reconciliation process in Confluence
+        - CW
+            - 6/25/19
+    - Document/implement net asset hack for YIA
+        - CW
+            - 6/25/19
+    - Schedule ROEC/ROEV partner review meeting (include CAM rec)
+        - BM
+            - 6/25/19
+    - Establish process for TABS3 payroll / GL integration (import)
+    - Karbonize RED, ALG recurring work
+    - Review POP/PDM pick reports in Bill.com inbox
+    - Move client content from Google Drive to Team Drives
+    - Create Google Groups for all clients (replace default routing)
+    - Generate July/Aug firm financials
+    - Develop onshore contract bookkeeper job description
+    - Post contract bookkeeper job to Craigslist, Breeze
+    - Post contract bookkeeper job to CW network
+    - Send July/Aug hourly billings

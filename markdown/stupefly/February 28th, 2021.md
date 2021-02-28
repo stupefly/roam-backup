@@ -1,0 +1,3 @@
+- {{[[TODO]]}} Pick up Good Earth order 11:00-11:30 #core
+- {{[[TODO]]}} Pick up Fishmonger Don order 12:30+ #core
+- {{[[TODO]]}} Shop Whole Foods #core

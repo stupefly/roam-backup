@@ -20433,11 +20433,496 @@
   {
     "create-time": 1614410870768,
     "title": "EOS",
-    "uid": "F6v0N6iRY",
-    "edit-time": 1614410870770,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
+    "children": [
+      {
+        "string": "[[L10]] Meeting Agenda",
+        ":block/refs": [
+          {
+            ":block/uid": "LbQzpgQmx"
+          }
+        ],
+        "heading": 1,
+        "refs": [
+          {
+            "uid": "LbQzpgQmx"
+          }
+        ],
+        "children": [
+          {
+            "string": "**Segue**\t5 minutes",
+            "uid": "3FNGYGIg5",
+            "edit-time": 1614477720238,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "**Scorecard **\t5 minutes",
+            "uid": "eopGafEk-",
+            "edit-time": 1614477720238,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "**Rock review [on/off track]**\t5 minutes",
+            "uid": "x7Ccv3o1V",
+            "edit-time": 1614477720238,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "**Client/EE headlines**\t5 minutes",
+            "uid": "LUqU0woio",
+            "edit-time": 1614477720238,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "**To-Do List [done/not]**\t5 minutes",
+            "uid": "z9YRdfUI1",
+            "edit-time": 1614477720238,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "**IDS**\t60 minutes",
+            "children": [
+              {
+                "string": "Identify",
+                "uid": "Lcd_b5JnT",
+                "edit-time": 1614477720238,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Discuss",
+                "uid": "XxX3TdXIH",
+                "edit-time": 1614477720238,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Solve",
+                "uid": "dVsqFszSL",
+                "edit-time": 1614477720238,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "UIqveRMjD",
+            "edit-time": 1614477720238,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "**Conclude**\t5 minutes",
+            "children": [
+              {
+                "string": "Review To-Do List",
+                "uid": "Kc6qIgo9N",
+                "edit-time": 1614477720238,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Cascading messages?",
+                "uid": "yL0U2yF1I",
+                "edit-time": 1614477720238,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Rate meeting",
+                "uid": "UBBEPABNz",
+                "edit-time": 1614477720238,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "yOiSzfQ0K",
+            "edit-time": 1614477720238,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "uid": "gP7EWgvYt",
+        "edit-time": 1614477760890,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "edit-time": 1614478087452,
+        "children": [
+          {
+            "string": "**Todo Item**",
+            "create-time": 1614478096074,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "**Assigned to**",
+                "create-time": 1614478104750,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "**Date Added**",
+                    "create-time": 1614478109655,
+                    "uid": "lCYJFXTAE",
+                    "edit-time": 1614478507952,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "4wAGcGikD",
+                "edit-time": 1614478186178,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "Lf6K0f4sF",
+            "edit-time": 1614478177661,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Document client advanced cost tracking process",
+            "create-time": 1614478123622,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "BM",
+                "create-time": 1614478133782,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "6/18/2019",
+                    "create-time": 1614478135978,
+                    "uid": "xbd36Olu0",
+                    "edit-time": 1614478410193,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "PVpiReiq9",
+                "edit-time": 1614478404663,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "IevNes8DU",
+            "edit-time": 1614478399919,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Develop & doc standardized AP process & policies",
+            "create-time": 1614478138262,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "BM",
+                "create-time": 1614478146676,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "6/18/19",
+                    "create-time": 1614478149872,
+                    "uid": "Lmsx6nfil",
+                    "edit-time": 1614478476865,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "UiH7JMf4r",
+                "edit-time": 1614478472595,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "ECzNCC8do",
+            "edit-time": 1614478430567,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Develop RFP for offshore partner",
+            "children": [
+              {
+                "string": "BM",
+                "create-time": 1614478466139,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "6/18/19",
+                    "create-time": 1614478477870,
+                    "uid": "GiqFnSoT6",
+                    "edit-time": 1614478482048,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "Ou6pNdJDI",
+                "edit-time": 1614478468480,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "BBXz6YRQI",
+            "edit-time": 1614478447164,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Document P/R reconciliation process in Confluence",
+            "children": [
+              {
+                "string": "CW",
+                "create-time": 1614478483418,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "6/25/19",
+                    "create-time": 1614478486915,
+                    "uid": "wbef1Yvkz",
+                    "edit-time": 1614478492995,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "HAAoCHpDE",
+                "edit-time": 1614478486924,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "ACMYuhMCW",
+            "edit-time": 1614478447164,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Document/implement net asset hack for YIA",
+            "children": [
+              {
+                "string": "CW",
+                "create-time": 1614478494330,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "6/25/19",
+                    "create-time": 1614478519134,
+                    "uid": "L6SQpv66u",
+                    "edit-time": 1614478525566,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "B6a-7mSSZ",
+                "edit-time": 1614478518969,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "w_FzgFmHG",
+            "edit-time": 1614478447164,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Schedule ROEC/ROEV partner review meeting (include CAM rec)",
+            "children": [
+              {
+                "string": "",
+                "create-time": 1614478526983,
+                "uid": "vJ3POUQlR",
+                "edit-time": 1614478526983,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "j9RzeZHYQ",
+            "edit-time": 1614478447164,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Establish process for TABS3 payroll / GL integration (import)",
+            "uid": "hA07dkWt9",
+            "edit-time": 1614478447164,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Karbonize RED, ALG recurring work",
+            "uid": "gVjVCI0CY",
+            "edit-time": 1614478447164,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Review POP/PDM pick reports in Bill.com inbox",
+            "uid": "N0q4EwFoZ",
+            "edit-time": 1614478459906,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Move client content from Google Drive to Team Drives",
+            "uid": "7ASxDNUq_",
+            "edit-time": 1614478459906,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Create Google Groups for all clients (replace default routing)",
+            "uid": "bufRopTKv",
+            "edit-time": 1614478459906,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Generate July/Aug firm financials",
+            "uid": "YH6ExONjw",
+            "edit-time": 1614478459906,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Develop onshore contract bookkeeper job description",
+            "uid": "Y7dcyc28U",
+            "edit-time": 1614478459906,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Post contract bookkeeper job to Craigslist, Breeze",
+            "uid": "PrOXXZeH2",
+            "edit-time": 1614478459906,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Post contract bookkeeper job to CW network",
+            "uid": "tq37_A7V1",
+            "edit-time": 1614478459906,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Send July/Aug hourly billings",
+            "uid": "KalZ2hRJL",
+            "edit-time": 1614478459906,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "4UX7Cu3iA"
+          }
+        ],
+        "uid": "4d1PKqLLP",
+        ":block/refs": [
+          {
+            ":block/uid": "4UX7Cu3iA"
+          }
+        ],
+        "string": "{{[[table]]}}",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1614477812366,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "F6v0N6iRY",
+    "edit-time": 1614410870770,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -20656,11 +21141,97 @@
   {
     "create-time": 1614412321814,
     "title": "February 28th, 2021",
-    "uid": "02-28-2021",
-    "edit-time": 1614412365481,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
+    "children": [
+      {
+        "string": "{{[[TODO]]}} Pick up Good Earth order 11:00-11:30 #core",
+        "create-time": 1614477520753,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "A0Su1fppo"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "A0Su1fppo"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "YS85cdZ1w",
+        "edit-time": 1614477611590,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "{{[[TODO]]}} Pick up Fishmonger Don order 12:30+ #core",
+        "create-time": 1614477540222,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "A0Su1fppo"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "A0Su1fppo"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "wQqjPTb9-",
+        "edit-time": 1614477615907,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "{{[[TODO]]}} Shop Whole Foods #core",
+        "create-time": 1614477584860,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "A0Su1fppo"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "A0Su1fppo"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "lk6R4suSL",
+        "edit-time": 1614477619887,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "02-28-2021",
+    "edit-time": 1614412365481,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -23387,6 +23958,30 @@
     "title": "October 12th, 2021",
     "uid": "10-12-2021",
     "edit-time": 1614468705576,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614477760894,
+    "title": "L10",
+    "uid": "LbQzpgQmx",
+    "edit-time": 1614477760903,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614478087457,
+    "title": "table",
+    "uid": "4UX7Cu3iA",
+    "edit-time": 1614478087459,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
