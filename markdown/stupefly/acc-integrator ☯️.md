@@ -1,3 +1,15 @@
 - **Standard**: 
 Keywords: #[[🗺 Areas]], #active
 - =======================================================
+- [[accountiful]] Mission Vision Values
+    - **Mission**:
+        - We partner with business and social entrepreneurs to insight/analytics/intelligence and optimize performance backed by analytics and metrics
+    - **Vision**:
+        - To deliver the most client-centric accounting, payroll, HR, and financial advisory services available to small businesses and nonprofits
+    - **Values**:
+        - Core: Integrity
+        - Client-centeredness
+        - Exceptional Service
+        - Continuous Improvement
+        - Accountability
+        - Fun

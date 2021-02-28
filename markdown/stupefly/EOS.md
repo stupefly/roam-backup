@@ -48,5 +48,6 @@
         - CW
             - 8/6/19
 - # Issues List
-    - 1. OFF TRACK - Hire onshore bookkeeper [CW]
-    - 
+    - OFF TRACK - Hire onshore bookkeeper [CW]
+    - OFF TRACK - Transition from Track1099 [CW]
+    - OFF TRACK - Billings every 30 days [CW]

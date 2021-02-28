@@ -2413,6 +2413,128 @@
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
+      },
+      {
+        "edit-time": 1614494126311,
+        "children": [
+          {
+            "string": "**Mission**:",
+            "create-time": 1614494129228,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "We partner with business and social entrepreneurs to insight/analytics/intelligence and optimize performance backed by analytics and metrics",
+                "uid": "KG4_kMOTK",
+                "edit-time": 1614494142626,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "7dh-Dgk2w",
+            "edit-time": 1614494166091,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "**Vision**:",
+            "children": [
+              {
+                "string": "To deliver the most client-centric accounting, payroll, HR, and financial advisory services available to small businesses and nonprofits",
+                "uid": "mSt1sPfzM",
+                "edit-time": 1614494142626,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "LyOoJst8z",
+            "edit-time": 1614494167549,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "**Values**:",
+            "children": [
+              {
+                "string": "Core: Integrity",
+                "uid": "lGu1KZGs8",
+                "edit-time": 1614494142626,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Client-centeredness",
+                "uid": "8l22zHkoZ",
+                "edit-time": 1614494142626,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Exceptional Service",
+                "uid": "YT7fEV9Gk",
+                "edit-time": 1614494142626,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Continuous Improvement",
+                "uid": "Ify7XoeY1",
+                "edit-time": 1614494142626,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Accountability",
+                "uid": "THed1tUFm",
+                "edit-time": 1614494142626,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Fun",
+                "uid": "gycLag323",
+                "edit-time": 1614494142626,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "qlNnbkrzz",
+            "edit-time": 1614494168763,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "LqD2wkabC"
+          }
+        ],
+        "uid": "soq3JqUIl",
+        ":block/refs": [
+          {
+            ":block/uid": "LqD2wkabC"
+          }
+        ],
+        "string": "[[accountiful]] Mission Vision Values",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1614494086352,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
       }
     ],
     "uid": "S1zTSMgbi",
@@ -21020,10 +21142,10 @@
         },
         "children": [
           {
-            "string": "1. OFF TRACK - Hire onshore bookkeeper [CW]",
+            "string": "OFF TRACK - Hire onshore bookkeeper [CW]",
             "create-time": 1614478830323,
             "uid": "uZhwXNAsn",
-            "edit-time": 1614478861514,
+            "edit-time": 1614493933917,
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
@@ -21032,13 +21154,17 @@
             }
           },
           {
-            "string": "",
-            "create-time": 1614478862166,
-            "uid": "kMnLYDMOk",
-            "edit-time": 1614478862166,
-            ":create/user": {
+            "string": "OFF TRACK - Transition from Track1099 [CW]",
+            "uid": "tyw3zR6B8",
+            "edit-time": 1614493928126,
+            ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
+            }
+          },
+          {
+            "string": "OFF TRACK - Billings every 30 days [CW]",
+            "uid": "PnPoX87eH",
+            "edit-time": 1614493928126,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
@@ -21200,10 +21326,10 @@
         },
         "children": [
           {
-            "string": "RESOURCES_HERE",
+            "string": "[EOS on Accountiful Shared Drive](https://drive.google.com/drive/folders/1LIdb3FoDxQmPnQwpL0rrWbf0BZstsRp8?usp=sharing)",
             "create-time": 1614412285328,
             "uid": "OjnFovTrQ",
-            "edit-time": 1614412285328,
+            "edit-time": 1614494485759,
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
@@ -21250,6 +21376,142 @@
             },
             "uid": "JlIe8CWrz",
             "edit-time": 1614412445555,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Migrate the following:",
+            "create-time": 1614494204707,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "{{[[TODO]]}} [[VTO]]",
+                "create-time": 1614494221534,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hhvTau8RH"
+                  },
+                  {
+                    ":block/uid": "Ep6Bi12wA"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "hhvTau8RH"
+                  },
+                  {
+                    "uid": "Ep6Bi12wA"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "uid": "IuA9A7Nyq",
+                "edit-time": 1614494249087,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "{{[[TODO]]}} Rock sheet",
+                "create-time": 1614494249078,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hhvTau8RH"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "hhvTau8RH"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "uid": "uVYxYBcBn",
+                "edit-time": 1614494337636,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "{{[[TODO]]}} Quarterly EOS agenda",
+                "create-time": 1614494338969,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hhvTau8RH"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "hhvTau8RH"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "uid": "cMtrD2dMH",
+                "edit-time": 1614494352971,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "{{[[TODO]]}} Accountability chart",
+                "create-time": 1614494355400,
+                ":block/refs": [
+                  {
+                    ":block/uid": "hhvTau8RH"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "hhvTau8RH"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "uid": "LHQcTdBcg",
+                "edit-time": 1614494366204,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "Nqs3Dm3rL",
+            "edit-time": 1614494221516,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Create [[L10]] meeting template in [[Roam]]",
+            "create-time": 1614494332745,
+            ":block/refs": [
+              {
+                ":block/uid": "AExnIiWIX"
+              },
+              {
+                ":block/uid": "LbQzpgQmx"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "AExnIiWIX"
+              },
+              {
+                "uid": "LbQzpgQmx"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "5MHSChVUv",
+            "edit-time": 1614494410484,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
@@ -21534,10 +21796,46 @@
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
+      },
+      {
+        "edit-time": 1614494735088,
+        "children": [
+          {
+            "string": "[Type Five — The Enneagram Institute](https://www.enneagraminstitute.com/type-5)<img src=\"https://images.squarespace-cdn.com/content/v1/585179fe1b631b51e1837bac/1481923685800-8AF2UNC7FKRTL1E19ZHT/ke17ZwdGBToddI8pDm48kGJhuUC4fYhB0qr4zYQ1TANZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVF5wAUowfLoeyHki4sxHpjkbq6xH0spp_o6E8WxvA3humQ6l2WM7tn7mqHTODzkmeM/image-asset.gif\" alt=\"\" /> \nFives are alert, insightful, and curious. They are able to concentrate and focus on developing complex ideas and skills. Independent, innovative, and inventive, they can also become preoccupied with their thoughts and imaginary constructs. They become detached, yet high-strung and intense. They typically have problems with eccentricity, nihilism, and isolation. At their Best: visionary pioneers, often ahead of their time, and able to see the world in an entirely new way.\n\t•\tBasic Fear: Being useless, helpless, or incapable \n\t•\tBasic Desire: To be capable and competent \n\t•\tEnneagram Five with a Four-Wing: \"The Iconoclast\" \n\t•\tEnneagram Five with a Six-Wing: \"The Problem Solver\" \nKey Motivations: Want to possess knowledge, to understand the environment, to have everything figured out as a way of defending the self from threats from the environment.\nThe Meaning of the Arrows (in brief)\nWhen moving in their Direction of Disintegration (stress), detached Fives suddenl...\n\n",
+            "create-time": 1614486256298,
+            "uid": "2D-0pc4yJ",
+            "edit-time": 1614494735088,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "SZE56rnmQ"
+          }
+        ],
+        "uid": "AXl2cYPEp",
+        ":block/refs": [
+          {
+            ":block/uid": "SZE56rnmQ"
+          }
+        ],
+        "string": "#[[Inbox]]",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1614486256298,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
       }
     ],
     "uid": "02-27-2021",
-    "edit-time": 1614412441542,
+    "edit-time": 1614494735088,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -24112,6 +24410,18 @@
     "title": "table",
     "uid": "4UX7Cu3iA",
     "edit-time": 1614478087459,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614494249089,
+    "title": "VTO",
+    "uid": "Ep6Bi12wA",
+    "edit-time": 1614494249090,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
