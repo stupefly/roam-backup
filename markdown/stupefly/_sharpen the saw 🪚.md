@@ -12,9 +12,70 @@ Keywords: #[[🗺 Areas]], #[[active]]
         - Intuition: explore new ideas and think big picture
         - Thinking: follow "head" and consider facts in decision-making
         - Judging: structured and organized
-    - [[Enneagram]]
-        - ^^Am I a 5 (The Thinker)?^^
-        - The Activist
+    - [[Enneagram]] Type Five, Wing 6
+        - General Enneagram
+            - The Centers (Head, Gut, Heart)
+                - Each has a powerful, largely unconscious emotional response to the loss of contact with the core of the self
+                - Thinkers - fear
+                - Instinctives - anger/rage
+                - Feelers - shame
+            - Levels of Development
+                - Healthy
+                    - Level 1: Liberation
+                    - Level 2: Psychological Capacity
+                    - Level 3: Social Value
+                - Average
+                    - Level 4: Imbalance/ Social Role
+                    - Level 5: Interpersonal Control
+                    - Level 6: Overcompensation
+                - Unhealthy
+                    - Level 7: Violation
+                    - Level 8: Obsession and Compulsion
+                    - Level 9: Pathological Destructiveness
+            - Directions of Growth/Integration & Stress/Disintegration
+                - Our goal is to integrate the health potentials of __all__ types
+            - The Three Instincts
+                - The drives are:
+                    - self-preservation (preserve body, life, functioning) "nesters"
+                        - concerned with sufficiency of resources
+                        - safety, comfort, health, energy, and well-being of the physical body
+                        - tend to be grounded, practical, serious, and introverted
+                    - sexual (extend the self into the environment and the future) "attraction"
+                        - drive for stimulation 
+                        - constant awareness of "chemistry"
+                        - require intense energetic charge in primary relations
+                        - seek intimacy
+                    - social (get along with others and form secure bonds) "adaptive"
+                        - adapt to serve the need of the social situation
+                        - highly aware of others and how actions/attitudes affect them
+                        - seek personal connection
+                        - warm, open, engaging, socially responsible
+                - Instintual Stack
+                    - Most (dominant), middle, least developed instincts
+                    - Drives influence personality
+                    - Personality largely determines instinct priorities
+                    - At lower Levels of Development, personality __interferes__ with dominant instinct
+        - **Type Five: The Investigator**
+            - perceptive, innovative, secretive, and isolated
+            - Basic fear: being useless, helpless, or incapable
+            - Basic desire: To be capable and competent
+            - **Key Motivations: **possess knowledge, understand the environment, have everything figured out as a way of defending the self from threats from the environment
+            - __Thinking (Head) Center__
+                - Thinker Fives [[fear]] being useless, helpless, or incapable: 
+                    - fear the outer world and their capacity to cope with it
+                    - cope by withdrawing from the world
+                    - become secretive, isolated loners who use their minds to penetrate into the nature of the world
+                    - hope that eventually, as they understand reality on their own terms, they will be able to rejoin the world and participate in it
+                    - never feel they know enough to participate with total confidence involve themselves with increasingly complex inner worlds
+            - Direction of Stress/Disintegration (Type 7)
+            - Direction of Growth/Integration (Type 8)
+        - **Type Five, Wing 4: The Iconoclast**
+        - ^^**Type Five, Wing 6: The Problem Solver**^^
+            - Type 6:
+                - engaging, responsible, anxious, and suspicious
+                - exhibit the most fear of all three types, largely experienced as [[anxiety]], which causes them to be the most out of touch with their own sense of inner knowing and confidence
+                - Unlike Fives, Sixes have trouble trusting their own minds
+        - I am not a 1! The Activist
             - 1 (Reformer/Perfectionist)
             - Wing 2 (Helper/Giver)
             - Basic fear

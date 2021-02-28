@@ -5084,13 +5084,675 @@
             }
           },
           {
-            "edit-time": 1614242501274,
+            "edit-time": 1614496621122,
             "children": [
               {
-                "string": "^^Am I a 5 (The Thinker)?^^",
+                "string": "General Enneagram",
+                "create-time": 1614497042701,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "The Centers (Head, Gut, Heart)",
+                    "create-time": 1614497166977,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "string": "Each has a powerful, largely unconscious emotional response to the loss of contact with the core of the self",
+                        "create-time": 1614497199963,
+                        "uid": "s9uckdaMM",
+                        "edit-time": 1614497275219,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Thinkers - fear",
+                        "create-time": 1614499001089,
+                        "uid": "RPxNPDlN6",
+                        "edit-time": 1614499018745,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Instinctives - anger/rage",
+                        "create-time": 1614499018706,
+                        "uid": "3Ei0DzYe8",
+                        "edit-time": 1614499062248,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Feelers - shame",
+                        "create-time": 1614499028492,
+                        "uid": "ecZLBhJns",
+                        "edit-time": 1614499064753,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "NhFGJmyt-",
+                    "edit-time": 1614497241180,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Levels of Development",
+                    "children": [
+                      {
+                        "string": "Healthy",
+                        "children": [
+                          {
+                            "string": "Level 1: Liberation",
+                            "uid": "KMJ0Ocmey",
+                            "edit-time": 1614497071222,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Level 2: Psychological Capacity",
+                            "uid": "x5IJhd7-O",
+                            "edit-time": 1614497074030,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Level 3: Social Value",
+                            "uid": "c3PbBzSNG",
+                            "edit-time": 1614497076421,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "_nw_XLiZA",
+                        "edit-time": 1614497156628,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Average",
+                        "children": [
+                          {
+                            "string": "Level 4: Imbalance/ Social Role",
+                            "uid": "8v_SnWX9M",
+                            "edit-time": 1614497080051,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Level 5: Interpersonal Control",
+                            "uid": "nmpbnyqVD",
+                            "edit-time": 1614497082412,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Level 6: Overcompensation",
+                            "uid": "6Bybs5Iev",
+                            "edit-time": 1614497085396,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "pqRd0vI7R",
+                        "edit-time": 1614497158729,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Unhealthy",
+                        "children": [
+                          {
+                            "string": "Level 7: Violation",
+                            "uid": "VAL4Hl_-f",
+                            "edit-time": 1614497088908,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Level 8: Obsession and Compulsion",
+                            "uid": "YcaYlldk-",
+                            "edit-time": 1614497091594,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Level 9: Pathological Destructiveness",
+                            "uid": "KvigDC497",
+                            "edit-time": 1614497094905,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "MTSpoBhDL",
+                        "edit-time": 1614497160119,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "I6zzy0R-R",
+                    "edit-time": 1614497150432,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Directions of Growth/Integration & Stress/Disintegration",
+                    "create-time": 1614497440649,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "string": "Our goal is to integrate the health potentials of __all__ types",
+                        "create-time": 1614497447775,
+                        "uid": "K5UIDnChJ",
+                        "edit-time": 1614497789091,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "ee5sWFb9X",
+                    "edit-time": 1614497517080,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "The Three Instincts",
+                    "create-time": 1614497825226,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "string": "The drives are:",
+                        "create-time": 1614497956968,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "self-preservation (preserve body, life, functioning) \"nesters\"",
+                            "create-time": 1614497839386,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "concerned with sufficiency of resources",
+                                "create-time": 1614498375138,
+                                "uid": "lXjmA6k3s",
+                                "edit-time": 1614498422730,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "safety, comfort, health, energy, and well-being of the physical body",
+                                "create-time": 1614498432882,
+                                "uid": "CLeJQVJyx",
+                                "edit-time": 1614498441470,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "tend to be grounded, practical, serious, and introverted",
+                                "create-time": 1614498474398,
+                                "uid": "AnBnVacrR",
+                                "edit-time": 1614498480145,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "TrBS2t_8E",
+                            "edit-time": 1614498496068,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "sexual (extend the self into the environment and the future) \"attraction\"",
+                            "create-time": 1614497859670,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "drive for stimulation ",
+                                "create-time": 1614498540285,
+                                "uid": "jKcF91Ryg",
+                                "edit-time": 1614498678053,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "constant awareness of \"chemistry\"",
+                                "create-time": 1614498571376,
+                                "uid": "KBa_9d_46",
+                                "edit-time": 1614498579519,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "require intense energetic charge in primary relations",
+                                "create-time": 1614498612797,
+                                "uid": "AkpRDb-pu",
+                                "edit-time": 1614498645151,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "seek intimacy",
+                                "create-time": 1614498769668,
+                                "uid": "rM1CtIR8F",
+                                "edit-time": 1614498773913,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "-fxaV1-1u",
+                            "edit-time": 1614498522902,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "social (get along with others and form secure bonds) \"adaptive\"",
+                            "create-time": 1614497869772,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "adapt to serve the need of the social situation",
+                                "create-time": 1614498690171,
+                                "uid": "XsNBFkicx",
+                                "edit-time": 1614498715458,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "highly aware of others and how actions/attitudes affect them",
+                                "create-time": 1614498719940,
+                                "uid": "mReaOEbug",
+                                "edit-time": 1614498750930,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "seek personal connection",
+                                "create-time": 1614498754327,
+                                "uid": "8mu9JQ9XM",
+                                "edit-time": 1614498765121,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "warm, open, engaging, socially responsible",
+                                "create-time": 1614498803443,
+                                "uid": "p0sUT__1A",
+                                "edit-time": 1614498821791,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "cvqT070EC",
+                            "edit-time": 1614498689888,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "7U6zWlVFN",
+                        "edit-time": 1614498192774,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Instintual Stack",
+                        "create-time": 1614498087847,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Most (dominant), middle, least developed instincts",
+                            "create-time": 1614497993417,
+                            "uid": "GKjA9XETM",
+                            "edit-time": 1614498303260,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Drives influence personality",
+                            "create-time": 1614498065641,
+                            "uid": "P9ClSlq5Q",
+                            "edit-time": 1614498208850,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Personality largely determines instinct priorities",
+                            "create-time": 1614498208830,
+                            "uid": "Y4TqKVd67",
+                            "edit-time": 1614498238573,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "At lower Levels of Development, personality __interferes__ with dominant instinct",
+                            "create-time": 1614498114965,
+                            "uid": "WR5z96Xp6",
+                            "edit-time": 1614498338784,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "IAuNpOpaS",
+                        "edit-time": 1614498093494,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "hc25N56Tf",
+                    "edit-time": 1614497838612,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "gz3BbiIfU",
+                "edit-time": 1614497051898,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "**Type Five: The Investigator**",
                 "create-time": 1613944420483,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "perceptive, innovative, secretive, and isolated",
+                    "create-time": 1614496237003,
+                    "uid": "r_skp7qES",
+                    "edit-time": 1614496252301,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Basic fear: being useless, helpless, or incapable",
+                    "create-time": 1614499240408,
+                    "uid": "Sw55reWc6",
+                    "edit-time": 1614499283534,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Basic desire: To be capable and competent",
+                    "create-time": 1614499283580,
+                    "uid": "abybjpbBh",
+                    "edit-time": 1614499301849,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "**Key Motivations: **possess knowledge, understand the environment, have everything figured out as a way of defending the self from threats from the environment",
+                    "create-time": 1614499384823,
+                    "uid": "clRJPnLYS",
+                    "edit-time": 1614499406924,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "__Thinking (Head) Center__",
+                    "create-time": 1614496262205,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "edit-time": 1614499204565,
+                        "children": [
+                          {
+                            "string": "fear the outer world and their capacity to cope with it",
+                            "create-time": 1614496468164,
+                            "uid": "6Djb7kI57",
+                            "edit-time": 1614496495299,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "cope by withdrawing from the world",
+                            "create-time": 1614496507684,
+                            "uid": "q_2_9oxwd",
+                            "edit-time": 1614497564905,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "become secretive, isolated loners who use their minds to penetrate into the nature of the world",
+                            "create-time": 1614496517438,
+                            "uid": "17Ugyitsz",
+                            "edit-time": 1614496517438,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "hope that eventually, as they understand reality on their own terms, they will be able to rejoin the world and participate in it",
+                            "create-time": 1614496532570,
+                            "uid": "Z-zSmnjak",
+                            "edit-time": 1614496532570,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "never feel they know enough to participate with total confidence involve themselves with increasingly complex inner worlds",
+                            "create-time": 1614496424619,
+                            "uid": "HL9Ikvh0B",
+                            "edit-time": 1614496551029,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "9h3dVgcJP"
+                          }
+                        ],
+                        "uid": "FsZ-w250Z",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "9h3dVgcJP"
+                          }
+                        ],
+                        "string": "Thinker Fives [[fear]] being useless, helpless, or incapable: ",
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "create-time": 1614496298767,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "hguf94F3_",
+                    "edit-time": 1614497621057,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Direction of Stress/Disintegration (Type 7)",
+                    "create-time": 1614497630200,
+                    "uid": "dS_zsqPSp",
+                    "edit-time": 1614497660857,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Direction of Growth/Integration (Type 8)",
+                    "create-time": 1614497662603,
+                    "uid": "bmYOdgJWb",
+                    "edit-time": 1614497677108,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
                 "uid": "sfWiS5yC2",
-                "edit-time": 1613944449414,
+                "edit-time": 1614499144870,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "**Type Five, Wing 4: The Iconoclast**",
+                "create-time": 1614499333535,
+                "uid": "X_1JO0Xtm",
+                "edit-time": 1614499346021,
                 ":create/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 },
@@ -5099,7 +5761,81 @@
                 }
               },
               {
-                "string": "The Activist",
+                "string": "^^**Type Five, Wing 6: The Problem Solver**^^",
+                "create-time": 1614496638907,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "Type 6:",
+                    "create-time": 1614496645405,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "string": "engaging, responsible, anxious, and suspicious",
+                        "create-time": 1614496657004,
+                        "uid": "yv1sEK9IL",
+                        "edit-time": 1614496669986,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "exhibit the most fear of all three types, largely experienced as [[anxiety]], which causes them to be the most out of touch with their own sense of inner knowing and confidence",
+                        "create-time": 1614496737884,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "yDV0zBlef"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "yDV0zBlef"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "uid": "WBn0sYR6c",
+                        "edit-time": 1614496737884,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Unlike Fives, Sixes have trouble trusting their own minds",
+                        "create-time": 1614496670570,
+                        "uid": "6KHq-9bUq",
+                        "edit-time": 1614496792060,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "ZqYhxucnv",
+                    "edit-time": 1614496656692,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "53LNZgIOZ",
+                "edit-time": 1614499361573,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "I am not a 1! The Activist",
                 "create-time": 1613943255864,
                 ":create/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
@@ -5343,7 +6079,7 @@
                   }
                 ],
                 "uid": "1aON6YUV1",
-                "edit-time": 1613943259714,
+                "edit-time": 1614496157647,
                 ":edit/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 }
@@ -5360,7 +6096,7 @@
                 ":block/uid": "XAEUpIiZY"
               }
             ],
-            "string": "[[Enneagram]]",
+            "string": "[[Enneagram]] Type Five, Wing 6",
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
@@ -24422,6 +25158,30 @@
     "title": "VTO",
     "uid": "Ep6Bi12wA",
     "edit-time": 1614494249090,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614496690717,
+    "title": "anxiety",
+    "uid": "yDV0zBlef",
+    "edit-time": 1614496690720,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614497553384,
+    "title": "fear",
+    "uid": "9h3dVgcJP",
+    "edit-time": 1614497553386,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
