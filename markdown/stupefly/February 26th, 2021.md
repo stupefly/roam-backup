@@ -3,7 +3,7 @@
 - {{[[TODO]]}} Take a weekend run! #[[wellness 🕊]]
 - {{[[DONE]]}} Complete roam to github backup 
 https://kuvee.medium.com/a-step-by-step-guide-to-backing-up-your-roam-research-database-356107fe82ee
-- NewProject #roam/templates
+- Project #roam/templates
     - Keywords: #[[🚧 Projects]] 
 Target: {{date}}
 Success: **ACHIEVE by** {{date}}
@@ -19,9 +19,9 @@ Success: **ACHIEVE by** {{date}}
         - RESOURCES_HERE
     - # Tasks
         - TASKS_HERE
-- NewCore #roam/templates
+- DailyCore #roam/templates
     - ⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }} 
-- NewArea #roam/templates
+- Area #roam/templates
     - [[NewArea]]
         - Keywords: #[[🗺 Areas]] 
 **Goal**: 

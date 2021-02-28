@@ -13995,7 +13995,7 @@
         }
       },
       {
-        "edit-time": 1614411759373,
+        "edit-time": 1614472257359,
         "children": [
           {
             "string": "Keywords: #[[🚧 Projects]] \nTarget: {{date}}\nSuccess: **ACHIEVE by** {{date}}",
@@ -14172,7 +14172,7 @@
             ":block/uid": "QkDgwdCwc"
           }
         ],
-        "string": "NewProject #roam/templates",
+        "string": "Project #roam/templates",
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
@@ -14182,7 +14182,7 @@
         }
       },
       {
-        "edit-time": 1614412564562,
+        "edit-time": 1614472279215,
         "children": [
           {
             "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }} ",
@@ -14242,7 +14242,7 @@
             ":block/uid": "QkDgwdCwc"
           }
         ],
-        "string": "NewCore #roam/templates",
+        "string": "DailyCore #roam/templates",
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
@@ -14252,7 +14252,7 @@
         }
       },
       {
-        "edit-time": 1614412726529,
+        "edit-time": 1614472262180,
         "children": [
           {
             "edit-time": 1614412790224,
@@ -14336,7 +14336,7 @@
             ":block/uid": "QkDgwdCwc"
           }
         ],
-        "string": "NewArea #roam/templates",
+        "string": "Area #roam/templates",
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
@@ -20719,23 +20719,117 @@
         }
       },
       {
-        "string": "{{[[TODO]]}} Verify that roam to github backup is working",
-        "create-time": 1614413209906,
+        "string": "{{[[DONE]]}} Verify that roam to github backup is working",
+        "create-time": 1614472244207,
         ":block/refs": [
           {
-            ":block/uid": "hhvTau8RH"
+            ":block/uid": "0HeuefVvJ"
           }
         ],
         "refs": [
           {
-            "uid": "hhvTau8RH"
+            "uid": "0HeuefVvJ"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
+        "uid": "-evtGvrm8",
+        "edit-time": 1614472244207,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "edit-time": 1614472244228,
+        "children": [
+          {
+            "string": "Keywords: #[[🗄 Resources]] ",
+            "create-time": 1614472140773,
+            ":block/refs": [
+              {
+                ":block/uid": "q-ieCA2N0"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "q-ieCA2N0"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "IWKMJbWEr",
+            "edit-time": 1614472151733,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "========================================",
+            "create-time": 1614472151721,
+            "uid": "ybbdNhoYX",
+            "edit-time": 1614472152996,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "QkDgwdCwc"
+          }
+        ],
         "uid": "0jVvAXaU7",
-        "edit-time": 1614451197808,
+        ":block/refs": [
+          {
+            ":block/uid": "QkDgwdCwc"
+          }
+        ],
+        "string": "Resource #roam/templates",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1614413209906,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "edit-time": 1614472238492,
+        "children": [
+          {
+            "string": "========================================",
+            "create-time": 1614472184775,
+            "uid": "JqqRob1lp",
+            "edit-time": 1614472201109,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "QkDgwdCwc"
+          }
+        ],
+        "uid": "mPEwfD-Tr",
+        ":block/refs": [
+          {
+            ":block/uid": "QkDgwdCwc"
+          }
+        ],
+        "string": "Div #roam/templates",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1614472211677,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
