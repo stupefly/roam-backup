@@ -12,6 +12,7 @@
         - Review To-Do List
         - Cascading messages?
         - Rate meeting
+- # To-Do List
 - {{[[table]]}}
     - **Todo Item**
         - **Assigned to**
@@ -28,19 +29,24 @@
     - Document P/R reconciliation process in Confluence
         - CW
             - 6/25/19
-    - Document/implement net asset hack for YIA
-        - CW
-            - 6/25/19
     - Schedule ROEC/ROEV partner review meeting (include CAM rec)
         - BM
             - 6/25/19
     - Establish process for TABS3 payroll / GL integration (import)
-    - Karbonize RED, ALG recurring work
-    - Review POP/PDM pick reports in Bill.com inbox
-    - Move client content from Google Drive to Team Drives
-    - Create Google Groups for all clients (replace default routing)
-    - Generate July/Aug firm financials
+        - BM
+            - 7/9/19
+    - Karbonize ALG recurring work
+        - CW
+            - 7/24/19
     - Develop onshore contract bookkeeper job description
+        - CW
+            - 8/6/19
     - Post contract bookkeeper job to Craigslist, Breeze
+        - BM
+            - 8/6/19
     - Post contract bookkeeper job to CW network
-    - Send July/Aug hourly billings
+        - CW
+            - 8/6/19
+- # Issues List
+    - 1. OFF TRACK - Hire onshore bookkeeper [CW]
+    - 

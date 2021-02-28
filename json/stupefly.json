@@ -20561,7 +20561,20 @@
           }
         ],
         "uid": "gP7EWgvYt",
-        "edit-time": 1614477760890,
+        "edit-time": 1614478904407,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "To-Do List",
+        "create-time": 1614478812065,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "0qNEG7doN",
+        "edit-time": 1614478823698,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -20762,20 +20775,20 @@
             }
           },
           {
-            "string": "Document/implement net asset hack for YIA",
+            "string": "Schedule ROEC/ROEV partner review meeting (include CAM rec)",
             "children": [
               {
-                "string": "CW",
-                "create-time": 1614478494330,
+                "string": "BM",
+                "create-time": 1614478526983,
                 ":create/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 },
                 "children": [
                   {
                     "string": "6/25/19",
-                    "create-time": 1614478519134,
-                    "uid": "L6SQpv66u",
-                    "edit-time": 1614478525566,
+                    "create-time": 1614478536408,
+                    "uid": "QstmkLJ9u",
+                    "edit-time": 1614478544945,
                     ":create/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     },
@@ -20784,30 +20797,8 @@
                     }
                   }
                 ],
-                "uid": "B6a-7mSSZ",
-                "edit-time": 1614478518969,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "w_FzgFmHG",
-            "edit-time": 1614478447164,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Schedule ROEC/ROEV partner review meeting (include CAM rec)",
-            "children": [
-              {
-                "string": "",
-                "create-time": 1614478526983,
                 "uid": "vJ3POUQlR",
-                "edit-time": 1614478526983,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
+                "edit-time": 1614478536187,
                 ":edit/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 }
@@ -20821,6 +20812,34 @@
           },
           {
             "string": "Establish process for TABS3 payroll / GL integration (import)",
+            "children": [
+              {
+                "string": "BM",
+                "create-time": 1614478546524,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "7/9/19",
+                    "create-time": 1614478551162,
+                    "uid": "2WJmPzIYZ",
+                    "edit-time": 1614478555513,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "V-1xa-0sQ",
+                "edit-time": 1614478551170,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
             "uid": "hA07dkWt9",
             "edit-time": 1614478447164,
             ":edit/user": {
@@ -20828,47 +20847,71 @@
             }
           },
           {
-            "string": "Karbonize RED, ALG recurring work",
+            "string": "Karbonize ALG recurring work",
+            "children": [
+              {
+                "string": "CW",
+                "create-time": 1614478557598,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "7/24/19",
+                    "create-time": 1614478561077,
+                    "uid": "xMVdTStbg",
+                    "edit-time": 1614478568800,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "L-pRDVpM0",
+                "edit-time": 1614478561084,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
             "uid": "gVjVCI0CY",
-            "edit-time": 1614478447164,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Review POP/PDM pick reports in Bill.com inbox",
-            "uid": "N0q4EwFoZ",
-            "edit-time": 1614478459906,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Move client content from Google Drive to Team Drives",
-            "uid": "7ASxDNUq_",
-            "edit-time": 1614478459906,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Create Google Groups for all clients (replace default routing)",
-            "uid": "bufRopTKv",
-            "edit-time": 1614478459906,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Generate July/Aug firm financials",
-            "uid": "YH6ExONjw",
-            "edit-time": 1614478459906,
+            "edit-time": 1614478739729,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
           },
           {
             "string": "Develop onshore contract bookkeeper job description",
+            "children": [
+              {
+                "string": "CW",
+                "create-time": 1614478628287,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "8/6/19",
+                    "create-time": 1614478635433,
+                    "uid": "sXGGfGzl1",
+                    "edit-time": 1614478655266,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "hePnknOe-",
+                "edit-time": 1614478635440,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
             "uid": "Y7dcyc28U",
             "edit-time": 1614478459906,
             ":edit/user": {
@@ -20877,6 +20920,34 @@
           },
           {
             "string": "Post contract bookkeeper job to Craigslist, Breeze",
+            "children": [
+              {
+                "string": "BM",
+                "create-time": 1614478660759,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "8/6/19",
+                    "create-time": 1614478670586,
+                    "uid": "fbZ9nl4-g",
+                    "edit-time": 1614478678361,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "KHf9D6ekF",
+                "edit-time": 1614478670593,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
             "uid": "PrOXXZeH2",
             "edit-time": 1614478459906,
             ":edit/user": {
@@ -20885,15 +20956,35 @@
           },
           {
             "string": "Post contract bookkeeper job to CW network",
+            "children": [
+              {
+                "string": "CW",
+                "create-time": 1614478680668,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "8/6/19",
+                    "create-time": 1614478686352,
+                    "uid": "M_GV91cBA",
+                    "edit-time": 1614478690479,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "poIYd3znf",
+                "edit-time": 1614478685243,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
             "uid": "tq37_A7V1",
-            "edit-time": 1614478459906,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Send July/Aug hourly billings",
-            "uid": "KalZ2hRJL",
             "edit-time": 1614478459906,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
@@ -20916,6 +21007,45 @@
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "create-time": 1614477812366,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "Issues List",
+        "create-time": 1614478793521,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "children": [
+          {
+            "string": "1. OFF TRACK - Hire onshore bookkeeper [CW]",
+            "create-time": 1614478830323,
+            "uid": "uZhwXNAsn",
+            "edit-time": 1614478861514,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1614478862166,
+            "uid": "kMnLYDMOk",
+            "edit-time": 1614478862166,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "uid": "Sz9g54VKS",
+        "edit-time": 1614478803934,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
