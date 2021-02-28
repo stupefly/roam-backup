@@ -3,3 +3,5 @@
 - {{[[TODO]]}} Pick up Fishmonger Don order 12:30+ 
 - {{[[TODO]]}} Shop Whole Foods 
 - {{[[TODO]]}} Finish summarizing [enneagram](https://www.enneagraminstitute.com/type-5) in [[_sharpen the saw 🪚]]
+- [[Project/CMA Part 1 Exam]]
+- [[[[🚧 Projects]]/TESTING]]

@@ -68,8 +68,8 @@
   [2 :version/id "0.8.2" 536870914]
   [2
    :version/nonce
-   "uuidaa4c59c8-2416-452d-8c17-1b579c88057b"
-   536881034]
+   "uuid98fb9180-1f42-4130-aad8-43dffe8875a8"
+   536881054]
   [3 :block/uid "rRqBuP6q9" 536870915]
   [3 :user/display-name "Bill Mosca" 536872128]
   [3
@@ -85,7 +85,7 @@
      #{"fKVe43OFU" "a16qO0n6g" "6Jflvdfpt" "Q-I8srLdh"}},
     :allow-custom-components? true,
     :right-sidebar-pinned {}}
-   536881029]
+   536881041]
   [3 :user/uid "5mjtAd6SjFbtrTvvI0SFpKBy4UG3" 536870915]
   [4 :block/children 14 536870936]
   [4 :block/children 21 536870960]
@@ -105,7 +105,7 @@
   [7 :create/time 1613876012806 536870922]
   [7 :create/user 3 536870922]
   [7 :edit/seen-by 3 536878277]
-  [7 :edit/time 1613938062043 536872697]
+  [7 :edit/time 1614539131592 536881053]
   [7 :edit/user 3 536870922]
   [7 :node/title "🚧 Projects" 536872697]
   [7 :page/sidebar 2 536878467]
@@ -17377,6 +17377,8 @@
   [2702 :block/children 3036 536879847]
   [2702 :block/children 3290 536880948]
   [2702 :block/children 3292 536880973]
+  [2702 :block/children 3304 536881035]
+  [2702 :block/children 3305 536881042]
   [2702 :block/open true 536880950]
   [2702 :block/uid "02-28-2021" 536878870]
   [2702 :create/time 1614412321814 536878870]
@@ -21803,4 +21805,34 @@
   [3303 :block/string "" 536881033]
   [3303 :block/uid "vJbQ2y3vY" 536881033]
   [3303 :edit/time 1614538916904 536881033]
-  [3303 :edit/user 3 536881033]]}
+  [3303 :edit/user 3 536881033]
+  [3304 :block/open true 536881035]
+  [3304 :block/order 5 536881035]
+  [3304 :block/page 2702 536881036]
+  [3304 :block/parents 2702 536881036]
+  [3304 :block/refs 2735 536881038]
+  [3304 :block/string "[[Project/CMA Part 1 Exam]]" 536881037]
+  [3304 :block/uid "kNhdsIEWI" 536881035]
+  [3304 :create/time 1614538983507 536881035]
+  [3304 :create/user 3 536881035]
+  [3304 :edit/time 1614538990777 536881037]
+  [3304 :edit/user 3 536881035]
+  [3305 :block/open true 536881042]
+  [3305 :block/order 6 536881042]
+  [3305 :block/page 2702 536881043]
+  [3305 :block/parents 2702 536881043]
+  [3305 :block/refs 7 536881053]
+  [3305 :block/refs 3309 536881053]
+  [3305 :block/string "[[[[🚧 Projects]]/TESTING]]" 536881052]
+  [3305 :block/uid "CCWlKKOcU" 536881042]
+  [3305 :create/time 1614539013678 536881042]
+  [3305 :create/user 3 536881042]
+  [3305 :edit/time 1614539131573 536881052]
+  [3305 :edit/user 3 536881042]
+  [3309 :block/refs 7 536881053]
+  [3309 :block/uid "Iq9E4xyP6" 536881053]
+  [3309 :create/time 1614539131589 536881053]
+  [3309 :create/user 3 536881053]
+  [3309 :edit/time 1614539131592 536881053]
+  [3309 :edit/user 3 536881053]
+  [3309 :node/title "[[🚧 Projects]]/TESTING" 536881053]]}
