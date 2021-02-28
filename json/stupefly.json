@@ -22366,14 +22366,14 @@
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "7JqZWFV56",
-        "edit-time": 1614500197289,
+        "edit-time": 1614538777280,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
       }
     ],
     "uid": "02-28-2021",
-    "edit-time": 1614412365481,
+    "edit-time": 1614538199248,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -25187,6 +25187,68 @@
     ],
     "uid": "03-01-2021",
     "edit-time": 1614499707690,
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614538199395,
+    "title": "parenting",
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    "children": [
+      {
+        "string": "Science-backed strategies to raise social awareness in kids:",
+        "create-time": 1614538480400,
+        "uid": "2JTDDza0M",
+        "edit-time": 1614538480418,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "1. Making music promotes pro-social behavior ",
+        "create-time": 1614538480400,
+        "uid": "KgZ3rBCgv",
+        "edit-time": 1614538480418,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "2. Focusing on others promotes sense of obligation to others and social sensitivity",
+        "create-time": 1614538480400,
+        "uid": "mzmE5dUOK",
+        "edit-time": 1614538480418,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "3. Inquiring about values without judgement buffers self-worth",
+        "create-time": 1614538480400,
+        "uid": "gBB7hZfjt",
+        "edit-time": 1614538480418,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "lJ5GnMjfS",
+    "edit-time": 1614538199399,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }

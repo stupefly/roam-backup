@@ -1,0 +1,4 @@
+- Science-backed strategies to raise social awareness in kids:
+- 1. Making music promotes pro-social behavior 
+- 2. Focusing on others promotes sense of obligation to others and social sensitivity
+- 3. Inquiring about values without judgement buffers self-worth

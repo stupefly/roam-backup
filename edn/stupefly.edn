@@ -68,8 +68,8 @@
   [2 :version/id "0.8.2" 536870914]
   [2
    :version/nonce
-   "uuida54a3996-bc78-4b6b-b0c2-926e3fb4d056"
-   536880997]
+   "uuidaa4c59c8-2416-452d-8c17-1b579c88057b"
+   536881034]
   [3 :block/uid "rRqBuP6q9" 536870915]
   [3 :user/display-name "Bill Mosca" 536872128]
   [3
@@ -85,7 +85,7 @@
      #{"fKVe43OFU" "a16qO0n6g" "6Jflvdfpt" "Q-I8srLdh"}},
     :allow-custom-components? true,
     :right-sidebar-pinned {}}
-   536874925]
+   536881029]
   [3 :user/uid "5mjtAd6SjFbtrTvvI0SFpKBy4UG3" 536870915]
   [4 :block/children 14 536870936]
   [4 :block/children 21 536870960]
@@ -17381,7 +17381,7 @@
   [2702 :block/uid "02-28-2021" 536878870]
   [2702 :create/time 1614412321814 536878870]
   [2702 :create/user 3 536878870]
-  [2702 :edit/time 1614412365481 536878879]
+  [2702 :edit/time 1614538199248 536880998]
   [2702 :edit/user 3 536878870]
   [2702 :log/id 1614499200000 536878870]
   [2702 :node/title "February 28th, 2021" 536878870]
@@ -21727,9 +21727,80 @@
   [3292
    :block/string
    "{{[[TODO]]}} Finish summarizing [enneagram](https://www.enneagraminstitute.com/type-5) in [[_sharpen the saw 🪚]]"
-   536880997]
+   536881016]
   [3292 :block/uid "7JqZWFV56" 536880973]
   [3292 :create/time 1614500034408 536880973]
   [3292 :create/user 3 536880973]
-  [3292 :edit/time 1614500197289 536880997]
-  [3292 :edit/user 3 536880973]]}
+  [3292 :edit/time 1614538777280 536881016]
+  [3292 :edit/user 3 536880973]
+  [3295 :block/children 3296 536881008]
+  [3295 :block/children 3297 536881008]
+  [3295 :block/children 3298 536881008]
+  [3295 :block/children 3299 536881008]
+  [3295 :block/open true 536881008]
+  [3295 :block/uid "lJ5GnMjfS" 536881000]
+  [3295 :create/time 1614538199395 536881000]
+  [3295 :create/user 3 536881000]
+  [3295 :edit/time 1614538199399 536881000]
+  [3295 :edit/user 3 536881000]
+  [3295 :node/title "parenting" 536881000]
+  [3296 :block/open true 536881008]
+  [3296 :block/order 0 536881013]
+  [3296 :block/page 3295 536881009]
+  [3296 :block/parents 3295 536881009]
+  [3296
+   :block/string
+   "Science-backed strategies to raise social awareness in kids:"
+   536881008]
+  [3296 :block/uid "2JTDDza0M" 536881008]
+  [3296 :create/time 1614538480400 536881008]
+  [3296 :create/user 3 536881008]
+  [3296 :edit/time 1614538480418 536881008]
+  [3296 :edit/user 3 536881008]
+  [3297 :block/open true 536881008]
+  [3297 :block/order 1 536881013]
+  [3297 :block/page 3295 536881010]
+  [3297 :block/parents 3295 536881010]
+  [3297
+   :block/string
+   "1. Making music promotes pro-social behavior "
+   536881008]
+  [3297 :block/uid "KgZ3rBCgv" 536881008]
+  [3297 :create/time 1614538480400 536881008]
+  [3297 :create/user 3 536881008]
+  [3297 :edit/time 1614538480418 536881008]
+  [3297 :edit/user 3 536881008]
+  [3298 :block/open true 536881008]
+  [3298 :block/order 2 536881013]
+  [3298 :block/page 3295 536881011]
+  [3298 :block/parents 3295 536881011]
+  [3298
+   :block/string
+   "2. Focusing on others promotes sense of obligation to others and social sensitivity"
+   536881008]
+  [3298 :block/uid "mzmE5dUOK" 536881008]
+  [3298 :create/time 1614538480400 536881008]
+  [3298 :create/user 3 536881008]
+  [3298 :edit/time 1614538480418 536881008]
+  [3298 :edit/user 3 536881008]
+  [3299 :block/open true 536881008]
+  [3299 :block/order 3 536881013]
+  [3299 :block/page 3295 536881012]
+  [3299 :block/parents 3295 536881012]
+  [3299
+   :block/string
+   "3. Inquiring about values without judgement buffers self-worth"
+   536881008]
+  [3299 :block/uid "gBB7hZfjt" 536881008]
+  [3299 :create/time 1614538480400 536881008]
+  [3299 :create/user 3 536881008]
+  [3299 :edit/time 1614538480418 536881008]
+  [3299 :edit/user 3 536881008]
+  [3300 :block/string "]" 536881015]
+  [3300 :block/uid "6cyuI6ota" 536881015]
+  [3300 :edit/time 1614538774255 536881015]
+  [3300 :edit/user 3 536881015]
+  [3303 :block/string "" 536881033]
+  [3303 :block/uid "vJbQ2y3vY" 536881033]
+  [3303 :edit/time 1614538916904 536881033]
+  [3303 :edit/user 3 536881033]]}
