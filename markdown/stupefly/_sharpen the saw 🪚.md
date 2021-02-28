@@ -1,0 +1,36 @@
+- **Standard**: Personal kaizen and deeper understanding of self
+Keywords: #[[🗺 Areas]], #[[active]]
+- ========================================
+- My [[personality]] / [[archetype]]
+    - [[Strengths]]
+        - Analyzer
+        - Learner
+        - Maximizer
+        - Strategist
+    - [[Meyers-Briggs]] INTJ (The Intellectual)
+        - Introversion: draw energy from alone time
+        - Intuition: explore new ideas and think big picture
+        - Thinking: follow "head" and consider facts in decision-making
+        - Judging: structured and organized
+    - [[Enneagram]]
+        - ^^Am I a 5 (The Thinker)?^^
+        - The Activist
+            - 1 (Reformer/Perfectionist)
+            - Wing 2 (Helper/Giver)
+            - Basic fear
+                - Immorality, impure choices
+                - Avoided by conscious effort to make ethical choices
+            - Basic desire
+                - To be upstanding and humane
+            - Strengths
+                - Defense of others
+                - Sensitivity to wishes/needs of others
+                - Community service
+                - Personal sacrafice
+            - Weaknesses
+                - Easily frustrated with others
+                - Image-focused and obsessive
+                - Self-righteous and controlling
+                - Critical of self/others
+            - Stress 4 (Individualist/Romantic)
+            - Health 7 (Enthusiast/Epicure)

@@ -1,0 +1,38 @@
+- Breaktide Training
+    - Basic accounting principles
+        - Double entry accounting
+            - Sum of all transactions = zero (some are +; some are -)
+        - Financial statements
+        - Cash vs Accrual
+    - QBO
+        - Gear Icon
+            - Manage Users
+                - Alex - info@ access?
+                - Primary Admin?
+            - Products & Services
+        - Search 
+            - Search Transactions
+            - Recents
+        - Left Nav Bar
+            - Banking 
+            - Rules
+            - Receipts
+        - Expenses
+        - Invoicing
+            - Invoices
+                - Creating
+                - Payment
+            - Payment Links
+            - Clients
+                - Creating
+                - Deleting
+                - Merging
+        - Projects
+            - Estimates
+            - Invoices
+            - Expenses 
+            - Bills
+        - Reports
+        - Accounting
+            - Chart of accounts
+            - Reconcile

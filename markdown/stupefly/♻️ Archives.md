@@ -1,0 +1,43 @@
+- ### inactive projects, areas, and resources
+- Million dollar firm - panel discussion - QB Connect
+#qbc 
+    - Participants
+        - @jeremymallen
+        - @jasonmblumer
+        - @jcarufe
+        - @debbiekilz
+    - Hourly
+    - Value
+    - Menu
+    - Quote/pay weekly! #[[business model]] #[[acc-sm-sales 🚀]]
+    - Client focus / trust based
+    - High value/high pricing
+    - Two Roads: 23 employees
+    - [[Scaling]] pillars:
+        - 1. Leadership
+        - 2. Sales/marketing
+        - 3. Finance & admin
+        - 4. Delivery of service
+        - 1st two are [[growth]] activities
+    - [[risk]] is needed to break through [[growth]] ceiling
+    - Firing clients: changing product/focus, not good fit any longer
+    - Debra:
+        - Better [[margins]] with service businesses, no [[inventory]], job costing
+        - Forces clients to use certain banks
+        - Runs business from cruise ship
+    - John Maxwell - [[leadership]] books
+    - Andy Stanley [[leadership]] podcast
+    - Don't vary [[process]]
+    - Charge 3-5x hourly wage
+    - 50% min [[gross margin]]
+    - Joe:
+        - $10k/FTE [[bookkeeper]]/mo - minimum
+        - 1:25-30 [[client ratio]] (top performers)
+    - Debra:
+        - $249/mo - support plan
+        - 1:30-40 [[client ratio]]
+    - Tell potential clients how you will serve them and what they need to do #[[acc-sm-sales 🚀]]
+    - Charge more than you think
+    - Get by giving
+    - Embrace [[risk]]!
+

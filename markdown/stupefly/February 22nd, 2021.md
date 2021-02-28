@@ -1,0 +1,49 @@
+- {{[[DONE]]}} BTP Todos #[[Accountiful Todos]] #[[🪓 Core]]
+    - {{[[DONE]]}} Send QBOT invite to Alex
+    - {{[[DONE]]}} Invite Jalena as primary admin in QBO
+    - {{[[DONE]]}} Send uncategorized expenses
+    - {{[[DONE]]}} Send QBO training recording
+- #recruiting next generation
+    - mentoring
+    - networking
+    - client facing
+    - flexibility
+- Four roles of [[leadership]]
+    - pathfinding 
+        - mission
+        - values
+        - vision
+        - strategy
+    - aligning 
+        - technically elegant systems of work that deliver desired results
+    - empowering 
+        - build high trust
+        - productive communication between individuals and teams
+        - innovative results where each team member feels welcome to bring his or her genius to the table
+    - modeling 
+        - the necessary balance between character and competence)
+- [[Kacee Johnson]] - notes from [[qbc]] #marketing
+    - Goal to fire bottom 10% of clients each year 
+    - Established referral agreements - fees to tax advisors, attorney, etc
+    - Establish monthly topic that ties monthly marketing together 
+    - Highest email open rates 6-7am
+    - Recommends Sprout Social for [[SMM]]
+    - Hector Garcia - video marketer
+    - Richard Ropa - [[SMM]] management
+- #[[lead gen]] #marketing
+    - 90% of leads digital 
+    - ProAdvisor profile: picture/reviews
+- [[marketing]], Blumer from [[qbc]] 
+    - Written [[content]] - blog / white papers
+    - Teaching [[content]] - webinars / courses
+    - Podcasting
+    - Facebook Live events
+    - Jason devotes 2 [[content]] days per month
+    - [[fees]] drafted over 12 month contract
+    - [[value proposition]]: we grow companies based on financial information
+- #advisory #[[product development]] #[[acc-sm-prod dev 💥]] #qbc
+    - "Budget" - negative; use "revenue plan" (profit plan)
+    - Consolidate marketing expenses to better understand ROI
+    - Companies focused on revenue growth are more successful than those focused on expense control (expense problems are often just revenue problems)
+
+- #[[mindsweep checklist]]

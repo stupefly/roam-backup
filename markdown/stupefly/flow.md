@@ -1,0 +1,19 @@
+- Pinnacle of learning, experience, and performance
+- Biochemistry
+    - endorphins ➡️ pleasure, inner calm
+    - dopamine ➡️ pattern recognition
+    - anandamide ➡️ divergent lateral thinking
+    - norepinephrine ➡️ focus
+    - nitric oxide ➡️ relaxation, stress reduction
+- Requires effort and attention to attain (engendering resistance)
+    - environmental prep
+    - mental prep
+    - emotional prep
+- Resistance can be overcome with placeholding
+    - break down work into a series of smaller packets/stages
+    - take breaks between packets
+    - create flexibility to allow value creation in different time spans and contexts 
+- Precursors to flow
+    - clear goals
+    - continuous feedback
+    - balance of challenge and skill

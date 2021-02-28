@@ -1,0 +1,4 @@
+- [[🚧 Projects]]
+- [[🗺 Areas]]
+- [[🗄 Resources]]
+- [[♻️ Archives]]

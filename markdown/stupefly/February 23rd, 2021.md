@@ -1,0 +1,23 @@
+- [[Roam]] - [[PARA]] implementation - Praveen Anuraj
+    - https://praveenanuraj.com/para-setup-in-roam-research-manage-project-tasks/
+    - My PARA in Roam
+        - Projects
+            - Sections
+                - Future Projects (someday/maybe)
+                - Active Projects : query [[🚧 Projects]] and status [[active]]
+                - Completed Projects : replaces his [[♻️ Archives]]
+            - Templates
+            - Metadata
+                - Link: (higher level hierarchy such as PARA)
+                - Areas
+                - Resources
+                - Goal
+                - Start date
+                - Due date
+                - Status : #active #deferred
+            - Emojis serve as prefix for specific [[🚧 Projects]]
+            - Pending tasks (uses query of todos associated with project)
+                - Task are tagged with [[🚧 Projects]] and status(?) after soft return
+            - Completed tasks
+- #[[🧩 12 favorite problems]]
+- {{[[DONE]]}} This is overdue #core

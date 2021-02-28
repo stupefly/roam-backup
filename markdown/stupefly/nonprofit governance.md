@@ -1,0 +1,22 @@
+- Executive Committee notes
+    - Legit Purposes
+        - CEO review and compensation negotiation
+        - Act on repetitive and routine financial and legal matters outside of regular board meetings (ideally where the full board has specifically authorized)
+    - Recent trends that reduce need:
+        - Electronic meetings
+        - Emergence of Governance Committees
+    - What is shouldn't be:
+        - Mini board within a board
+        - Constituted by titles (e.g., officers)
+    - Arguments in favor
+        - Quick response to emergencies (Emergencies should be handled by full board; Electronic comms)
+        - Confidentiality (Nothing is confidential to subset of the board; Governance is legal and moral authority of the full board)
+        - Set agenda for / steer board (Delegate to chair and CEO)
+        - "Think tank" for CEO / "Best of breed" (But CEO can always convene a think tank of the members best suited)
+    - Arguments against:
+        - Originate from old-style, top-down corporate model of command and control
+        - Power derived from privilege
+        - Disempowering for non-members
+        - Erodes transparency (and trust) 
+    - Options
+        - Test by suspending committee for 18-24 months

@@ -1,0 +1,6 @@
+- [[Project Todos]]
+- [[Accountiful Todos]]
+- [[Personal Todos]]
+- #scheduled
+- #waiting-for
+- #someday/maybe

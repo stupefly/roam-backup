@@ -1,0 +1,93 @@
+- Keywords: #[[🚧 Projects]] 
+Start: [[June 23rd, 2021]]
+Success: **Pass the CMA Part 1 exam on** [[October 13th, 2021]]
+- ======================================================
+- # Metaplan
+    - **Timeline**
+        - Study Agenda
+            - **June**
+                - CMA Part 1 Study Unit 1 due [[June 27th, 2021]]
+            - **July**
+                - CMA Part 1 Study Unit 2 due [[July 1st, 2021]]
+                - Blackout Date [[July 4th, 2021]]
+                - Blackout Date [[July 5th, 2021]]
+                - CMA Part 1 Study Unit 3 due [[July 8th, 2021]]
+                - CMA Part 1 Study Unit 4 due [[July 13th, 2021]]
+                - CMA Part 1 Study Unit 5 due [[July 18th, 2021]]
+                - CMA Part 1 Study Unit 6 due [[July 22nd, 2021]]
+                - Blackout Date [[July 25th, 2021]]
+                - Blackout Date [[July 26th, 2021]]
+                - Blackout Date [[July 27th, 2021]]
+                - Blackout Date [[July 28th, 2021]]
+                - Blackout Date [[July 29th, 2021]]
+                - Blackout Date [[July 30th, 2021]]
+                - Blackout Date [[July 31st, 2021]]
+            - **August**
+                - CMA Part 1 Study Unit 7 due [[August 2nd, 2021]]
+                - CMA Part 1 Study Unit 8 due [[August 7th, 2021]]
+                - CMA Part 1 Study Unit 9 due [[August 11th, 2021]]
+                - CMA Part 1 Study Unit 10 due [[August 16th, 2021]]
+                - CMA Part 1 Study Unit 11 due [[August 21st, 2021]]
+                - CMA Part 1 Study Unit 12 due [[August 25th, 2021]]
+                - CMA Part 1 Study Unit 13 due [[August 29th, 2021]]
+            - **September**
+                - CMA Part 1 Study Unit 14 due [[September 4th, 2021]]
+                - CMA Part 1 Study Unit 15 due [[September 8th, 2021]]
+                - CMA Part 1 Study Unit 16 due [[September 12th, 2021]]
+                - CMA Part 1 Study Unit 17 due [[September 17th, 2021]]
+                - CMA Part 1 Study Unit 18 due [[September 21st, 2021]]
+                - CMA Part 1 Study Unit 19 due [[September 26th, 2021]]
+                - CMA Part 1 Study Unit 20 due [[September 30th, 2021]]
+            - **October**
+                - ^^**CMA Part 1 Exam Rehearsal due**^^ [[October 5th, 2021]]
+                - CMA Part 1 Final Review [[October 6th, 2021]]
+                - CMA Part 1 Final Review [[October 7th, 2021]]
+                - CMA Part 1 Final Review [[October 8th, 2021]]
+                - CMA Part 1 Final Review [[October 9th, 2021]]
+                - CMA Part 1 Final Review [[October 10th, 2021]]
+                - CMA Part 1 Final Review [[October 11th, 2021]]
+                - CMA Part 1 Final Review [[October 12th, 2021]]
+                - ^^**CMA Part 1 Exam**^^ [[October 13th, 2021]]
+        - [Test windows](https://www.gleim.com/cma-review/cma-testing-windows/)
+            - Sep - Oct 2021
+Registration deadline: [[October 15th, 2021]]
+(Reschedule possible 3+ days before exam date)
+            - Future windows
+                - Jan - Feb 2022
+                - May - Jun 2022
+        - **Test date**: TBD
+            - Reschedule deadline: 3 days before test date
+    - ~~Collaborators~~
+    - Motivation: **To serve **[[accountiful]]** clients with a higher degree of expertise and higher fees!**
+    - Planning resources:
+        - [CMA Study Strategy](https://www.gleim.com/cma-review/cma-study-strategy/)
+- # Resources
+    - [[Gleim CMA Part 1]] [Notes]([[Gleim CMA Part 1]]) | [Course](https://www.gleim.com/account/homepage.php)
+    - [CMA Candidate Handbook](https://www.imanet.org/-/media/6f64b804887641d880afef2178a44b9c.ashx?la=en)
+    - [CMA Exam - Content Specification](https://www.imanet.org/-/media/ceca73b4433f4da7a6c729584a0dff53.ashx?la=en)
+    - [CMA Exam - Learning Outcomes](https://www.imanet.org/-/media/471b35767b1942b3bf0792e81484dec9.ashx?la=en)
+    - [Scheduling Gleim exam date](https://www.gleim.com/cma-review/cma-testing-windows/)
+- # Tasks
+    - {{[[DONE]]}} Plan week-by-week CMA study schedule #core
+    - CMA Part 1 Study Unit 1 due [[June 27th, 2021]]
+    - CMA Part 1 Study Unit 2 due [[July 1st, 2021]]
+    - CMA Part 1 Study Unit 3 due [[July 8th, 2021]]
+    - CMA Part 1 Study Unit 4 due [[July 13th, 2021]]
+    - CMA Part 1 Study Unit 5 due [[July 18th, 2021]]
+    - CMA Part 1 Study Unit 6 due [[July 22nd, 2021]]
+    - CMA Part 1 Study Unit 7 due [[August 2nd, 2021]]
+    - CMA Part 1 Study Unit 8 due [[August 7th, 2021]]
+    - CMA Part 1 Study Unit 9 due [[August 11th, 2021]]
+    - CMA Part 1 Study Unit 10 due [[August 16th, 2021]]
+    - CMA Part 1 Study Unit 11 due [[August 21st, 2021]]
+    - CMA Part 1 Study Unit 12 due [[August 25th, 2021]]
+    - CMA Part 1 Study Unit 13 due [[August 29th, 2021]]
+    - CMA Part 1 Study Unit 14 due [[September 4th, 2021]]
+    - CMA Part 1 Study Unit 15 due [[September 8th, 2021]]
+    - CMA Part 1 Study Unit 16 due [[September 12th, 2021]]
+    - CMA Part 1 Study Unit 17 due [[September 17th, 2021]]
+    - CMA Part 1 Study Unit 18 due [[September 21st, 2021]]
+    - CMA Part 1 Study Unit 19 due [[September 26th, 2021]]
+    - CMA Part 1 Study Unit 20 due [[September 30th, 2021]]
+    - CMA Part 1 Exam Rehearsal due [[October 5th, 2021]]
+    - CMA Part 1 Final Review due [[October 12th, 2021]]

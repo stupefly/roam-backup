@@ -1,0 +1,1 @@
+- roam inbox (also: [[inbox]], [[Quick Capture]])

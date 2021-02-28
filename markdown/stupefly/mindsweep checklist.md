@@ -1,0 +1,234 @@
+- Keywords: #PARA #GTD #productivity
+- Professional
+    - {{[[TODO]]}} [[🚧 Projects]] started, not completed
+    - {{[[TODO]]}} [[🚧 Projects]] that need to be started
+    - Commitments/promises to others
+        - {{[[TODO]]}} Boss/partners
+        - {{[[TODO]]}} Colleagues
+        - {{[[TODO]]}} Subordinates
+        - {{[[TODO]]}} Other people in organization
+        - "Outside" people
+            - {{[[TODO]]}} Customers
+            - {{[[TODO]]}} Other organizations
+            - {{[[TODO]]}} Professionals
+    - Communications to make/get
+        - {{[[TODO]]}} Internal/External
+        - Initiate or respond to:
+            - {{[[TODO]]}} Phone calls
+            - {{[[TODO]]}} Voice-mail
+            - {{[[TODO]]}} E-mail
+            - {{[[TODO]]}} Web pages
+            - {{[[TODO]]}} Letters
+            - {{[[TODO]]}} Memos
+    - Other writing to finish/submit
+        - {{[[TODO]]}} Reports
+        - {{[[TODO]]}} Evaluations/reviews
+        - {{[[TODO]]}} Proposals
+        - {{[[TODO]]}} Articles
+        - {{[[TODO]]}} Promotional materials
+        - {{[[TODO]]}} Manuals/instructions
+        - {{[[TODO]]}} Rewrites and edits
+    - {{[[TODO]]}} Meetings that need to be set/requested
+    - {{[[TODO]]}} Who needs to know about what decisions?
+    - {{[[TODO]]}} Significant read/review
+    - Financial
+        - {{[[TODO]]}} Cash flow
+        - {{[[TODO]]}} Statistics
+        - {{[[TODO]]}} Budgets
+        - {{[[TODO]]}} Forecasts/projections
+        - {{[[TODO]]}} P&Ls
+        - {{[[TODO]]}} Balance sheet
+        - {{[[TODO]]}} Credit line
+    - Planning/organizing
+        - {{[[TODO]]}} Formal planning (goals, targets, objectives)
+        - {{[[TODO]]}} Current projects (next stages)
+        - {{[[TODO]]}} Upcoming projects
+        - {{[[TODO]]}} Business/marketing plans
+        - {{[[TODO]]}} Organizational initiatives
+        - {{[[TODO]]}} Upcoming events
+        - {{[[TODO]]}} Meetings
+        - {{[[TODO]]}} Presentations
+        - {{[[TODO]]}} Organizational structuring
+        - {{[[TODO]]}} Changes in facilities
+        - {{[[TODO]]}} Installation of new systems/equipment
+        - {{[[TODO]]}} Travel
+    - Banks
+        - {{[[TODO]]}} Receivables
+        - {{[[TODO]]}} Payables
+        - {{[[TODO]]}} Petty cash
+    - Administration
+        - {{[[TODO]]}} Legal issues
+        - {{[[TODO]]}} Insurance
+        - {{[[TODO]]}} Personnel
+        - {{[[TODO]]}} Policies/procedures
+    - Customers
+        - {{[[TODO]]}} internal customers
+        - {{[[TODO]]}} external customers
+    - Marketing
+        - {{[[TODO]]}} advertising
+        - {{[[TODO]]}} content production
+        - {{[[TODO]]}} brand management
+    - Sales
+        - {{[[TODO]]}} prospects
+        - {{[[TODO]]}} [[lead gen]]
+    - Client experience
+        - {{[[TODO]]}} onboarding
+        - {{[[TODO]]}} partnership reviews
+    - Systems
+        - {{[[TODO]]}} phones
+        - {{[[TODO]]}} computers
+        - {{[[TODO]]}} office equipment
+        - {{[[TODO]]}} other equipment
+        - {{[[TODO]]}} utilities
+        - {{[[TODO]]}} filing
+        - {{[[TODO]]}} storage
+        - {{[[TODO]]}} inventories
+    - Supplies
+    - Office/site
+        - {{[[TODO]]}} office organization
+        - {{[[TODO]]}} furniture
+        - {{[[TODO]]}} decorations
+    - Waiting for...
+        - {{[[TODO]]}} information
+        - {{[[TODO]]}} delegated tasks/projects
+        - {{[[TODO]]}} completions critical to projects
+        - Replies to:
+            - {{[[TODO]]}} letters
+            - {{[[TODO]]}} memos
+            - {{[[TODO]]}} calls
+            - {{[[TODO]]}} proposals
+            - {{[[TODO]]}} requistions
+            - {{[[TODO]]}} reimbursements
+            - {{[[TODO]]}} petty cash
+            - {{[[TODO]]}} insurance
+            - {{[[TODO]]}} ordered items
+            - {{[[TODO]]}} items being repaired
+            - {{[[TODO]]}} tickets
+            - {{[[TODO]]}} decisions of others
+    - Professional development
+        - {{[[TODO]]}} training/seminars
+        - {{[[TODO]]}} things to learn
+        - {{[[TODO]]}} things to look up
+        - {{[[TODO]]}} skills to practice/learn especially re:computers
+        - {{[[TODO]]}} tape/video training
+        - {{[[TODO]]}} resumes
+    - {{[[TODO]]}} Outside education
+    - {{[[TODO]]}} Research--need to find out about...
+    - {{[[TODO]]}} Professional wardrobe
+- Personal
+    - [[🚧 Projects]] started, not completed
+    - [[🚧 Projects]] that need to be started
+    - Commitments/promises to others
+        - Spouse
+        - Children
+        - Family
+        - Friends
+        - Professionals
+        - Borrowed items
+    - Projects: other organizations
+        - Service
+        - Civic
+        - Volunteer
+    - Communications to make/get
+        - Family
+        - Friends
+        - Professional
+        - Initiate or respond to:
+            - Phone calls
+            - Letters
+            - Cards
+    - Upcoming events
+        - Special occasions
+        - Birthdays
+        - Anniversaries
+        - Weddings
+        - Graduations
+        - Holidays
+        - Travel
+        - Weekend trips
+        - Vacations
+        - Social events
+        - Cultural events
+        - Sporting events
+    - R&D--things to do
+        - Places to go
+        - People to meet/invite
+        - Local attractions
+    - Administration
+        - Financial
+            - Bills
+            - Banks
+            - Investments
+            - Loans
+            - Taxes
+        - Insurance
+        - Legal affairs
+        - Filing
+    - Waiting for...
+        - Mail order
+        - Repair
+        - Reimbursements
+        - Loaned items
+        - Medical data
+        - RSVPs
+    - Home/household
+        - Landlords
+        - Property ownership
+            - Legal
+            - Real estate
+            - Zoning
+            - Taxes
+            - Builders/contractors
+        - Heating/air-conditioning
+        - Plumbing
+        - Electricity
+        - Roofing
+        - Landscape
+        - Driveway
+        - Walls/floors/ceilings
+        - Decoration
+        - Furniture
+        - Utilities
+        - Appliances
+        - Lightbulbs/wiring
+        - Kitchen things
+        - Washer/dryer/vacuum
+        - Areas to organize/clean
+        - TV
+        - DVD
+        - Music/CDs
+        - Cameras/film
+        - Phones
+        - Voicemail/answering machine
+        - Sports equipment
+        - Closets/clothes
+        - Garage/storage
+        - Vehicle repair/maintenance
+        - Tools
+        - Luggage
+        - Pets
+    - Computers
+        - Software
+        - Hardware
+        - Connections
+        - CD-ROM
+        - E-mail/Internet
+    - Health care
+        - Doctors
+        - Dentists
+        - Specialists
+    - Hobbies
+        - Books
+        - Music
+    - Errands
+        - Hardware store
+        - Drugstore
+        - Market
+        - Bank
+        - Cleaner
+        - Stationer
+    - Community
+        - Neighborhood
+        - Schools
+        - Local government
+    - Civic issues

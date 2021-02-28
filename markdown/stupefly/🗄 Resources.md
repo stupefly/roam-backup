@@ -1,0 +1,20 @@
+- ### topics or themes of ongoing interest
+- =========================================
+- #arduino
+- #[[climate change]]
+- #consciousness
+- #cooking
+- #diving
+- #entrepreneurship
+- #gardening
+- #GTD
+- #management
+- #marketing
+- #music
+- #[[nonprofit governance]]
+- #PARA
+- #photography
+- #poetry
+- #productivity
+- #travel
+- #writing

@@ -1,0 +1,25 @@
+- Objective: shift from fleeting moments of insight ➡️ investment in the long future of learning and creation
+- [PARA infographic](https://maggieappleton.com/basb)
+- "Library of the mind" that encourages and enhances states of [[flow]] 
+- Balance of [[discoverability]] (compression of information) and understanding  (preservation of context, utility, and meaning) through progressive summarization
+- Progressive summarization
+    - Opportunistically move notes through layers:
+        - 1. Raw notes 
+        - 2. Bold passages
+        - 3. Highlights
+        - 4. Essential summary (top of note; few sentences tops)
+        - 5. Remix into original creation (article, podcast, tweet storm, newsletter)
+    - Focus on 'resonance' when summarizing; don't worry about the 'bigger picture'
+- What "[[🧩 12 favorite problems]] will guide you in the next years? - Richard Feynman method 
+    - "You have to keep a dozen of your favorite problems constantly present in your mind, although by and large, they will lay in a dormant state. Every time you hear read a new trick or a new result, test it against each of your 12 problems to see whether it helps. Every once in a while there will be a hit and people will say “How did he do it. He must be a genius.” - RF
+- [[🗄 Resources]] note guidelines
+    - Qualities
+        - personal
+        - unpolished
+        - diverse media
+        - open ended
+    - meaningful interaction with information encodes knowledge in internal and external 'brains'
+        - see, write, draw, perform, produce, sell,...
+- [[Second brain]]
+    - accumulation is slow, over time (orderly, calm)
+    - retrieval is rapid (chaotic)

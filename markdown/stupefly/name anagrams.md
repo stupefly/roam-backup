@@ -1,0 +1,29 @@
+- William Mosca
+    - Willis Accoma
+    - Wallis Momcia
+    - Swami Mollcia
+    - Swami Clamoil
+    - Swami Calmoil
+    - Will Amos Mica
+    - Wilma Lois Cam
+    - Wilma MacLois
+    - Wilma Lois Mac
+    - Willis MacMao
+    - Willis Macoma
+    - Wilma Scamoil
+- William F Mosca
+    - Camilla Swimof
+    - Willis MacFoam
+    - Swami Malifloc
+- William Francis Mosca
+    - Wilma Simons Farcical
+    - Willis Scarfammoniac
+    - Swami Cosmic Rainfall
+    - Francisco Slim Malawi
+    - Monica Scarf Williams
+- [Bill Mosca]([[me]])
+    - Boca Mills
+    - Slim Bloca
+    - Sam Cobill
+    - Sam Ciboll
+    - Mac Sobill

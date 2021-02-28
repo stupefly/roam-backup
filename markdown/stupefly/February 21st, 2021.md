@@ -1,0 +1,25 @@
+- [[⚙️ Vault]]
+- Blog Post Ideas
+    - Keywords: #[[Ideas for content]] #[[acc-sm-marketing 📣]] 
+    - Contractor vs employee: The Gig Economy & Employee Classification
+    - Cash vs accrual 
+    - Meal expenses
+    - Profit vs cash flow
+    - W9s, 1099s, & backup withholdings
+    - Benefits of cloud accounting
+    - Benefits of virtual accounting
+    - The virtual CFO
+- #[[clothing sizes]] 
+    - Keywords: #[[family 👨‍👩‍👦‍👦]]
+    - Me 
+        - Jacket: 40 Reg
+        - Shirt: 16-1/2 x 34/35
+        - Hat: 7-1/2
+        - Skis: 174-175
+        - Helmet: L
+    - Cecily
+        - 6 or 8
+        - Medium
+        - shoe size: 7-1/2
+    - Julian 
+    - Jay

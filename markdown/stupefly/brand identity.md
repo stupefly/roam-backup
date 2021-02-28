@@ -1,0 +1,4 @@
+- #branding
+- Entrepreneurial virtues - Tolerance of / comfort with uncertainty & ambiguity 
+- Learning-first mentality
+- Agile thinking

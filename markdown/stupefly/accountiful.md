@@ -1,0 +1,9 @@
+- Areas
+    - [[acc-integrator ☯️]]
+    - [[acc-sm-client xp 🪄]]
+    - [[acc-sm-prod dev 💥]]
+    - [[acc-sm-marketing 📣]]
+    - [[acc-sm-sales 🚀]]
+    - [[acc-fa-finance 💰]]
+    - [[acc-fa-admin 💼]]
+- #EOS

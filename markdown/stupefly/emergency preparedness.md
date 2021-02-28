@@ -1,0 +1,247 @@
+- Keywords: #[[family 👨‍👩‍👦‍👦]]
+- ========================================
+- Emergency Supplies
+    - Go Bags
+        - Go Bag - At Go
+            - {{[[TODO]]}} Boots, ankle, waterproof 
+        - GO BAG - All
+            - Clothing:
+                - {{[[TODO]]}} Underwear, wicking
+                - {{[[TODO]]}} Socks, wool x 3
+                - {{[[TODO]]}} Shirt, Light-weight, long sleeve 
+                - {{[[TODO]]}} Pants, long, wool blend / polyester-nylon blend 
+                - {{[[TODO]]}} Fleece, heavyweight 
+                - {{[[TODO]]}} Fleece, mid-weight 
+                - {{[[TODO]]}} Undershirt, light-weight, wicking
+                - {{[[TODO]]}} Hat, crushable, brimmed
+                - {{[[TODO]]}} Jacket/shell
+                - {{[[TODO]]}} Rain pants
+                - {{[[TODO]]}} Hat, warm
+                - {{[[TODO]]}} Gloves, warm
+                - {{[[TODO]]}} Shemagh/kufiya 
+        - GO BAG - Primary
+            - {{[[TODO]]}} Backpack, internal frame  
+            - {{[[TODO]]}} Water bottle, 1L, Nalgene x 4 (duct tape wrapped)
+            - {{[[TODO]]}} Water bottle, 1L, metal x 4
+            - {{[[TODO]]}} Water bottle, Platypus (soft) x 4L
+            - {{[[TODO]]}} Water filter (Katadyn Hiker Pro)
+            - {{[[TODO]]}} Water filter, straw
+            - {{[[TODO]]}} Water purifier
+            - {{[[TODO]]}} Energy bars
+            - {{[[TODO]]}} Oatmeal (sweetened)
+            - {{[[TODO]]}} Nuts
+            - {{[[TODO]]}} Dried fruit
+            - {{[[TODO]]}} Jerky
+            - {{[[TODO]]}} Dehydrated camp meals
+            - {{[[TODO]]}} Candy/chocolate bars
+            - {{[[TODO]]}} Dehydrated meals, 3 dinners x 4 people
+            - {{[[TODO]]}} Camp pot, 1-2L, nonstick 
+            - {{[[TODO]]}} Glacier Bottle Cup from gsioutdoors.com x 4
+            - {{[[TODO]]}} Spork x 4
+            - {{[[TODO]]}} P-38 can opener 
+            - {{[[TODO]]}} Scrub pad
+            - {{[[TODO]]}} Fire starter kit
+            - {{[[TODO]]}} Camp stove
+            - {{[[TODO]]}} Stove fuel 
+            - {{[[TODO]]}} Work gloves 
+        - GO BAG - Secondaries (Adult)
+            - {{[[TODO]]}} Backpack, frameless
+            - {{[[TODO]]}} Trash bag liner, heavy duty
+            - {{[[TODO]]}} Rain cover
+            - {{[[TODO]]}} Work gloves
+            - {{[[TODO]]}} ID tag (for bag)
+            - {{[[DONE]]}} Flashlight
+            - {{[[TODO]]}} Radio – battery operated *** have one spare emergency radio***
+            - {{[[DONE]]}} Flashlight batteries
+            - {{[[TODO]]}} Radio batteries
+            - {{[[TODO]]}} Whistle
+            - {{[[DONE]]}} Dust mask
+            - {{[[DONE]]}} Pocket knife / multi-tool  ***still need pocket knife for Ann***
+            - {{[[TODO]]}} Emergency cash in small denominations and quarters for phone calls
+            - {{[[TODO]]}} Sturdy shoes
+            - {{[[TODO]]}} change of clothes
+            - {{[[TODO]]}} Jacket / warm clothes
+            - {{[[TODO]]}} warm hat
+            - {{[[TODO]]}} warm socks 
+            - {{[[TODO]]}} Local map
+            - {{[[TODO]]}} 2400 calorie food bars
+            - {{[[TODO]]}} Aqua blox
+            - {{[[TODO]]}} waterproof pouch
+            - {{[[DONE]]}} Permanent marker, paper and tape
+            - {{[[TODO]]}} Photos of family members and pets for re-identification purposes
+            - {{[[TODO]]}} List of emergency point-of-contact phone numbers
+            - {{[[TODO]]}} List of allergies to any drug (especially antibiotics) or food
+            - {{[[TODO]]}} Copy of health insurance and identification cards
+            - {{[[TODO]]}} Extra prescription eye glasses, hearing aid or other vital personal items
+            - {{[[TODO]]}} Prescription medications 
+            - {{[[TODO]]}} Basic first aid supplies ***need to define***
+            - {{[[TODO]]}} Toothbrush
+            - {{[[TODO]]}} toothpaste
+            - {{[[DONE]]}} Large plastic bag
+            - {{[[TODO]]}} Zip lock bags
+            - {{[[TODO]]}} space blanket
+            - {{[[TODO]]}} Extra keys to house and vehicle
+            - {{[[TODO]]}} Cold Steel Inferno pepper spray, 1.3oz (Velcro to pack strap)
+            - {{[[TODO]]}} Taurus 605
+            - {{[[TODO]]}} Any special-needs items for children, seniors or people with disabilities.
+        - GO BAG - Kids
+            - {{[[TODO]]}} Backpack, small frameless 
+            - {{[[TODO]]}} clothing, hygiene items, bedding, and maybe a small toy.
+    - ESSENTIALS
+        - {{[[TODO]]}} Kit container
+        - {{[[TODO]]}}  (1) First Aid Kit & Guide ***supplies list below***
+        - {{[[TODO]]}} High power flashlight
+        - {{[[TODO]]}} Flashlight batteries
+        - {{[[TODO]]}} Bulbs, flashlight extras
+        - {{[[TODO]]}} (27) 8.45 oz. Aqua Blox (Purified Water) 
+        - {{[[TODO]]}} (2) Water containers, 5 gallon with 8 drops of bleach per gallon 
+            - [min 1 gallon/person/day * 3 days * 4 person = 12 gallons, max 1 * 14 * 3 = 42]
+        - {{[[TODO]]}} Lantern
+        - {{[[TODO]]}} Lantern fuel/batteries
+        - {{[[TODO]]}} Emergency radio
+        - {{[[TODO]]}} Radio batteries
+        - {{[[TODO]]}} (5) 2400 caloric food bars
+        - {{[[TODO]]}} Can opener
+        - {{[[TODO]]}} 7 days Canned/dehydrated food
+        - {{[[TODO]]}} Blankets
+        - {{[[TODO]]}} Purification Tablets
+        - {{[[TODO]]}} Cash/change
+        - {{[[TODO]]}} List of phone numbers
+        - {{[[TODO]]}} Prepaid phone card
+        - {{[[TODO]]}} House/car keys
+        - {{[[TODO]]}} Multitool *** In personal go bag ***
+        - {{[[TODO]]}} Waterproof document holder
+        - {{[[TODO]]}} Copies of Will, insurance policies, contracts, deeds, stocks and bonds, Photo IDs, passports, social security cards, immunization records, Bank account numbers, Credit card account numbers and companies, Inventory of valuable household goods, important telephone numbers, Family records (birth, marriage, death certificates), Photocopies of credit and identification cards
+    - PERSONAL ESSENTIALS (tied to bed)
+        - {{[[TODO]]}} Shoes, sturdy
+        - {{[[TODO]]}} Flashlight *** need 2 more flashlights***
+        - {{[[TODO]]}} Plastic bag
+        - {{[[TODO]]}} Rope
+    - SANITATION
+        - {{[[TODO]]}} (20) Cleansing Wipes
+        - {{[[TODO]]}} (2 ea.) Tissue and Toilet Paper
+        - {{[[DONE]]}} (10) Large Waste Bags, heavy duty
+        - {{[[TODO]]}} Plastic bags, large and small ziplock
+        - {{[[TODO]]}} Cheese cloth
+        - {{[[TODO]]}} Shampoo
+        - {{[[TODO]]}} Tampons
+        - {{[[TODO]]}} Toothpaste/toothbrush
+        - {{[[TODO]]}} Soap - hand/body
+        - {{[[TODO]]}} Hand sanitizer
+        - {{[[TODO]]}} Detergent Soap
+        - {{[[TODO]]}} Bleach
+        - {{[[TODO]]}} Eye dropper
+        - {{[[TODO]]}} Powdered chlorine lime
+        - {{[[TODO]]}} Portable camp toilet
+    - TOOLS & SUPPLIES
+        - {{[[DONE]]}} (2 pair) Leather Work Gloves
+        - {{[[TODO]]}} (2) Screwdrivers
+        - {{[[TODO]]}} (1) Crescent Wrench
+        - {{[[TODO]]}} (1) Duct Tape
+        - {{[[DONE]]}} (1) Rope 1/4" x 50' 
+        - {{[[TODO]]}} (1) Rope 1/2" x 50' 
+        - {{[[TODO]]}} (1) Rope 3/4" x 50' 
+        - {{[[TODO]]}} (1) Wire, coiled
+        - {{[[TODO]]}} (1) Knife
+        - {{[[TODO]]}} Utility knife
+        - {{[[DONE]]}} Crowbar
+        - {{[[TODO]]}} Axe (firemans) /maul, 6# 
+        - {{[[DONE]]}} Shovel, flat head
+        - {{[[DONE]]}} Shovel, pointed
+        - {{[[TODO]]}} Broom
+        - {{[[TODO]]}} Pliers
+        - {{[[TODO]]}} Hammer
+        - {{[[TODO]]}} Nails
+        - {{[[TODO]]}} Screwdriver
+        - {{[[DONE]]}} Plastic sheeting, 4 mil x 10' x 25'
+        - {{[[TODO]]}} Bungee cords
+        - {{[[DONE]]}} Tie wraps
+        - {{[[TODO]]}} City map
+        - {{[[TODO]]}} Disposable camera
+        - {{[[TODO]]}} Plywood, front door with screws
+    - SAFETY & COMFORT
+        - {{[[TODO]]}} (10) Space Blanket
+        - {{[[TODO]]}} (15) Light Sticks
+        - {{[[TODO]]}} Signal flare
+        - {{[[TODO]]}} Sunscreen
+        - {{[[TODO]]}} (1) A-B-C rated fire extinguisher
+        - ^ Jacket / warm clothes *in personal go bag***
+        - ^ 1 change of clothes *** in personal go bag***
+        - ^ Sturdy shoes ***in personal go bag***
+        - {{[[TODO]]}} Sunglasses
+        - {{[[DONE]]}} N95 respirators
+        - {{[[DONE]]}} Hard hat
+        - {{[[TODO]]}} Socks
+        - {{[[TODO]]}} sleeping bags
+        - ^ Spare glasses ***in personal go bag***
+        - {{[[TODO]]}} Rain gear
+        - {{[[TODO]]}} Tube tent
+        - {{[[TODO]]}} (2) Tarp, 8' x 10'
+        - {{[[TODO]]}} Candles
+        - {{[[DONE]]}} Drinking water hose
+        - {{[[TODO]]}} Compass
+        - {{[[TODO]]}} Paper, pens, stamps, envelopes
+        - {{[[TODO]]}} Needle & thread
+        - {{[[TODO]]}} Medicine dropper
+        - {{[[TODO]]}} Whistle
+        - {{[[TODO]]}} Deck of cards
+        - {{[[TODO]]}} Books & games
+    - COOKING
+        - {{[[TODO]]}} Waterproof matches
+        - {{[[TODO]]}} Mess kits
+        - {{[[TODO]]}} Plastic utensils
+        - {{[[TODO]]}} Paper plates/cups
+        - {{[[TODO]]}} Paper towels
+        - {{[[TODO]]}} AL foil
+        - {{[[TODO]]}} Stove/Grill/Charcoal
+        - {{[[TODO]]}} Cooking fuel
+        - {{[[TODO]]}} Can opener
+    - CAR KIT
+        - {{[[TODO]]}} Carrying bag
+        - {{[[TODO]]}} Radio, battery powered
+        - {{[[TODO]]}} Batteries
+        - {{[[TODO]]}} Flashlight
+        - {{[[TODO]]}} Multitool
+        - {{[[TODO]]}} Gloves
+        - {{[[TODO]]}} Matches & lighter
+        - {{[[TODO]]}} Blanket
+        - {{[[TODO]]}} Booster cables
+        - {{[[TODO]]}} Fire extinguisher (5#, ABC)
+        - {{[[TODO]]}} First aid kit
+        - {{[[TODO]]}} Water
+        - {{[[TODO]]}} Food, non-perishable
+        - {{[[TODO]]}} Maps
+        - {{[[TODO]]}} Shovel
+        - {{[[TODO]]}} Tire repair kit
+        - {{[[TODO]]}} Pump
+        - {{[[TODO]]}} Flares
+    - FIRST AID (PRIMARY)
+        - {{[[TODO]]}} Sterile adhesive bandages in assorted sizes
+        - {{[[TODO]]}} 2-inch sterile gauze pads (4-6)
+        - {{[[TODO]]}} 4-inch sterile gauze pads (4-6)
+        - {{[[TODO]]}} Hypoallergenic adhesive tape
+        - {{[[TODO]]}} Triangular bandages (3)
+        - {{[[TODO]]}} 2-inch sterile roller bandages (3 rolls)
+        - {{[[TODO]]}} 3-inch sterile roller bandages (3 rolls)
+        - {{[[TODO]]}} Scissors
+        - {{[[TODO]]}} Tweezers
+        - {{[[TODO]]}} Needle
+        - {{[[TODO]]}} Moistened antibiotic towelettes
+        - {{[[TODO]]}} Antiseptic
+        - {{[[TODO]]}} Antibiotic ointment
+        - {{[[TODO]]}} Eye wash solution
+        - {{[[TODO]]}} Thermometer
+        - {{[[TODO]]}} Tongue blades (2)
+        - {{[[TODO]]}} Tube of petroleum jelly or other lubricant
+        - {{[[TODO]]}} Assorted sizes of safety pins
+        - {{[[TODO]]}} Cleansing agent/soap
+        - {{[[TODO]]}} Latex gloves (2 pair)
+        - {{[[TODO]]}} Aspirin or nonaspirin pain reliever
+        - {{[[TODO]]}} Anti-diarrhea medication
+        - {{[[TODO]]}} Antacid (for stomach upset)
+        - {{[[TODO]]}} Syrup of Ipecac (use to induce vomiting if advised by the Poison Control Center)
+        - {{[[TODO]]}} Laxative
+        - {{[[TODO]]}} Activated charcoal (use if advised by the Poison Control Center)
+        - {{[[TODO]]}} Prescription meds
+    - FIRST AID KIT (CAR)
+    - FIRST AID KIT (GO BAGS)

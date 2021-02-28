@@ -1,0 +1,26 @@
+- Emotional Branding
+    - #[[acc-sm-marketing 📣]]
+    - Justice 
+    - Security 
+    - Integrity
+    - People buy highly focused promises. A focused brand promise boils down to a single word that distinguishes the brand in the consumer mind.
+    - [[Cults]] provide:
+        - belonging and meaning; 
+        - a “meaning system”; 
+        - spirituality and evangelism; 
+        - “loyalty beyond reason”;
+    - “Lovemarks” don’t sell a product but a culture and lifestyle.
+    - [[Clotaire Rappalle]]: “Reptilian hot button”
+    - Narrow brands work best.
+    - Mission must relate directly to brand.
+    - Sustained differentiation depends upon:
+        - Superior customer service 
+        - Useful information 
+        - Commitment to shared values
+    - Principal value elements:
+        - 1. Fellowship. sense of community, belonging, identity, connectedness, shared fate, common purpose, personal experience, and mutual support. 
+        - 2. Mutual assistance. collaboration, cooperation, shared resources, mutual aid, mutual solutions to mutual problems, collective advantage, joint business. 
+        - 3. Learning and growth. broaden personal or professional qualifications, share knowledge and information, learn from each other, growth through quality relationships. 
+        - 4. Advocacy. joint effort, mediated by the association, that enables members to make voices heard and interests known to those who influence the political, legal, and social context. 
+        - 5. Unique products and services. Special credentials, testing, specialized information, unique educational experiences, referral networks, communities of interest or practice, personal services of practical value (insurance, legal, health).
+    - Focus on one or a few of the five principle value elements.
