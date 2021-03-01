@@ -6,6 +6,7 @@
 - #cooking
 - #diving
 - #entrepreneurship
+- #EOS
 - #gardening
 - #GTD
 - #management

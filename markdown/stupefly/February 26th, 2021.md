@@ -1,4 +1,4 @@
-- {{[[TODO]]}} Take a weekend run! #[[wellness 🕊]]
+- {{[[DONE]]}} Take a weekend run! #[[wellness 🕊]]
 - {{[[DONE]]}} Complete roam to github backup 
 https://kuvee.medium.com/a-step-by-step-guide-to-backing-up-your-roam-research-database-356107fe82ee
 - Project #roam/templates

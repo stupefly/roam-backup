@@ -342,6 +342,28 @@
         }
       },
       {
+        "string": "#EOS",
+        "create-time": 1614577411065,
+        ":block/refs": [
+          {
+            ":block/uid": "F6v0N6iRY"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "F6v0N6iRY"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "6CeO7e7Q3",
+        "edit-time": 1614577417908,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
         "string": "#gardening",
         "create-time": 1613934309860,
         ":block/refs": [
@@ -5751,6 +5773,132 @@
                     ],
                     "uid": "bmYOdgJWb",
                     "edit-time": 1614497677108,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Type Five - Levels of Development",
+                    "create-time": 1614578365851,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "string": "**Healthy Levels**",
+                        "children": [
+                          {
+                            "string": "**Level 1 (At Their Best):** Become [visionaries]([[visionary]]), broadly comprehending the world while penetrating it profoundly. ^^Open-minded, take things in whole, in their true context^^. Make pioneering discoveries and find entirely new ways of doing and perceiving things.",
+                            "refs": [
+                              {
+                                "uid": "cXu2zjQP2"
+                              }
+                            ],
+                            "uid": "X0ERNsTZj",
+                            "edit-time": 1614578608564,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "cXu2zjQP2"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "**Level 2:** Observe everything with extraordinary perceptiveness and insight. Most mentally alert, curious, searching intelligence: nothing escapes their notice. Foresight and prediction. Able to concentrate: become engrossed in what has caught their attention.",
+                            "uid": "csINPexNM",
+                            "edit-time": 1614578378793,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "**Level 3:** Attain skillful mastery of whatever interests them. Excited by knowledge: often become expert in some field. Innovative and inventive, producing extremely valuable, original works. Highly independent, idiosyncratic, and whimsical.",
+                            "uid": "3wuWCKtXZ",
+                            "edit-time": 1614578378793,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "G6Qmy-2eb",
+                        "edit-time": 1614578378793,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "**Average Levels**",
+                        "children": [
+                          {
+                            "string": "**Level 4**: Begin conceptualizing and fine-tuning everything before acting—working things out in their minds: model building, preparing, practicing, and gathering more resources. Studious, acquiring technique. Become specialized, and often \"intellectual,\" often challenging accepted ways of doing things.",
+                            "uid": "ehkOefBbb",
+                            "edit-time": 1614578378793,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "**Level 5:** Increasingly detached as they become involved with complicated ideas or imaginary worlds. Become preoccupied with their visions and interpretations rather than reality. Are fascinated by off-beat, esoteric subjects, even those involving dark and disturbing elements. Detached from the practical world, a \"disembodied mind,\" although high-strung and intense.",
+                            "uid": "XiF1BYPC2",
+                            "edit-time": 1614578378793,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "**Level 6:** Begin to take an antagonistic stance toward anything which would interfere with their inner world and personal vision. Become provocative and abrasive, with intentionally extreme and radical views. Cynical and argumentative.",
+                            "uid": "wEnqBDXI5",
+                            "edit-time": 1614578378793,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "pv7ZAjtJz",
+                        "edit-time": 1614578378793,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "**Unhealthy Levels**",
+                        "children": [
+                          {
+                            "string": "**Level 7:** Become reclusive and isolated from reality, eccentric and nihilistic. Highly unstable and fearful of aggressions: they reject and repulse others and all social attachments.",
+                            "uid": "ypPyaf1Wd",
+                            "edit-time": 1614578378793,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "**Level 8:** Get obsessed yet frightened by their threatening ideas, becoming horrified, delirious, and prey to gross distortions and phobias.",
+                            "uid": "sIz9FUzmv",
+                            "edit-time": 1614578378793,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "**Level 9:** Seeking oblivion, they may commit suicide or have a psychotic break with reality. Deranged, explosively self-destructive, with schizophrenic overtones. Generally corresponds to the Schizoid Avoidant and Schizotypal personality disorders.",
+                            "uid": "KufqX0KKX",
+                            "edit-time": 1614578378793,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "n6IgbNikl",
+                        "edit-time": 1614578378793,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "RnYw-dCSa",
+                    "edit-time": 1614578375872,
                     ":edit/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     }
@@ -13934,10 +14082,34 @@
             }
           },
           {
-            "string": "How can I spend more time in nature? ",
+            "string": "How to spend more time in nature? ",
             "create-time": 1614145462299,
             "uid": "S5tUf3OSl",
-            "edit-time": 1614145483007,
+            "edit-time": 1614578056625,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "How to arrest climate change?",
+            "create-time": 1614577897751,
+            "uid": "hEQIDL_sY",
+            "edit-time": 1614578061329,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "How to sustain good physical health?",
+            "create-time": 1614577970892,
+            "uid": "Yglodp0aH",
+            "edit-time": 1614578064876,
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
@@ -13998,47 +14170,11 @@
   {
     "create-time": 1614181159507,
     "title": "February 24th, 2021",
+    "uid": "02-24-2021",
+    "edit-time": 1614196268771,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
-    "children": [
-      {
-        "string": "",
-        "create-time": 1614239974762,
-        "uid": "7I16jrWNF",
-        "edit-time": 1614239974762,
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "#[[Quick Capture]]",
-        "create-time": 1614196246750,
-        ":block/refs": [
-          {
-            ":block/uid": "sSeeG88c9"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "sSeeG88c9"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "jCL83ZkiN",
-        "edit-time": 1614196268771,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      }
-    ],
-    "uid": "02-24-2021",
-    "edit-time": 1614196268771,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -14761,14 +14897,14 @@
     },
     "children": [
       {
-        "string": "{{[[TODO]]}} Take a weekend run! #[[wellness 🕊]]",
+        "string": "{{[[DONE]]}} Take a weekend run! #[[wellness 🕊]]",
         "create-time": 1614410137990,
         ":block/refs": [
           {
             ":block/uid": "FI7ANDPOP"
           },
           {
-            ":block/uid": "hhvTau8RH"
+            ":block/uid": "0HeuefVvJ"
           }
         ],
         "refs": [
@@ -14776,14 +14912,14 @@
             "uid": "FI7ANDPOP"
           },
           {
-            "uid": "hhvTau8RH"
+            "uid": "0HeuefVvJ"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "KG8oOeY0g",
-        "edit-time": 1614410137990,
+        "edit-time": 1614577778964,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -21254,554 +21390,138 @@
     },
     "children": [
       {
-        "string": "[[L10]] Meeting Agenda",
-        ":block/refs": [
-          {
-            ":block/uid": "LbQzpgQmx"
-          }
-        ],
-        "heading": 1,
-        "refs": [
-          {
-            "uid": "LbQzpgQmx"
-          }
-        ],
+        "edit-time": 1614576785312,
         "children": [
           {
-            "string": "**Segue**\t5 minutes",
-            "uid": "3FNGYGIg5",
-            "edit-time": 1614477720238,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "**Scorecard **\t5 minutes",
-            "uid": "eopGafEk-",
-            "edit-time": 1614477720238,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "**Rock review [on/off track]**\t5 minutes",
-            "uid": "x7Ccv3o1V",
-            "edit-time": 1614477720238,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "**Client/EE headlines**\t5 minutes",
-            "uid": "LUqU0woio",
-            "edit-time": 1614477720238,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "**To-Do List [done/not]**\t5 minutes",
-            "uid": "z9YRdfUI1",
-            "edit-time": 1614477720238,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "**IDS**\t60 minutes",
+            "edit-time": 1614576796320,
             "children": [
               {
-                "string": "Identify",
-                "uid": "Lcd_b5JnT",
-                "edit-time": 1614477720238,
-                ":edit/user": {
+                "string": "[L10 - archive](https://drive.google.com/drive/folders/1x-tmNNj3tdGTwnRfQEaU4XVav5dXdwoa?usp=sharing) #google-drive",
+                "create-time": 1614576981187,
+                ":block/refs": [
+                  {
+                    ":block/uid": "YBL2sa9bu"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "YBL2sa9bu"
+                  }
+                ],
+                ":create/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Discuss",
-                "uid": "XxX3TdXIH",
-                "edit-time": 1614477720238,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Solve",
-                "uid": "dVsqFszSL",
-                "edit-time": 1614477720238,
+                },
+                "uid": "E9OD_Q0Ct",
+                "edit-time": 1614577014064,
                 ":edit/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 }
               }
             ],
-            "uid": "UIqveRMjD",
-            "edit-time": 1614477720238,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "**Conclude**\t5 minutes",
-            "children": [
+            "refs": [
               {
-                "string": "Review To-Do List",
-                "uid": "Kc6qIgo9N",
-                "edit-time": 1614477720238,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Cascading messages?",
-                "uid": "yL0U2yF1I",
-                "edit-time": 1614477720238,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Rate meeting",
-                "uid": "UBBEPABNz",
-                "edit-time": 1614477720238,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
+                "uid": "Rkx3VhQ_T"
               }
             ],
-            "uid": "yOiSzfQ0K",
-            "edit-time": 1614477720238,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          }
-        ],
-        "uid": "gP7EWgvYt",
-        "edit-time": 1614478904407,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "To-Do List",
-        "create-time": 1614478812065,
-        "heading": 1,
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "0qNEG7doN",
-        "edit-time": 1614478823698,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "edit-time": 1614478087452,
-        "children": [
-          {
-            "string": "**Todo Item**",
-            "create-time": 1614478096074,
+            "uid": "_mZRCW-YY",
+            ":block/refs": [
+              {
+                ":block/uid": "Rkx3VhQ_T"
+              }
+            ],
+            "string": "[L10 Agenda - current](https://docs.google.com/document/d/1lRg_cRUP95OGTY3_Deg6QtkZ2m7Dud5w3KByhe42Vks/edit?usp=sharing) #google-doc",
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
-            "children": [
-              {
-                "string": "**Assigned to**",
-                "create-time": 1614478104750,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "**Date Added**",
-                    "create-time": 1614478109655,
-                    "uid": "lCYJFXTAE",
-                    "edit-time": 1614478507952,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "4wAGcGikD",
-                "edit-time": 1614478186178,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "Lf6K0f4sF",
-            "edit-time": 1614478177661,
+            "create-time": 1614576668478,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
           },
           {
-            "string": "Document client advanced cost tracking process",
-            "create-time": 1614478123622,
+            "string": "[VTO](https://drive.google.com/file/d/1897S4LAAAkPd5dQkuxNuFsp5w3sWiwUo/view?usp=sharing) #google-doc",
+            "create-time": 1614577065392,
+            ":block/refs": [
+              {
+                ":block/uid": "Rkx3VhQ_T"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Rkx3VhQ_T"
+              }
+            ],
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
-            "children": [
-              {
-                "string": "BM",
-                "create-time": 1614478133782,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "6/18/2019",
-                    "create-time": 1614478135978,
-                    "uid": "xbd36Olu0",
-                    "edit-time": 1614478410193,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "PVpiReiq9",
-                "edit-time": 1614478404663,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "IevNes8DU",
-            "edit-time": 1614478399919,
+            "uid": "nMYrBduGk",
+            "edit-time": 1614577083905,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
           },
           {
-            "string": "Develop & doc standardized AP process & policies",
-            "create-time": 1614478138262,
+            "string": "[Rock Sheet](https://docs.google.com/spreadsheets/d/1-d3I0Hvy5YRu5yJUnMgDyLAG-4FDP1iBP4MY2zXGht4/edit?usp=sharing) #google-sheet",
+            "create-time": 1614577083891,
+            ":block/refs": [
+              {
+                ":block/uid": "Qg5RQJdYv"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Qg5RQJdYv"
+              }
+            ],
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
-            "children": [
-              {
-                "string": "BM",
-                "create-time": 1614478146676,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "6/18/19",
-                    "create-time": 1614478149872,
-                    "uid": "Lmsx6nfil",
-                    "edit-time": 1614478476865,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "UiH7JMf4r",
-                "edit-time": 1614478472595,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "ECzNCC8do",
-            "edit-time": 1614478430567,
+            "uid": "rXA_nFkuZ",
+            "edit-time": 1614577120977,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
           },
           {
-            "string": "Develop RFP for offshore partner",
-            "children": [
+            "string": "[Quarterly Agenda - current](https://docs.google.com/document/d/1aCNyt5X7Hz6HTB4NT07BYhcqXHIcVudt50QHReZZpug/edit?usp=sharing) #google-doc",
+            "create-time": 1614577144306,
+            ":block/refs": [
               {
-                "string": "BM",
-                "create-time": 1614478466139,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "6/18/19",
-                    "create-time": 1614478477870,
-                    "uid": "GiqFnSoT6",
-                    "edit-time": 1614478482048,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "Ou6pNdJDI",
-                "edit-time": 1614478468480,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
+                ":block/uid": "Rkx3VhQ_T"
               }
             ],
-            "uid": "BBXz6YRQI",
-            "edit-time": 1614478447164,
+            "refs": [
+              {
+                "uid": "Rkx3VhQ_T"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "Vpsflv6J4",
+            "edit-time": 1614577211728,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
           },
           {
-            "string": "Document P/R reconciliation process in Confluence",
-            "children": [
+            "string": "[Accountability Chart](https://drive.google.com/file/d/1LJhlrbmK2VDwSaDmAewLVF6_5SlEtgOx/view?usp=sharing) #lucid-chart",
+            "create-time": 1614577214207,
+            ":block/refs": [
               {
-                "string": "CW",
-                "create-time": 1614478483418,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "6/25/19",
-                    "create-time": 1614478486915,
-                    "uid": "wbef1Yvkz",
-                    "edit-time": 1614478492995,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "HAAoCHpDE",
-                "edit-time": 1614478486924,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
+                ":block/uid": "XWAkcKrHA"
               }
             ],
-            "uid": "ACMYuhMCW",
-            "edit-time": 1614478447164,
-            ":edit/user": {
+            "refs": [
+              {
+                "uid": "XWAkcKrHA"
+              }
+            ],
+            ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Schedule ROEC/ROEV partner review meeting (include CAM rec)",
-            "children": [
-              {
-                "string": "BM",
-                "create-time": 1614478526983,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "6/25/19",
-                    "create-time": 1614478536408,
-                    "uid": "QstmkLJ9u",
-                    "edit-time": 1614478544945,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "vJ3POUQlR",
-                "edit-time": 1614478536187,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "j9RzeZHYQ",
-            "edit-time": 1614478447164,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Establish process for TABS3 payroll / GL integration (import)",
-            "children": [
-              {
-                "string": "BM",
-                "create-time": 1614478546524,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "7/9/19",
-                    "create-time": 1614478551162,
-                    "uid": "2WJmPzIYZ",
-                    "edit-time": 1614478555513,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "V-1xa-0sQ",
-                "edit-time": 1614478551170,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "hA07dkWt9",
-            "edit-time": 1614478447164,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Karbonize ALG recurring work",
-            "children": [
-              {
-                "string": "CW",
-                "create-time": 1614478557598,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "7/24/19",
-                    "create-time": 1614478561077,
-                    "uid": "xMVdTStbg",
-                    "edit-time": 1614478568800,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "L-pRDVpM0",
-                "edit-time": 1614478561084,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "gVjVCI0CY",
-            "edit-time": 1614478739729,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Develop onshore contract bookkeeper job description",
-            "children": [
-              {
-                "string": "CW",
-                "create-time": 1614478628287,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "8/6/19",
-                    "create-time": 1614478635433,
-                    "uid": "sXGGfGzl1",
-                    "edit-time": 1614478655266,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "hePnknOe-",
-                "edit-time": 1614478635440,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "Y7dcyc28U",
-            "edit-time": 1614478459906,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Post contract bookkeeper job to Craigslist, Breeze",
-            "children": [
-              {
-                "string": "BM",
-                "create-time": 1614478660759,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "8/6/19",
-                    "create-time": 1614478670586,
-                    "uid": "fbZ9nl4-g",
-                    "edit-time": 1614478678361,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "KHf9D6ekF",
-                "edit-time": 1614478670593,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "PrOXXZeH2",
-            "edit-time": 1614478459906,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Post contract bookkeeper job to CW network",
-            "children": [
-              {
-                "string": "CW",
-                "create-time": 1614478680668,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "8/6/19",
-                    "create-time": 1614478686352,
-                    "uid": "M_GV91cBA",
-                    "edit-time": 1614478690479,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "poIYd3znf",
-                "edit-time": 1614478685243,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "tq37_A7V1",
-            "edit-time": 1614478459906,
+            },
+            "uid": "aS-fW-3LB",
+            "edit-time": 1614577292845,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
@@ -21809,63 +21529,20 @@
         ],
         "refs": [
           {
-            "uid": "4UX7Cu3iA"
+            "uid": "pGRsfrOAG"
           }
         ],
-        "uid": "4d1PKqLLP",
+        "uid": "qwnO5pi_l",
         ":block/refs": [
           {
-            ":block/uid": "4UX7Cu3iA"
+            ":block/uid": "pGRsfrOAG"
           }
         ],
-        "string": "{{[[table]]}}",
+        "string": "[EOS Working Documents](https://drive.google.com/drive/folders/1LIdb3FoDxQmPnQwpL0rrWbf0BZstsRp8?usp=sharing)  #[[goggle-drive]]",
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "create-time": 1614477812366,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "Issues List",
-        "create-time": 1614478793521,
-        "heading": 1,
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "children": [
-          {
-            "string": "OFF TRACK - Hire onshore bookkeeper [CW]",
-            "create-time": 1614478830323,
-            "uid": "uZhwXNAsn",
-            "edit-time": 1614493933917,
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "OFF TRACK - Transition from Track1099 [CW]",
-            "uid": "tyw3zR6B8",
-            "edit-time": 1614493928126,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "OFF TRACK - Billings every 30 days [CW]",
-            "uid": "PnPoX87eH",
-            "edit-time": 1614493928126,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          }
-        ],
-        "uid": "Sz9g54VKS",
-        "edit-time": 1614478803934,
+        "create-time": 1614576424315,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -21880,11 +21557,25 @@
   {
     "create-time": 1614411559805,
     "title": "roam/templates",
-    "uid": "QkDgwdCwc",
-    "edit-time": 1614411559814,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1614577592473,
+        "uid": "0UOkkxvYg",
+        "edit-time": 1614577592473,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "QkDgwdCwc",
+    "edit-time": 1614411559814,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -21897,11 +21588,14 @@
     },
     "children": [
       {
-        "string": "Keywords: #[[🚧 Projects]] \nTarget: [[February 28th, 2021]]\nSuccess: **Move EOS archives and templates to Roam by** [[February 28th, 2021]]",
+        "string": "Keywords: #[[🚧 Projects]] #[[♻️ Archives]]\nTarget: [[February 28th, 2021]]\nSuccess: **Move EOS archives and templates to Roam by** [[February 28th, 2021]]",
         "create-time": 1614315521825,
         ":block/refs": [
           {
             ":block/uid": "3-go0BUlc"
+          },
+          {
+            ":block/uid": "Wn_Hch6sZ"
           },
           {
             ":block/uid": "02-28-2021"
@@ -21912,6 +21606,9 @@
             "uid": "3-go0BUlc"
           },
           {
+            "uid": "Wn_Hch6sZ"
+          },
+          {
             "uid": "02-28-2021"
           }
         ],
@@ -21919,7 +21616,7 @@
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "5qBb681eB",
-        "edit-time": 1614415324361,
+        "edit-time": 1614577529911,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -22082,11 +21779,11 @@
             },
             "children": [
               {
-                "string": "{{[[TODO]]}} [[VTO]]",
+                "string": "{{[[DONE]]}} [[VTO]]",
                 "create-time": 1614494221534,
                 ":block/refs": [
                   {
-                    ":block/uid": "hhvTau8RH"
+                    ":block/uid": "0HeuefVvJ"
                   },
                   {
                     ":block/uid": "Ep6Bi12wA"
@@ -22094,7 +21791,7 @@
                 ],
                 "refs": [
                   {
-                    "uid": "hhvTau8RH"
+                    "uid": "0HeuefVvJ"
                   },
                   {
                     "uid": "Ep6Bi12wA"
@@ -22104,73 +21801,73 @@
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 },
                 "uid": "IuA9A7Nyq",
-                "edit-time": 1614494249087,
+                "edit-time": 1614577514962,
                 ":edit/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 }
               },
               {
-                "string": "{{[[TODO]]}} Rock sheet",
+                "string": "{{[[DONE]]}} Rock sheet",
                 "create-time": 1614494249078,
                 ":block/refs": [
                   {
-                    ":block/uid": "hhvTau8RH"
+                    ":block/uid": "0HeuefVvJ"
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "hhvTau8RH"
+                    "uid": "0HeuefVvJ"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 },
                 "uid": "uVYxYBcBn",
-                "edit-time": 1614494337636,
+                "edit-time": 1614577519576,
                 ":edit/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 }
               },
               {
-                "string": "{{[[TODO]]}} Quarterly EOS agenda",
+                "string": "{{[[DONE]]}} Quarterly EOS agenda",
                 "create-time": 1614494338969,
                 ":block/refs": [
                   {
-                    ":block/uid": "hhvTau8RH"
+                    ":block/uid": "0HeuefVvJ"
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "hhvTau8RH"
+                    "uid": "0HeuefVvJ"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 },
                 "uid": "cMtrD2dMH",
-                "edit-time": 1614494352971,
+                "edit-time": 1614577516831,
                 ":edit/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 }
               },
               {
-                "string": "{{[[TODO]]}} Accountability chart",
+                "string": "{{[[DONE]]}} Accountability chart",
                 "create-time": 1614494355400,
                 ":block/refs": [
                   {
-                    ":block/uid": "hhvTau8RH"
+                    ":block/uid": "0HeuefVvJ"
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "hhvTau8RH"
+                    "uid": "0HeuefVvJ"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 },
                 "uid": "LHQcTdBcg",
-                "edit-time": 1614494366204,
+                "edit-time": 1614577517867,
                 ":edit/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 }
@@ -22232,91 +21929,45 @@
     },
     "children": [
       {
-        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
-        "create-time": 1614499668931,
-        ":block/refs": [
-          {
-            ":block/uid": "hhvTau8RH"
-          },
-          {
-            ":block/uid": "sS9KVdL8B"
-          },
-          {
-            ":block/uid": "A0Su1fppo"
-          },
-          {
-            ":block/uid": "01-01-2000"
-          },
-          {
-            ":block/uid": "4wLPO9CQE"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "hhvTau8RH"
-          },
-          {
-            "uid": "sS9KVdL8B"
-          },
-          {
-            "uid": "A0Su1fppo"
-          },
-          {
-            "uid": "01-01-2000"
-          },
-          {
-            "uid": "4wLPO9CQE"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "aIf3HzI0-",
-        "edit-time": 1614499668931,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "{{[[TODO]]}} Pick up Good Earth order 11:00-11:30 ",
+        "string": "{{[[DONE]]}} Pick up Good Earth order 11:00-11:30 ",
         "create-time": 1614477520753,
         ":block/refs": [
           {
-            ":block/uid": "hhvTau8RH"
+            ":block/uid": "0HeuefVvJ"
           }
         ],
         "refs": [
           {
-            "uid": "hhvTau8RH"
+            "uid": "0HeuefVvJ"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "YS85cdZ1w",
-        "edit-time": 1614499809611,
+        "edit-time": 1614577759088,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
       },
       {
-        "string": "{{[[TODO]]}} Pick up Fishmonger Don order 12:30+ ",
+        "string": "{{[[DONE]]}} Pick up Fishmonger Don order 12:30+ ",
         "create-time": 1614477540222,
         ":block/refs": [
           {
-            ":block/uid": "hhvTau8RH"
+            ":block/uid": "0HeuefVvJ"
           }
         ],
         "refs": [
           {
-            "uid": "hhvTau8RH"
+            "uid": "0HeuefVvJ"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "wQqjPTb9-",
-        "edit-time": 1614499812977,
+        "edit-time": 1614577760573,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -22389,34 +22040,6 @@
         },
         "uid": "kNhdsIEWI",
         "edit-time": 1614538990777,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "[[[[🚧 Projects]]/TESTING]]",
-        "create-time": 1614539013678,
-        ":block/refs": [
-          {
-            ":block/uid": "3-go0BUlc"
-          },
-          {
-            ":block/uid": "Iq9E4xyP6"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "3-go0BUlc"
-          },
-          {
-            "uid": "Iq9E4xyP6"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "CCWlKKOcU",
-        "edit-time": 1614539131573,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -25124,18 +24747,6 @@
     }
   },
   {
-    "create-time": 1614478087457,
-    "title": "table",
-    "uid": "4UX7Cu3iA",
-    "edit-time": 1614478087459,
-    ":create/user": {
-      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-    },
-    ":edit/user": {
-      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-    }
-  },
-  {
     "create-time": 1614494249089,
     "title": "VTO",
     "uid": "Ep6Bi12wA",
@@ -25178,6 +24789,52 @@
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
     "children": [
+      {
+        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
+        "create-time": 1614577817992,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
+          },
+          {
+            ":block/uid": "A0Su1fppo"
+          },
+          {
+            ":block/uid": "01-01-2000"
+          },
+          {
+            ":block/uid": "4wLPO9CQE"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          },
+          {
+            "uid": "A0Su1fppo"
+          },
+          {
+            "uid": "01-01-2000"
+          },
+          {
+            "uid": "4wLPO9CQE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "A6l3FYG00",
+        "edit-time": 1614577817992,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
       {
         "string": "{{[[TODO]]}} Buy merchant parking permits #[[Accountiful Todos]]",
         "create-time": 1614298225203,
@@ -25304,23 +24961,73 @@
     }
   },
   {
-    "create-time": 1614539131589,
-    ":block/refs": [
-      {
-        ":block/uid": "3-go0BUlc"
-      }
-    ],
-    "title": "[[🚧 Projects]]/TESTING",
-    "refs": [
-      {
-        "uid": "3-go0BUlc"
-      }
-    ],
+    "create-time": 1614576785327,
+    "title": "goggle-drive",
+    "uid": "pGRsfrOAG",
+    "edit-time": 1614576785333,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
-    "uid": "Iq9E4xyP6",
-    "edit-time": 1614539131592,
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614576796335,
+    "title": "google-doc",
+    "uid": "Rkx3VhQ_T",
+    "edit-time": 1614576796340,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614577014070,
+    "title": "google-drive",
+    "uid": "YBL2sa9bu",
+    "edit-time": 1614577014072,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614577120989,
+    "title": "google-sheet",
+    "uid": "Qg5RQJdYv",
+    "edit-time": 1614577120991,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614577292858,
+    "title": "lucid-chart",
+    "uid": "XWAkcKrHA",
+    "edit-time": 1614577292862,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614578556073,
+    "title": "visionary",
+    "uid": "cXu2zjQP2",
+    "edit-time": 1614578556092,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }

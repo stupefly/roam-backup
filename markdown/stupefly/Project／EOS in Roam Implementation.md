@@ -1,4 +1,4 @@
-- Keywords: #[[🚧 Projects]] 
+- Keywords: #[[🚧 Projects]] #[[♻️ Archives]]
 Target: [[February 28th, 2021]]
 Success: **Move EOS archives and templates to Roam by** [[February 28th, 2021]]
 - ======================================================
@@ -14,8 +14,8 @@ Success: **Move EOS archives and templates to Roam by** [[February 28th, 2021]]
 - # Tasks
     - {{[[DONE]]}} Identify EOS collateral to migrate to Roam [[February 27th, 2021]] 
     - Migrate the following:
-        - {{[[TODO]]}} [[VTO]]
-        - {{[[TODO]]}} Rock sheet
-        - {{[[TODO]]}} Quarterly EOS agenda
-        - {{[[TODO]]}} Accountability chart
+        - {{[[DONE]]}} [[VTO]]
+        - {{[[DONE]]}} Rock sheet
+        - {{[[DONE]]}} Quarterly EOS agenda
+        - {{[[DONE]]}} Accountability chart
     - Create [[L10]] meeting template in [[Roam]]

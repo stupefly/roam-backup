@@ -1,53 +1,7 @@
-- # [[L10]] Meeting Agenda
-    - **Segue**	5 minutes
-    - **Scorecard **	5 minutes
-    - **Rock review [on/off track]**	5 minutes
-    - **Client/EE headlines**	5 minutes
-    - **To-Do List [done/not]**	5 minutes
-    - **IDS**	60 minutes
-        - Identify
-        - Discuss
-        - Solve
-    - **Conclude**	5 minutes
-        - Review To-Do List
-        - Cascading messages?
-        - Rate meeting
-- # To-Do List
-- {{[[table]]}}
-    - **Todo Item**
-        - **Assigned to**
-            - **Date Added**
-    - Document client advanced cost tracking process
-        - BM
-            - 6/18/2019
-    - Develop & doc standardized AP process & policies
-        - BM
-            - 6/18/19
-    - Develop RFP for offshore partner
-        - BM
-            - 6/18/19
-    - Document P/R reconciliation process in Confluence
-        - CW
-            - 6/25/19
-    - Schedule ROEC/ROEV partner review meeting (include CAM rec)
-        - BM
-            - 6/25/19
-    - Establish process for TABS3 payroll / GL integration (import)
-        - BM
-            - 7/9/19
-    - Karbonize ALG recurring work
-        - CW
-            - 7/24/19
-    - Develop onshore contract bookkeeper job description
-        - CW
-            - 8/6/19
-    - Post contract bookkeeper job to Craigslist, Breeze
-        - BM
-            - 8/6/19
-    - Post contract bookkeeper job to CW network
-        - CW
-            - 8/6/19
-- # Issues List
-    - OFF TRACK - Hire onshore bookkeeper [CW]
-    - OFF TRACK - Transition from Track1099 [CW]
-    - OFF TRACK - Billings every 30 days [CW]
+- [EOS Working Documents](https://drive.google.com/drive/folders/1LIdb3FoDxQmPnQwpL0rrWbf0BZstsRp8?usp=sharing)  #[[goggle-drive]]
+    - [L10 Agenda - current](https://docs.google.com/document/d/1lRg_cRUP95OGTY3_Deg6QtkZ2m7Dud5w3KByhe42Vks/edit?usp=sharing) #google-doc
+        - [L10 - archive](https://drive.google.com/drive/folders/1x-tmNNj3tdGTwnRfQEaU4XVav5dXdwoa?usp=sharing) #google-drive
+    - [VTO](https://drive.google.com/file/d/1897S4LAAAkPd5dQkuxNuFsp5w3sWiwUo/view?usp=sharing) #google-doc
+    - [Rock Sheet](https://docs.google.com/spreadsheets/d/1-d3I0Hvy5YRu5yJUnMgDyLAG-4FDP1iBP4MY2zXGht4/edit?usp=sharing) #google-sheet
+    - [Quarterly Agenda - current](https://docs.google.com/document/d/1aCNyt5X7Hz6HTB4NT07BYhcqXHIcVudt50QHReZZpug/edit?usp=sharing) #google-doc
+    - [Accountability Chart](https://drive.google.com/file/d/1LJhlrbmK2VDwSaDmAewLVF6_5SlEtgOx/view?usp=sharing) #lucid-chart
