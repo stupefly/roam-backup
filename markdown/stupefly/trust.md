@@ -1,0 +1,1 @@
+- Constructive [[conflict]] and healthy [[trust]] are essential to each other; [[yin-yang]]. One can't trust in a healthy way without both parties being willing to engage in uninhibited conflict over ideas. 

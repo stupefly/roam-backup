@@ -1,0 +1,6 @@
+- [[yin-yang theory]]
+    - four aspects
+        - opposition
+        - interdependence
+        - mutual consumption and creation
+        - intertransformation

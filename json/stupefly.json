@@ -5806,17 +5806,37 @@
                             }
                           },
                           {
-                            "string": "**Level 2:** Observe everything with extraordinary perceptiveness and insight. Most mentally alert, curious, searching intelligence: nothing escapes their notice. Foresight and prediction. Able to concentrate: become engrossed in what has caught their attention.",
+                            "string": "**Level 2:** Observe everything with extraordinary [[perceptiveness]] and insight. Most mentally alert, curious, searching intelligence: nothing escapes their notice. Foresight and prediction. Able to concentrate: become engrossed in what has caught their attention.",
+                            "refs": [
+                              {
+                                "uid": "0iTwPAceG"
+                              }
+                            ],
                             "uid": "csINPexNM",
-                            "edit-time": 1614578378793,
+                            "edit-time": 1614578641439,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0iTwPAceG"
+                              }
+                            ],
                             ":edit/user": {
                               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                             }
                           },
                           {
-                            "string": "**Level 3:** Attain skillful mastery of whatever interests them. Excited by knowledge: often become expert in some field. Innovative and inventive, producing extremely valuable, original works. Highly independent, idiosyncratic, and whimsical.",
+                            "string": "**Level 3:** Attain skillful [[mastery]] of whatever interests them. Excited by knowledge: often become expert in some field. Innovative and inventive, producing extremely valuable, original works. Highly independent, idiosyncratic, and whimsical.",
+                            "refs": [
+                              {
+                                "uid": "s5syIBK9T"
+                              }
+                            ],
                             "uid": "3wuWCKtXZ",
-                            "edit-time": 1614578378793,
+                            "edit-time": 1614578645395,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "s5syIBK9T"
+                              }
+                            ],
                             ":edit/user": {
                               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                             }
@@ -5902,6 +5922,86 @@
                     ":edit/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     }
+                  },
+                  {
+                    "string": "Personal Growth Recommendations - Type Fives",
+                    "children": [
+                      {
+                        "string": "Learn to notice when thinking and speculating takes you out of the ^^immediacy of experience^^. Your mental capacities can be an extraordinary gift, but only can also be a trap when you use them to retreat from contact with yourself and others. ^^Stay connected with your physicality^^.",
+                        "uid": "hGEQfAVFR",
+                        "edit-time": 1614578803500,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "You tend to be extremely intense and so high-strung that you find it difficult to relax and unwind. ^^Learn to calm down in a healthy way, without drugs or alcohol^^. Exercising or using biofeedback techniques will help channel some of your tremendous nervous energy. Meditation, jogging, yoga, and dancing are especially helpful for your type.",
+                        "uid": "XCL6yN2Xn",
+                        "edit-time": 1614578871056,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "You see ^^many possibilities but often do not know how to choose^^ among them or judge which is more or less important. When you are caught in your fixation, a ^^sense of perspective can be missing^^, and with it the ability to make accurate assessments. At such time, it can be helpful to ^^get the advice of someone whose judgment you [[trust]]^^ while you are gaining perspective on your situation. Doing this can also help you trust someone else, a difficulty for your type.",
+                        "refs": [
+                          {
+                            "uid": "L1_IzY1hA"
+                          }
+                        ],
+                        "uid": "wFLvEfCc0",
+                        "edit-time": 1614579115373,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "L1_IzY1hA"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "^^Notice when you are getting intensely involved in projects that do not necessarily support your self-esteem, [[confidence]], or life situation^^. It is possible to follow many different fascinating subjects, games, and pastimes, but they can become huge distractions from what you know you really need to do. ^^Decisive action will bring more confidence than learning more facts or acquiring more unrelated skills^^.",
+                        "refs": [
+                          {
+                            "uid": "P91hETi9r"
+                          }
+                        ],
+                        "uid": "KHmsFz-r-",
+                        "edit-time": 1614579088343,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "P91hETi9r"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "^^Fives tend to find it difficult to [[trust]] people, to open up to them emotionally, or to make themselves accessible^^ in various ways. Their awareness of potential problems in relationships may tend to create a self-fulfilling prophecy. It is important to remember that having [conficts](conflict) with others is not unusual and that the healthy thing is to work them out rather than reject attachments with people by withdrawing into isolation. Having one or two intimate friends whom you trust enough to have conflicts with will enrich your life greatly.",
+                        "refs": [
+                          {
+                            "uid": "L1_IzY1hA"
+                          }
+                        ],
+                        "uid": "Kz3EwHMQx",
+                        "edit-time": 1614579464728,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "L1_IzY1hA"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "s88a9u6vS",
+                    "edit-time": 1614578726360,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
                   }
                 ],
                 "uid": "sfWiS5yC2",
@@ -5937,13 +6037,23 @@
                     },
                     "children": [
                       {
-                        "string": "engaging, responsible, anxious, and suspicious",
+                        "string": "engaging, responsible, [anxious]([[anxiety]]), and suspicious",
                         "create-time": 1614496657004,
-                        "uid": "yv1sEK9IL",
-                        "edit-time": 1614496669986,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "yDV0zBlef"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "yDV0zBlef"
+                          }
+                        ],
                         ":create/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                         },
+                        "uid": "yv1sEK9IL",
+                        "edit-time": 1614580406446,
                         ":edit/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                         }
@@ -21973,51 +22083,57 @@
         }
       },
       {
-        "string": "{{[[TODO]]}} Shop Whole Foods ",
+        "string": "{{[[TODO]]}} Shop Whole Foods  #core",
         "create-time": 1614477584860,
         ":block/refs": [
           {
             ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "A0Su1fppo"
           }
         ],
         "refs": [
           {
             "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "A0Su1fppo"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "lk6R4suSL",
-        "edit-time": 1614499816636,
+        "edit-time": 1614580463655,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
       },
       {
-        "string": "{{[[TODO]]}} Finish summarizing [enneagram](https://www.enneagraminstitute.com/type-5) in [[_sharpen the saw 🪚]]",
+        "string": "{{[[DONE]]}} Finish summarizing [enneagram](https://www.enneagraminstitute.com/type-5) in [[_sharpen the saw 🪚]]",
         "create-time": 1614500034408,
         ":block/refs": [
           {
-            ":block/uid": "hhvTau8RH"
+            ":block/uid": "b2uflAka-"
           },
           {
-            ":block/uid": "b2uflAka-"
+            ":block/uid": "0HeuefVvJ"
           }
         ],
         "refs": [
           {
-            "uid": "hhvTau8RH"
+            "uid": "b2uflAka-"
           },
           {
-            "uid": "b2uflAka-"
+            "uid": "0HeuefVvJ"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "7JqZWFV56",
-        "edit-time": 1614538777280,
+        "edit-time": 1614580456234,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -25025,6 +25141,214 @@
     "title": "visionary",
     "uid": "cXu2zjQP2",
     "edit-time": 1614578556092,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614578641442,
+    "title": "perceptiveness",
+    "uid": "0iTwPAceG",
+    "edit-time": 1614578641444,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614578645415,
+    "title": "mastery",
+    "uid": "s5syIBK9T",
+    "edit-time": 1614578645418,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614578976784,
+    "title": "trust",
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    "children": [
+      {
+        "string": "Constructive [[conflict]] and healthy [[trust]] are essential to each other; [[yin-yang]]. One can't trust in a healthy way without both parties being willing to engage in uninhibited conflict over ideas. ",
+        "create-time": 1614579175262,
+        ":block/refs": [
+          {
+            ":block/uid": "L1_IzY1hA"
+          },
+          {
+            ":block/uid": "cnMbo5Jx-"
+          },
+          {
+            ":block/uid": "CITVp6Qdd"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "L1_IzY1hA"
+          },
+          {
+            "uid": "cnMbo5Jx-"
+          },
+          {
+            "uid": "CITVp6Qdd"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "A8tpszWV_",
+        "edit-time": 1614579864219,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "L1_IzY1hA",
+    "edit-time": 1614578976790,
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614579088370,
+    "title": "confidence",
+    "uid": "P91hETi9r",
+    "edit-time": 1614579088372,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614579193384,
+    "title": "conflict",
+    "uid": "cnMbo5Jx-",
+    "edit-time": 1614579193389,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614579629881,
+    "title": "yin-yang",
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    "children": [
+      {
+        "edit-time": 1614579882760,
+        "children": [
+          {
+            "string": "four aspects",
+            "create-time": 1614580295605,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "opposition",
+                "create-time": 1614579882724,
+                "uid": "c68YBR6WG",
+                "edit-time": 1614579994439,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "interdependence",
+                "create-time": 1614579994390,
+                "uid": "bXVla19bj",
+                "edit-time": 1614580197935,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "mutual consumption and creation",
+                "create-time": 1614580181682,
+                "uid": "pX_ChcerD",
+                "edit-time": 1614580242889,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "intertransformation",
+                "create-time": 1614580006430,
+                "uid": "xwfUEhPPY",
+                "edit-time": 1614580052696,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "A2ZriWgJV",
+            "edit-time": 1614580302665,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "-hGwjkPju"
+          }
+        ],
+        "uid": "AsKjubhBc",
+        ":block/refs": [
+          {
+            ":block/uid": "-hGwjkPju"
+          }
+        ],
+        "string": "[[yin-yang theory]]",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1614579869115,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "CITVp6Qdd",
+    "edit-time": 1614579864219,
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614579882761,
+    "title": "yin-yang theory",
+    "uid": "-hGwjkPju",
+    "edit-time": 1614579882764,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },

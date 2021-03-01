@@ -1,5 +1,5 @@
 - {{[[DONE]]}} Pick up Good Earth order 11:00-11:30 
 - {{[[DONE]]}} Pick up Fishmonger Don order 12:30+ 
-- {{[[TODO]]}} Shop Whole Foods 
-- {{[[TODO]]}} Finish summarizing [enneagram](https://www.enneagraminstitute.com/type-5) in [[_sharpen the saw 🪚]]
+- {{[[TODO]]}} Shop Whole Foods  #core
+- {{[[DONE]]}} Finish summarizing [enneagram](https://www.enneagraminstitute.com/type-5) in [[_sharpen the saw 🪚]]
 - [[Project/CMA Part 1 Exam]]
