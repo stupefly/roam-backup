@@ -68,8 +68,8 @@
   [2 :version/id "0.8.2" 536870914]
   [2
    :version/nonce
-   "uuide5464341-fd52-4469-831c-1bd4d4c0a772"
-   536881439]
+   "uuid4a6cb5b6-5e7c-48d5-9bb8-708ebf05bda9"
+   536881444]
   [3 :block/uid "rRqBuP6q9" 536870915]
   [3 :user/display-name "Bill Mosca" 536872128]
   [3
@@ -20990,11 +20990,12 @@
   [3291 :block/children 1795 536880958]
   [3291 :block/children 2580 536880962]
   [3291 :block/children 3331 536881189]
+  [3291 :block/children 3376 536881440]
   [3291 :block/open true 536881191]
   [3291 :block/uid "03-01-2021" 536880953]
   [3291 :create/time 1614499707689 536880953]
   [3291 :create/user 3 536880953]
-  [3291 :edit/time 1614499707690 536880953]
+  [3291 :edit/time 1614636555524 536881440]
   [3291 :edit/user 3 536880953]
   [3291 :log/id 1614585600000 536880953]
   [3291 :node/title "March 1st, 2021" 536880953]
@@ -21792,4 +21793,72 @@
   [3375 :create/time 1614580295605 536881421]
   [3375 :create/user 3 536881421]
   [3375 :edit/time 1614580302665 536881423]
-  [3375 :edit/user 3 536881421]]}
+  [3375 :edit/user 3 536881421]
+  [3376 :block/children 3377 536881440]
+  [3376 :block/children 3378 536881440]
+  [3376 :block/children 3379 536881440]
+  [3376 :block/open true 536881440]
+  [3376 :block/order 3 536881440]
+  [3376 :block/page 3291 536881444]
+  [3376 :block/parents 3291 536881444]
+  [3376 :block/refs 1536 536881441]
+  [3376 :block/string "#[[Quick Capture]]" 536881440]
+  [3376 :block/uid "_A7YQGmNK" 536881440]
+  [3376 :create/time 1614613826555 536881440]
+  [3376 :create/user 3 536881440]
+  [3376 :edit/time 1614636555524 536881440]
+  [3376 :edit/user 3 536881440]
+  [3377 :block/open true 536881440]
+  [3377 :block/order 0 536881440]
+  [3377 :block/page 3291 536881444]
+  [3377 :block/parents 3291 536881444]
+  [3377 :block/parents 3376 536881444]
+  [3377 :block/refs 126 536881442]
+  [3377 :block/refs 369 536881442]
+  [3377 :block/refs 3380 536881442]
+  [3377
+   :block/string
+   "{{[[TODO]]}} Motion/second procedure #[[ciis 🔦]]#[[gov-comm]]"
+   536881440]
+  [3377 :block/uid "dwhKIFuoO" 536881440]
+  [3377 :create/time 1614613826555 536881440]
+  [3377 :create/user 3 536881440]
+  [3377 :edit/time 1614636555524 536881440]
+  [3377 :edit/user 3 536881440]
+  [3378 :block/open true 536881440]
+  [3378 :block/order 1 536881440]
+  [3378 :block/page 3291 536881444]
+  [3378 :block/parents 3291 536881444]
+  [3378 :block/parents 3376 536881444]
+  [3378 :block/refs 126 536881443]
+  [3378 :block/refs 369 536881443]
+  [3378 :block/refs 3380 536881443]
+  [3378
+   :block/string
+   "{{[[TODO]]}} Zoom chats during meetings #[[ciis 🔦]]#[[gov-comm]]"
+   536881440]
+  [3378 :block/uid "Fhqhj0YrR" 536881440]
+  [3378 :create/time 1614613910916 536881440]
+  [3378 :create/user 3 536881440]
+  [3378 :edit/time 1614636555524 536881440]
+  [3378 :edit/user 3 536881440]
+  [3379 :block/open true 536881440]
+  [3379 :block/order 2 536881440]
+  [3379 :block/page 3291 536881444]
+  [3379 :block/parents 3291 536881444]
+  [3379 :block/parents 3376 536881444]
+  [3379
+   :block/string
+   "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company by Andrew S. Grove"
+   536881440]
+  [3379 :block/uid "QJ8rhl29I" 536881440]
+  [3379 :create/time 1614618540871 536881440]
+  [3379 :create/user 3 536881440]
+  [3379 :edit/time 1614636555524 536881440]
+  [3379 :edit/user 3 536881440]
+  [3380 :block/uid "DI0nsoexR" 536881442]
+  [3380 :create/time 1614636555542 536881442]
+  [3380 :create/user 3 536881442]
+  [3380 :edit/time 1614636555543 536881442]
+  [3380 :edit/user 3 536881442]
+  [3380 :node/title "gov-comm" 536881442]]}

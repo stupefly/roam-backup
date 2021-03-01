@@ -25006,10 +25006,114 @@
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
+      },
+      {
+        "edit-time": 1614636555524,
+        "children": [
+          {
+            "string": "{{[[TODO]]}} Motion/second procedure #[[ciis 🔦]]#[[gov-comm]]",
+            "create-time": 1614613826555,
+            ":block/refs": [
+              {
+                ":block/uid": "F4kcdn19K"
+              },
+              {
+                ":block/uid": "hhvTau8RH"
+              },
+              {
+                ":block/uid": "DI0nsoexR"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "F4kcdn19K"
+              },
+              {
+                "uid": "hhvTau8RH"
+              },
+              {
+                "uid": "DI0nsoexR"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "dwhKIFuoO",
+            "edit-time": 1614636555524,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "{{[[TODO]]}} Zoom chats during meetings #[[ciis 🔦]]#[[gov-comm]]",
+            "create-time": 1614613910916,
+            ":block/refs": [
+              {
+                ":block/uid": "F4kcdn19K"
+              },
+              {
+                ":block/uid": "hhvTau8RH"
+              },
+              {
+                ":block/uid": "DI0nsoexR"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "F4kcdn19K"
+              },
+              {
+                "uid": "hhvTau8RH"
+              },
+              {
+                "uid": "DI0nsoexR"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "Fhqhj0YrR",
+            "edit-time": 1614636555524,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company by Andrew S. Grove",
+            "create-time": 1614618540871,
+            "uid": "QJ8rhl29I",
+            "edit-time": 1614636555524,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "sSeeG88c9"
+          }
+        ],
+        "uid": "_A7YQGmNK",
+        ":block/refs": [
+          {
+            ":block/uid": "sSeeG88c9"
+          }
+        ],
+        "string": "#[[Quick Capture]]",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1614613826555,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
       }
     ],
     "uid": "03-01-2021",
-    "edit-time": 1614499707690,
+    "edit-time": 1614636555524,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -25349,6 +25453,18 @@
     "title": "yin-yang theory",
     "uid": "-hGwjkPju",
     "edit-time": 1614579882764,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614636555542,
+    "title": "gov-comm",
+    "uid": "DI0nsoexR",
+    "edit-time": 1614636555543,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
