@@ -68,8 +68,8 @@
   [2 :version/id "0.8.2" 536870914]
   [2
    :version/nonce
-   "uuide280271c-4b50-4456-8062-53fbf10c4b16"
-   536881445]
+   "uuid65c1e0cd-0cd3-4a8d-9127-38669ab9ec6c"
+   536881555]
   [3 :block/uid "rRqBuP6q9" 536870915]
   [3 :user/display-name "Bill Mosca" 536872128]
   [3
@@ -78,14 +78,14 @@
    536872128]
   [3
    :user/settings
-   {:namespace-options [:none :partial :full],
+   {:namespace-options [:partial :full :none],
     :link-brackets? true,
     :roam/js
     {:active-blocks
      #{"fKVe43OFU" "a16qO0n6g" "6Jflvdfpt" "Q-I8srLdh"}},
     :allow-custom-components? true,
     :right-sidebar-pinned {}}
-   536881041]
+   536881536]
   [3 :user/uid "5mjtAd6SjFbtrTvvI0SFpKBy4UG3" 536870915]
   [4 :block/children 14 536870936]
   [4 :block/children 21 536870960]
@@ -520,8 +520,8 @@
   [124 :edit/time 1613882700457 536871374]
   [124 :edit/user 3 536871374]
   [126 :block/children 127 536871379]
-  [126 :block/children 435 536872529]
   [126 :block/children 1768 536877085]
+  [126 :block/children 3388 536881480]
   [126 :block/open true 536871384]
   [126 :block/uid "F4kcdn19K" 536871378]
   [126 :create/time 1613882740592 536871378]
@@ -1156,6 +1156,7 @@
   [276 :edit/user 3 536871964]
   [279 :block/children 304 536872031]
   [279 :block/children 305 536872034]
+  [279 :block/children 3382 536881446]
   [279 :block/uid "74brgSg0t" 536871975]
   [279 :create/time 1613892904711 536871975]
   [279 :create/user 3 536871975]
@@ -1249,11 +1250,12 @@
   [304 :block/order 0 536872031]
   [304 :block/page 279 536872032]
   [304 :block/parents 279 536872032]
-  [304 :block/string "Keywords: __ __" 536872494]
+  [304 :block/refs 24 536881462]
+  [304 :block/string "Keywords: [[🗄 Resources]]" 536881464]
   [304 :block/uid "chVqkiOdF" 536872031]
   [304 :create/time 1613893658353 536872031]
   [304 :create/user 3 536872031]
-  [304 :edit/time 1613935264241 536872494]
+  [304 :edit/time 1614656554667 536881464]
   [304 :edit/user 3 536872031]
   [305 :block/open true 536872034]
   [305 :block/order 1 536872034]
@@ -2206,16 +2208,6 @@
   [434 :create/user 3 536872516]
   [434 :edit/time 1613938045792 536872696]
   [434 :edit/user 3 536872516]
-  [435 :block/open true 536872529]
-  [435 :block/order 2 536877087]
-  [435 :block/page 126 536872530]
-  [435 :block/parents 126 536872530]
-  [435 :block/string "" 536876928]
-  [435 :block/uid "8VCMBLnTf" 536872529]
-  [435 :create/time 1613935629768 536872529]
-  [435 :create/user 3 536872529]
-  [435 :edit/time 1614275075255 536876928]
-  [435 :edit/user 3 536872529]
   [440 :block/children 399 536872665]
   [440 :block/children 772 536874957]
   [440 :block/uid "9UQSCJvVo" 536872663]
@@ -21794,67 +21786,29 @@
   [3375 :create/user 3 536881421]
   [3375 :edit/time 1614580302665 536881423]
   [3375 :edit/user 3 536881421]
-  [3376 :block/children 3377 536881440]
-  [3376 :block/children 3378 536881440]
-  [3376 :block/children 3379 536881440]
   [3376 :block/open true 536881440]
   [3376 :block/order 3 536881440]
   [3376 :block/page 3291 536881444]
   [3376 :block/parents 3291 536881444]
-  [3376 :block/refs 1536 536881441]
-  [3376 :block/string "#[[Quick Capture]]" 536881440]
+  [3376 :block/refs 3393 536881535]
+  [3376 :block/string "[[read/Business Reading List]]" 536881534]
   [3376 :block/uid "_A7YQGmNK" 536881440]
   [3376 :create/time 1614613826555 536881440]
   [3376 :create/user 3 536881440]
-  [3376 :edit/time 1614636555524 536881440]
+  [3376 :edit/time 1614657120293 536881534]
   [3376 :edit/user 3 536881440]
-  [3377 :block/open true 536881440]
-  [3377 :block/order 0 536881440]
-  [3377 :block/page 3291 536881444]
-  [3377 :block/parents 3291 536881444]
-  [3377 :block/parents 3376 536881444]
-  [3377 :block/refs 126 536881442]
-  [3377 :block/refs 369 536881442]
-  [3377 :block/refs 3380 536881442]
-  [3377
-   :block/string
-   "{{[[TODO]]}} Motion/second procedure #[[ciis 🔦]]#[[gov-comm]]"
-   536881440]
-  [3377 :block/uid "dwhKIFuoO" 536881440]
-  [3377 :create/time 1614613826555 536881440]
-  [3377 :create/user 3 536881440]
-  [3377 :edit/time 1614636555524 536881440]
-  [3377 :edit/user 3 536881440]
-  [3378 :block/open true 536881440]
-  [3378 :block/order 1 536881440]
-  [3378 :block/page 3291 536881444]
-  [3378 :block/parents 3291 536881444]
-  [3378 :block/parents 3376 536881444]
-  [3378 :block/refs 126 536881443]
-  [3378 :block/refs 369 536881443]
-  [3378 :block/refs 3380 536881443]
-  [3378
-   :block/string
-   "{{[[TODO]]}} Zoom chats during meetings #[[ciis 🔦]]#[[gov-comm]]"
-   536881440]
-  [3378 :block/uid "Fhqhj0YrR" 536881440]
-  [3378 :create/time 1614613910916 536881440]
-  [3378 :create/user 3 536881440]
-  [3378 :edit/time 1614636555524 536881440]
-  [3378 :edit/user 3 536881440]
   [3379 :block/open true 536881440]
-  [3379 :block/order 2 536881440]
-  [3379 :block/page 3291 536881444]
-  [3379 :block/parents 3291 536881444]
-  [3379 :block/parents 3376 536881444]
+  [3379 :block/order 1 536881547]
+  [3379 :block/page 3393 536881538]
+  [3379 :block/parents 3393 536881538]
   [3379
    :block/string
-   "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company by Andrew S. Grove"
-   536881440]
+   "Only the Paranoid Survive: How to Exploit the [Crisis](crisis) Points That Challenge Every Company -- Andrew S. Grove"
+   536881546]
   [3379 :block/uid "QJ8rhl29I" 536881440]
   [3379 :create/time 1614618540871 536881440]
   [3379 :create/user 3 536881440]
-  [3379 :edit/time 1614636555524 536881440]
+  [3379 :edit/time 1614657260173 536881546]
   [3379 :edit/user 3 536881440]
   [3380 :block/uid "DI0nsoexR" 536881442]
   [3380 :create/time 1614636555542 536881442]
@@ -21868,4 +21822,129 @@
   [3381 :edit/time 1614643566515 536881445]
   [3381 :edit/user 3 536881445]
   [3381 :log/id 1614643566514 536881445]
-  [3381 :node/title "March 2nd, 2021" 536881445]]}
+  [3381 :node/title "March 2nd, 2021" 536881445]
+  [3382 :block/open true 536881446]
+  [3382 :block/order 2 536881446]
+  [3382 :block/page 279 536881447]
+  [3382 :block/parents 279 536881447]
+  [3382 :block/refs 369 536881449]
+  [3382 :block/refs 3383 536881457]
+  [3382
+   :block/string
+   "{{[[TODO]]}} Sharpen cooking [[knives]]"
+   536881456]
+  [3382 :block/uid "JQ-sTtJK-" 536881446]
+  [3382 :create/time 1614656438015 536881446]
+  [3382 :create/user 3 536881446]
+  [3382 :edit/time 1614656481870 536881456]
+  [3382 :edit/user 3 536881446]
+  [3383 :block/uid "TFhbQ8aBP" 536881457]
+  [3383 :create/time 1614656481880 536881457]
+  [3383 :create/user 3 536881457]
+  [3383 :edit/time 1614656481882 536881457]
+  [3383 :edit/user 3 536881457]
+  [3383 :node/title "knives" 536881457]
+  [3384 :block/uid "cPOVImsqd" 536881465]
+  [3384
+   :window/filters
+   {:includes (), :removes ("q-ieCA2N0")}
+   536881467]
+  [3384
+   :window/id
+   "bill@accountiful.com-mentions-page-74brgSg0t"
+   536881465]
+  [3385 :block/open true 536881470]
+  [3385 :block/order 1 536881510]
+  [3385 :block/page 126 536881473]
+  [3385 :block/parents 126 536881473]
+  [3385 :block/parents 3388 536881511]
+  [3385
+   :block/string
+   "Zoom chats during meetings - no sidebars!"
+   536881526]
+  [3385 :block/uid "Fhqhj0YrR" 536881470]
+  [3385 :create/time 1614613910916 536881470]
+  [3385 :create/user 3 536881470]
+  [3385 :edit/time 1614656893796 536881526]
+  [3385 :edit/user 3 536881470]
+  [3387 :block/string "" 536881475]
+  [3387 :block/uid "8VCMBLnTf" 536881475]
+  [3387 :edit/time 1614656663385 536881475]
+  [3387 :edit/user 3 536881475]
+  [3388 :block/children 3385 536881510]
+  [3388 :block/children 3390 536881494]
+  [3388 :block/open true 536881480]
+  [3388 :block/order 2 536881480]
+  [3388 :block/page 126 536881481]
+  [3388 :block/parents 126 536881481]
+  [3388 :block/string "[Governance](governance) Committee " 536881520]
+  [3388 :block/uid "WYpNTIhqr" 536881480]
+  [3388 :create/time 1614656678775 536881480]
+  [3388 :create/user 3 536881480]
+  [3388 :edit/time 1614656836349 536881520]
+  [3388 :edit/user 3 536881480]
+  [3390 :block/open true 536881492]
+  [3390 :block/order 0 536881494]
+  [3390 :block/page 126 536881493]
+  [3390 :block/parents 126 536881493]
+  [3390 :block/parents 3388 536881495]
+  [3390 :block/refs 1793 536881507]
+  [3390
+   :block/string
+   "Motion/second procedure\n[[February 26th, 2021]] meeting skipped debate entirely"
+   536881512]
+  [3390 :block/uid "Y75lhoC0t" 536881492]
+  [3390 :create/time 1614656710432 536881492]
+  [3390 :create/user 3 536881492]
+  [3390 :edit/time 1614656808324 536881512]
+  [3390 :edit/user 3 536881492]
+  [3391 :block/refs 126 536881501]
+  [3391 :block/refs 3380 536881501]
+  [3391
+   :block/string
+   "Motion/second procedure #[[ciis 🔦]]#[[gov-comm]]"
+   536881500]
+  [3391 :block/uid "dwhKIFuoO" 536881500]
+  [3391 :edit/time 1614656720246 536881500]
+  [3391 :edit/user 3 536881500]
+  [3393 :block/children 3379 536881537]
+  [3393 :block/children 3395 536881547]
+  [3393 :block/uid "KYz7yH7Hm" 536881535]
+  [3393 :create/time 1614657120315 536881535]
+  [3393 :create/user 3 536881535]
+  [3393 :edit/time 1614657120317 536881535]
+  [3393 :edit/user 3 536881535]
+  [3393 :node/title "read/Business Reading List" 536881535]
+  [3394 :block/uid "ooPoiOUpy" 536881539]
+  [3394
+   :window/filters
+   {:includes (), :removes ("03-01-2021")}
+   536881539]
+  [3394
+   :window/id
+   "bill@accountiful.com-mentions-page-KYz7yH7Hm"
+   536881539]
+  [3395 :block/open true 536881547]
+  [3395 :block/order 0 536881547]
+  [3395 :block/page 3393 536881548]
+  [3395 :block/parents 3393 536881548]
+  [3395 :block/refs 3396 536881551]
+  [3395 :block/refs 3397 536881554]
+  [3395 :block/string "Keywords: #business, #learning" 536881553]
+  [3395 :block/uid "EG-xnC8EB" 536881547]
+  [3395 :create/time 1614657278124 536881547]
+  [3395 :create/user 3 536881547]
+  [3395 :edit/time 1614657307344 536881553]
+  [3395 :edit/user 3 536881547]
+  [3396 :block/uid "ClxyN9NJ7" 536881551]
+  [3396 :create/time 1614657292212 536881551]
+  [3396 :create/user 3 536881551]
+  [3396 :edit/time 1614657292229 536881551]
+  [3396 :edit/user 3 536881551]
+  [3396 :node/title "business" 536881551]
+  [3397 :block/uid "Np_nG0Olw" 536881554]
+  [3397 :create/time 1614657307372 536881554]
+  [3397 :create/user 3 536881554]
+  [3397 :edit/time 1614657307375 536881554]
+  [3397 :edit/user 3 536881554]
+  [3397 :node/title "learning" 536881554]]}

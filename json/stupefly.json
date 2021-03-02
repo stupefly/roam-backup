@@ -1973,13 +1973,49 @@
         }
       },
       {
-        "string": "",
-        "create-time": 1613935629768,
-        "uid": "8VCMBLnTf",
-        "edit-time": 1614275075255,
+        "string": "[Governance](governance) Committee ",
+        "create-time": 1614656678775,
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
+        "children": [
+          {
+            "string": "Motion/second procedure\n[[February 26th, 2021]] meeting skipped debate entirely",
+            "create-time": 1614656710432,
+            ":block/refs": [
+              {
+                ":block/uid": "02-26-2021"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "02-26-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "Y75lhoC0t",
+            "edit-time": 1614656808324,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Zoom chats during meetings - no sidebars!",
+            "create-time": 1614613910916,
+            "uid": "Fhqhj0YrR",
+            "edit-time": 1614656893796,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "uid": "WYpNTIhqr",
+        "edit-time": 1614656836349,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -3007,13 +3043,23 @@
     },
     "children": [
       {
-        "string": "Keywords: __ __",
+        "string": "Keywords: [[🗄 Resources]]",
         "create-time": 1613893658353,
-        "uid": "chVqkiOdF",
-        "edit-time": 1613935264241,
+        ":block/refs": [
+          {
+            ":block/uid": "q-ieCA2N0"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "q-ieCA2N0"
+          }
+        ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
+        "uid": "chVqkiOdF",
+        "edit-time": 1614656554667,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -3026,6 +3072,34 @@
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "{{[[TODO]]}} Sharpen cooking [[knives]]",
+        "create-time": 1614656438015,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "TFhbQ8aBP"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "TFhbQ8aBP"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "JQ-sTtJK-",
+        "edit-time": 1614656481870,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -25008,105 +25082,23 @@
         }
       },
       {
-        "edit-time": 1614636555524,
-        "children": [
+        "string": "[[read/Business Reading List]]",
+        "create-time": 1614613826555,
+        ":block/refs": [
           {
-            "string": "{{[[TODO]]}} Motion/second procedure #[[ciis 🔦]]#[[gov-comm]]",
-            "create-time": 1614613826555,
-            ":block/refs": [
-              {
-                ":block/uid": "F4kcdn19K"
-              },
-              {
-                ":block/uid": "hhvTau8RH"
-              },
-              {
-                ":block/uid": "DI0nsoexR"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "F4kcdn19K"
-              },
-              {
-                "uid": "hhvTau8RH"
-              },
-              {
-                "uid": "DI0nsoexR"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            "uid": "dwhKIFuoO",
-            "edit-time": 1614636555524,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "{{[[TODO]]}} Zoom chats during meetings #[[ciis 🔦]]#[[gov-comm]]",
-            "create-time": 1614613910916,
-            ":block/refs": [
-              {
-                ":block/uid": "F4kcdn19K"
-              },
-              {
-                ":block/uid": "hhvTau8RH"
-              },
-              {
-                ":block/uid": "DI0nsoexR"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "F4kcdn19K"
-              },
-              {
-                "uid": "hhvTau8RH"
-              },
-              {
-                "uid": "DI0nsoexR"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            "uid": "Fhqhj0YrR",
-            "edit-time": 1614636555524,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company by Andrew S. Grove",
-            "create-time": 1614618540871,
-            "uid": "QJ8rhl29I",
-            "edit-time": 1614636555524,
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
+            ":block/uid": "KYz7yH7Hm"
           }
         ],
         "refs": [
           {
-            "uid": "sSeeG88c9"
+            "uid": "KYz7yH7Hm"
           }
         ],
-        "uid": "_A7YQGmNK",
-        ":block/refs": [
-          {
-            ":block/uid": "sSeeG88c9"
-          }
-        ],
-        "string": "#[[Quick Capture]]",
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "create-time": 1614613826555,
+        "uid": "_A7YQGmNK",
+        "edit-time": 1614657120293,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -25477,6 +25469,96 @@
     "title": "March 2nd, 2021",
     "uid": "03-02-2021",
     "edit-time": 1614643566515,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614656481880,
+    "title": "knives",
+    "uid": "TFhbQ8aBP",
+    "edit-time": 1614656481882,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614657120315,
+    "title": "read/Business Reading List",
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    "children": [
+      {
+        "string": "Keywords: #business, #learning",
+        "create-time": 1614657278124,
+        ":block/refs": [
+          {
+            ":block/uid": "ClxyN9NJ7"
+          },
+          {
+            ":block/uid": "Np_nG0Olw"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ClxyN9NJ7"
+          },
+          {
+            "uid": "Np_nG0Olw"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "EG-xnC8EB",
+        "edit-time": 1614657307344,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "Only the Paranoid Survive: How to Exploit the [Crisis](crisis) Points That Challenge Every Company -- Andrew S. Grove",
+        "create-time": 1614618540871,
+        "uid": "QJ8rhl29I",
+        "edit-time": 1614657260173,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "KYz7yH7Hm",
+    "edit-time": 1614657120317,
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614657292212,
+    "title": "business",
+    "uid": "ClxyN9NJ7",
+    "edit-time": 1614657292229,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614657307372,
+    "title": "learning",
+    "uid": "Np_nG0Olw",
+    "edit-time": 1614657307375,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },

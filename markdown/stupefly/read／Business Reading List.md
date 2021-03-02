@@ -1,0 +1,2 @@
+- Keywords: #business, #learning
+- Only the Paranoid Survive: How to Exploit the [Crisis](crisis) Points That Challenge Every Company -- Andrew S. Grove

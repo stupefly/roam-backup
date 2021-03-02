@@ -1,2 +1,3 @@
-- Keywords: __ __
+- Keywords: [[🗄 Resources]]
 - =======================================================
+- {{[[TODO]]}} Sharpen cooking [[knives]]
