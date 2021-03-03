@@ -1,0 +1,96 @@
+- Keywords: #marketing, #[[acc-sm-marketing 📣]]
+- # Networking
+    - meetups
+    - speaking gigs / conferences
+    - business groups (e.g., [[BNI]])
+    - co-working spaces
+    - workshop presentations
+    - trade show breakouts
+    - listening tours
+- # Marketplaces
+    - freelancer marketplaces (e.g., Upwork, Freelancer)
+    - Craigslist
+    - matchmaking services (e.g., Opencare, Credo, FindLaw)
+google: "find the best..."
+    - expert marketplaces (e.g., Thumbtack)
+- # Business Strategy
+    - [[elevator pitch]]
+    - [[niching]]
+- # Fix the Website
+    - accessibility
+        - navigation
+        - mobile access
+        - load time optimization
+    - single CTA (call to action)
+    - add live chat
+    - track non-conversions (only if significant site traffic)
+- # SEO
+    - Google My Business
+    - directories (increases backlinks)
+        - Moz Local
+        - QB ProAdvisor
+    - reviews
+        - GetFiveStars
+        - Google
+        - Yelp!
+    - ask for links
+    - sign up for HARO (Help A Reporter Out)
+http://www.buzzstream.com/blog/haro.html
+    - keyword optimization
+- # Online Communities
+    - Facebook groups
+    - LinkedIn Groups
+    - Slack channels
+https://standuply.com/slack-chat-groups
+    - Quora
+    - online forums
+- # Referrals
+    - ask current clients
+    - client referral program
+https://www.referralcandy.com/blog/47-referral-programs
+- # PPC Advertising
+    - Google Adwords
+    - Bing ads
+    - Facebook / Instagram ads
+    - LinkedIn ads
+    - Twitter ads
+    - retargeting
+        - configure for individual networks
+        - use retargeting service: Adroll, Perfect Audience
+- # Social Media
+    - Twitter
+    - LinkedIn
+    - Instagram
+    - Pinterest
+- # Podcasts
+    - guest on podcasts
+    - create a podcast
+- # Online Video
+    - YouTube
+        - keyword optimization (e.g., VeeScore, [YouTube SEO](https://backlinko.com/how-to-rank-youtube-videos))
+        - webinars
+        - cross-promotion webinars (aka joint venture webinars)
+        - virtual summits
+- # Business Cards
+    - unconventional remake
+    - strategic placement
+- # Strategic Partnerships
+    - marketing agencies
+    - CPAs / tax advisors
+    - law firms
+    - software channel partners
+        - Clio
+        - QB ProAdvisor
+        - POS systems
+- # Cold Sales
+    - direct snail mail
+    - creative direct mail (e.g., "puzzle box")
+    - personalized cold email (Clearbit)
+- # Close More Leads
+    - automated follow up (e.g., Rebump)
+    - waiting list
+    - proposal management system
+- # Free Stuff
+    - case studies
+    - eBooks
+    - free consults

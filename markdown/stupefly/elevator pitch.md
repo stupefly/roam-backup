@@ -1,0 +1,1 @@
+- https://www.thebalancesmb.com/how-to-write-an-elevator-pitch-2951690
