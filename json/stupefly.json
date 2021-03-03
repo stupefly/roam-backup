@@ -22157,11 +22157,11 @@
         }
       },
       {
-        "string": "{{[[TODO]]}} Shop Whole Foods  #core",
+        "string": "{{[[DONE]]}} Shop Whole Foods  #core",
         "create-time": 1614477584860,
         ":block/refs": [
           {
-            ":block/uid": "hhvTau8RH"
+            ":block/uid": "0HeuefVvJ"
           },
           {
             ":block/uid": "A0Su1fppo"
@@ -22169,7 +22169,7 @@
         ],
         "refs": [
           {
-            "uid": "hhvTau8RH"
+            "uid": "0HeuefVvJ"
           },
           {
             "uid": "A0Su1fppo"
@@ -22179,7 +22179,7 @@
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "lk6R4suSL",
-        "edit-time": 1614580463655,
+        "edit-time": 1614794709024,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -25467,11 +25467,93 @@
   {
     "create-time": 1614643566515,
     "title": "March 2nd, 2021",
-    "uid": "03-02-2021",
-    "edit-time": 1614643566515,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
+    "children": [
+      {
+        "edit-time": 1614794691413,
+        "children": [
+          {
+            "string": "[How To Get Clients: 61 Ways To Get More Clients For Your Business…](https://www.practiceignition.com/blog/get-more-clients)<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-54HXVG9\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>\n\n \nWarning: None of these tactics will help you with your service. Make sure the service you’re offering is awesome to be begin with and clients will start snowballing.\nIf you already have a great service offering, keep reading and I guarantee you’ll find new ways to get more clients.\nI’ve included tactics that work for B2B, B2C, boring industries, sexy industries and everything in between. \nYou may be wondering:\n“How do I get bookkeeping clients? How do I get web design clients? How do I get clients for my consulting business? How do I get clients for my IT company? How do I get PR clients? How do I get clients?!?\"\nThe tactics I’ve listed here work across all of them!\nWhen it boils down to it, the tactics don’t change too much by industry. There are many tried and true methods that work regardless of what field you’re in.\nEven if you have a marketing consultant or agency taking care of lead generation—it’s still worth reading this post—maybe you’ll see something they missed and...\n\n",
+            "create-time": 1614749840059,
+            "uid": "nQw7p__M2",
+            "edit-time": 1614794691413,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "[Council Post: Need To Let A Client Go? Here's How To Do It Professionally](https://www.forbes.com/sites/forbesagencycouncil/2018/03/22/need-to-let-a-client-go-heres-how-to-do-it-professionally/?sh=239acf733d9d) - [[Forbes Agency Council]] Mar 2, 2021 at 05:00\nIt can happen to even the best agencies: You sign a client only to discover that your working relationship is less than ideal. Whether the client is demanding and difficult or you're simply exhausted by the projects you have to do for them, you can see that it's no longer worth your time and energy to continue working together.\nIn situations like this, it's in the best interest of both parties to have an honest but respectful conversation about parting ways. If you're seeing a problem, it's likely that your client is, too. But it's still important to handle this discussion with the utmost professionalism. Follow this advice from Forbes Agency Council members if you find that you need to \"break up\" with one of your clients.\nMembers of the Forbes Agency Council weigh in.\nImages courtesy of FAC members. \n1. Tell Them The Honest Truth \nThere will always be moments of tension between clients and agencies. However, if these become the norm, and your team is not excited about the account anymore, creatives get less creative and account executives become biased toward the bra...\n\n",
+            "create-time": 1614750107318,
+            ":block/refs": [
+              {
+                ":block/uid": "lIb6cO69j"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "lIb6cO69j"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "xGR82PCYn",
+            "edit-time": 1614794691413,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "[How to Fire a Client (Nicely!)](https://agencyanalytics.com/blog/how-to-fire-client) - [[Joe Kindness]] \n\nAre you frustrated with a particular client?\nDo you imagine how wonderful life would be without them?\nSometimes client relationships go sour. This can happen early in the relationship. But it may also deteriorate even after years of working together.\nThe thing is, once a client relationship goes bad, it begins to threaten your agency.\nOver time, this negative client relationship affects your other accounts too.\nThat's why, sometimes, you have to make a tough call and fire a client.\nI bet it's not something you find easy. So, in this post, I decided to share a few ideas on how to fire a client. You'll learn how to do it peacefully, gracefully, and without unpleasant consequences for your agency.\nLet's begin.\nHow to Be 100% Sure That You Must Fire the Client\nLet me make something clear:\nNot every seemingly bad client relationship must end.\nIn fact, just because you face problems with a client, it doesn't mean they have to go.\nPerhaps, you and the client could work out the challenges you face. An honest conversation might save your agency from losing an account. And then, having to find a new client to replace them.\nEgo, unfortunately, could be the culprit too. I've seen many small business owners getting fru...\n\n",
+            "create-time": 1614754565868,
+            ":block/refs": [
+              {
+                ":block/uid": "JM8UGQ8C0"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "JM8UGQ8C0"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "uFd0tKQpw",
+            "edit-time": 1614794691413,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "sSeeG88c9"
+          }
+        ],
+        "uid": "LtPJ3g33g",
+        ":block/refs": [
+          {
+            ":block/uid": "sSeeG88c9"
+          }
+        ],
+        "string": "#[[Quick Capture]]",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1614749840059,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "03-02-2021",
+    "edit-time": 1614794691413,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -25569,8 +25651,150 @@
   {
     "create-time": 1614730011355,
     "title": "March 3rd, 2021",
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    "children": [
+      {
+        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
+        "create-time": 1614794695656,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
+          },
+          {
+            ":block/uid": "A0Su1fppo"
+          },
+          {
+            ":block/uid": "01-01-2000"
+          },
+          {
+            ":block/uid": "4wLPO9CQE"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          },
+          {
+            "uid": "A0Su1fppo"
+          },
+          {
+            "uid": "01-01-2000"
+          },
+          {
+            "uid": "4wLPO9CQE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "8i_CjmMpX",
+        "edit-time": 1614794697698,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "edit-time": 1614794691413,
+        "children": [
+          {
+            "string": "2 Critical Questions Every Employer Should Ask In an Interview or Check-In Meeting - Inc.\nhttps://apple.news/AKpqrfae_QmygUOPow5Oo8g\n\n",
+            "create-time": 1614785120527,
+            "uid": "xDJ9Gn5la",
+            "edit-time": 1614794691413,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "# Knifemaking Tools\n* Double cut bastard file, 10”\n* Round file\n* Hacksaw, high quality\n* Bench vise, 4” jaw\n* Soft jaw inserts (leather)\n* Drill press\n* Drill vise\n* Cobalt drill bits\n* Sandpaper, wet/dry, 120, 220, 320/400, 600, 1000 (60 sheets)\n* Sanding blocks\n* Digital calipers\n* Machinist squares\n* Welders clamps\n* Bar clamps\n* Trigger clams\n* EZE-LAP diamond stone, 2” x 6”\n* 2” x 72” belt grinder (Bader BIII)\n* Bench grinder\n* Angle grinder\n* Arbor press\n* Band saw\n* Spindle sander\n* \n\n#personal\n\n",
+            "create-time": 1614791589380,
+            ":block/refs": [
+              {
+                ":block/uid": "7FVShhX1c"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "7FVShhX1c"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "65VoAnFJz",
+            "edit-time": 1614794691413,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "sSeeG88c9"
+          }
+        ],
+        "uid": "yxk_LUb4w",
+        ":block/refs": [
+          {
+            ":block/uid": "sSeeG88c9"
+          }
+        ],
+        "string": "#[[Quick Capture]]",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1614785120527,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
     "uid": "03-03-2021",
-    "edit-time": 1614730011355,
+    "edit-time": 1614794691413,
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614794691494,
+    "title": "personal",
+    "uid": "7FVShhX1c",
+    "edit-time": 1614794691498,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614794691528,
+    "title": "Forbes Agency Council",
+    "uid": "lIb6cO69j",
+    "edit-time": 1614794691529,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614794691535,
+    "title": "Joe Kindness",
+    "uid": "JM8UGQ8C0",
+    "edit-time": 1614794691536,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
