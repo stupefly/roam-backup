@@ -8198,11 +8198,303 @@
   {
     "create-time": 1614027006642,
     "title": "leadership",
-    "uid": "2mxtw3VBz",
-    "edit-time": 1614027006644,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
+    "children": [
+      {
+        "string": "[Amazon Leadership Principles](https://www.amazon.jobs/en/principles)",
+        "create-time": 1614795809172,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "children": [
+          {
+            "string": "Customer Obsession",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.",
+                "uid": "T8mR__2sy",
+                "edit-time": 1614795856210,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "ttg054vI2",
+            "edit-time": 1614795856210,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Ownership",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job.\"",
+                "uid": "ILxx-2FQw",
+                "edit-time": 1614795856210,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "fw2qT7NBa",
+            "edit-time": 1614795856210,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Invent and Simplify",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here.\" As we do new things, we accept that we may be misunderstood for long periods of time.",
+                "uid": "_mJqCicGP",
+                "edit-time": 1614795856210,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "OWbvVdBHK",
+            "edit-time": 1614795856210,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Are Right, A Lot",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.",
+                "uid": "nrswfh9PL",
+                "edit-time": 1614795856210,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "GsyCKNtz3",
+            "edit-time": 1614795856210,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Learn and Be Curious",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Leaders are never done learning and always seek to improve themselves. They are [curious](curiosity) about new possibilities and act to explore them.",
+                "uid": "E_VETbQVg",
+                "edit-time": 1614795920483,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "OA2I6t2Fy",
+            "edit-time": 1614795856210,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "[Hire](hiring) and Develop the Best",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others. We work on behalf of our people to invent mechanisms for development like Career Choice.",
+                "uid": "qEGxPTi2W",
+                "edit-time": 1614795856210,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "-5pa06OQ4",
+            "edit-time": 1614795947239,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Insist on the Highest Standards",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and drive their teams to deliver high quality products, services, and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.",
+                "uid": "rH-KokfMg",
+                "edit-time": 1614795856210,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "gFXkE4hd4",
+            "edit-time": 1614795856210,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Think Big",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.",
+                "uid": "oK1WIwc2Q",
+                "edit-time": 1614795856210,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "vfv_mm295",
+            "edit-time": 1614795856210,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Bias for Action",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated [[risk]] taking.",
+                "refs": [
+                  {
+                    "uid": "pHhUvf_O0"
+                  }
+                ],
+                "uid": "n1BXYoPd9",
+                "edit-time": 1614795976936,
+                ":block/refs": [
+                  {
+                    ":block/uid": "pHhUvf_O0"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "MfyOZLdgF",
+            "edit-time": 1614795856210,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Frugality",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense.",
+                "uid": "WFV848E4l",
+                "edit-time": 1614795856210,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "j4GKYxt7R",
+            "edit-time": 1614795856210,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Earn [Trust](trust)",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.",
+                "uid": "dGFpkyvzV",
+                "edit-time": 1614795856210,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "HM7B1pg_S",
+            "edit-time": 1614796085442,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Dive Deep",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.",
+                "uid": "Z1Ub3u0Rq",
+                "edit-time": 1614795856210,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "m_7MiKtW9",
+            "edit-time": 1614795856210,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Have Backbone; [Disagree](conflict) and Commit",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly. ",
+                "uid": "YjleKnwSA",
+                "edit-time": 1614796137039,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "AwDfFjiHh",
+            "edit-time": 1614796145648,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Deliver Results",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.",
+                "uid": "pOtUYdIOE",
+                "edit-time": 1614795856210,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "AYVnkL5jn",
+            "edit-time": 1614795856210,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "uid": "zJJRzF23j",
+        "edit-time": 1614795836903,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "2mxtw3VBz",
+    "edit-time": 1614027006644,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -25702,13 +25994,13 @@
         }
       },
       {
-        "edit-time": 1614794691413,
+        "edit-time": 1614794833464,
         "children": [
           {
-            "string": "2 Critical Questions Every Employer Should Ask In an Interview or Check-In Meeting - Inc.\nhttps://apple.news/AKpqrfae_QmygUOPow5Oo8g\n\n",
-            "create-time": 1614785120527,
-            "uid": "xDJ9Gn5la",
-            "edit-time": 1614794691413,
+            "string": "Double cut bastard file, 10”",
+            "create-time": 1614794769236,
+            "uid": "94EXQqTtN",
+            "edit-time": 1614794769274,
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
@@ -25717,23 +26009,253 @@
             }
           },
           {
-            "string": "# Knifemaking Tools\n* Double cut bastard file, 10”\n* Round file\n* Hacksaw, high quality\n* Bench vise, 4” jaw\n* Soft jaw inserts (leather)\n* Drill press\n* Drill vise\n* Cobalt drill bits\n* Sandpaper, wet/dry, 120, 220, 320/400, 600, 1000 (60 sheets)\n* Sanding blocks\n* Digital calipers\n* Machinist squares\n* Welders clamps\n* Bar clamps\n* Trigger clams\n* EZE-LAP diamond stone, 2” x 6”\n* 2” x 72” belt grinder (Bader BIII)\n* Bench grinder\n* Angle grinder\n* Arbor press\n* Band saw\n* Spindle sander\n* \n\n#personal\n\n",
-            "create-time": 1614791589380,
-            ":block/refs": [
-              {
-                ":block/uid": "7FVShhX1c"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "7FVShhX1c"
-              }
-            ],
+            "string": "Round file",
+            "create-time": 1614794769236,
+            "uid": "FuqExzSEL",
+            "edit-time": 1614794769274,
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
-            "uid": "65VoAnFJz",
-            "edit-time": 1614794691413,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Hacksaw, high quality",
+            "create-time": 1614794769236,
+            "uid": "MbH5vKD5q",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Bench vise, 4” jaw",
+            "create-time": 1614794769236,
+            "uid": "aKMYedZME",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Soft jaw inserts (leather)",
+            "create-time": 1614794769236,
+            "uid": "8P-3CIg-Y",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Drill press",
+            "create-time": 1614794769236,
+            "uid": "OsUCtdxJi",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Drill vise",
+            "create-time": 1614794769236,
+            "uid": "GQjZcnC2H",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Cobalt drill bits",
+            "create-time": 1614794769236,
+            "uid": "ubwC6NTE-",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Sandpaper, wet/dry, 120, 220, 320/400, 600, 1000 (60 sheets)",
+            "create-time": 1614794769236,
+            "uid": "8rStz58W4",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Sanding blocks",
+            "create-time": 1614794769236,
+            "uid": "fjhFR0aqK",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Digital calipers",
+            "create-time": 1614794769236,
+            "uid": "qk7NWfFgZ",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Machinist squares",
+            "create-time": 1614794769236,
+            "uid": "WLC-PzGxR",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Welders clamps",
+            "create-time": 1614794769236,
+            "uid": "7FwcHuy7h",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Bar clamps",
+            "create-time": 1614794769236,
+            "uid": "Lb-dZUItI",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Trigger clams",
+            "create-time": 1614794769236,
+            "uid": "hYiQXhn0W",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "EZE-LAP diamond stone, 2” x 6”",
+            "create-time": 1614794769236,
+            "uid": "6QvXB2fn1",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "2” x 72” belt grinder (Bader BIII)",
+            "create-time": 1614794769236,
+            "uid": "u_mbU0Tuw",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Bench grinder",
+            "create-time": 1614794769236,
+            "uid": "7cHkC_HAW",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Angle grinder",
+            "create-time": 1614794769236,
+            "uid": "xwxSBMe6w",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Arbor press",
+            "create-time": 1614794769236,
+            "uid": "u2hohBt3n",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Band saw",
+            "create-time": 1614794769236,
+            "uid": "agil5WCoi",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Spindle sander",
+            "create-time": 1614794769236,
+            "uid": "8kf9lxct2",
+            "edit-time": 1614794769274,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
@@ -25741,20 +26263,44 @@
         ],
         "refs": [
           {
-            "uid": "sSeeG88c9"
+            "uid": "q-ieCA2N0"
+          },
+          {
+            "uid": "Wn_Hch6sZ"
+          },
+          {
+            "uid": "S7DogI5l7"
           }
         ],
-        "uid": "yxk_LUb4w",
+        "uid": "65VoAnFJz",
         ":block/refs": [
           {
-            ":block/uid": "sSeeG88c9"
+            ":block/uid": "q-ieCA2N0"
+          },
+          {
+            ":block/uid": "Wn_Hch6sZ"
+          },
+          {
+            ":block/uid": "S7DogI5l7"
           }
         ],
-        "string": "#[[Quick Capture]]",
+        "string": "[Knifemaking]([[knifemaking]]) Tools\nKeywords: #[[🗄 Resources]], #[[♻️ Archives]]",
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "create-time": 1614785120527,
+        "create-time": 1614791589380,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1614794991736,
+        "uid": "NRx8yEqvf",
+        "edit-time": 1614794991736,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -25762,18 +26308,6 @@
     ],
     "uid": "03-03-2021",
     "edit-time": 1614794691413,
-    ":edit/user": {
-      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-    }
-  },
-  {
-    "create-time": 1614794691494,
-    "title": "personal",
-    "uid": "7FVShhX1c",
-    "edit-time": 1614794691498,
-    ":create/user": {
-      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-    },
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -25795,6 +26329,170 @@
     "title": "Joe Kindness",
     "uid": "JM8UGQ8C0",
     "edit-time": 1614794691536,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614794791785,
+    "title": "knifemaking",
+    "uid": "S7DogI5l7",
+    "edit-time": 1614794791787,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614795045061,
+    "title": "hiring",
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    "children": [
+      {
+        "string": "Keywords: #[[acc-integrator ☯️]], #HR",
+        "create-time": 1614795417589,
+        ":block/refs": [
+          {
+            ":block/uid": "S1zTSMgbi"
+          },
+          {
+            ":block/uid": "MqFkei3s4"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "S1zTSMgbi"
+          },
+          {
+            "uid": "MqFkei3s4"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "idMV8Qyxz",
+        "edit-time": 1614795417589,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "edit-time": 1614795417621,
+        "children": [
+          {
+            "string": "Tell me about your best boss",
+            "create-time": 1614795045041,
+            "uid": "wfRwKIXuT",
+            "edit-time": 1614795056794,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Tell me about your worst boss",
+            "create-time": 1614795057691,
+            "uid": "gemRimJv4",
+            "edit-time": 1614795509436,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Tell me about some of the most difficult problems you worked on and how you solved them (Look for the little details that show they know __exactly__ how they solved them)",
+            "create-time": 1614795509394,
+            "uid": "witneiCPk",
+            "edit-time": 1614795574441,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "j8CCeMFA7"
+          }
+        ],
+        "uid": "dljL249SJ",
+        ":block/refs": [
+          {
+            ":block/uid": "j8CCeMFA7"
+          }
+        ],
+        "string": "========================================\nQuestions for hiring [[interview]]",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1614794967778,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "Hiring strategies",
+        "create-time": 1614795430672,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "children": [
+          {
+            "string": "Look for evidence of exceptional ability. If there’s a track record of exceptional achievement, then it’s likely that that will continue into the future.",
+            "create-time": 1614795441570,
+            "uid": "tm4WSlhXg",
+            "edit-time": 1614795482730,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "uid": "KtwMzpSQ6",
+        "edit-time": 1614795441581,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "bLiqDfi4L",
+    "edit-time": 1614795382233,
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614795153757,
+    "title": "HR",
+    "uid": "MqFkei3s4",
+    "edit-time": 1614795153761,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614795386342,
+    "title": "interview",
+    "uid": "j8CCeMFA7",
+    "edit-time": 1614795386344,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
