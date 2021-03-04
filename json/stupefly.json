@@ -14585,7 +14585,7 @@
     },
     "children": [
       {
-        "string": "roam inbox (also: [[inbox]], [[Quick Capture]])",
+        "string": "roam inbox (also: [[inbox]], [[📥 Quick Capture]])",
         "create-time": 1614142760273,
         ":block/refs": [
           {
@@ -14607,7 +14607,7 @@
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "fdAYyHPDo",
-        "edit-time": 1614240517959,
+        "edit-time": 1614884511258,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -15551,36 +15551,26 @@
   },
   {
     "create-time": 1614195164279,
-    "title": "Quick Capture",
+    "title": "📥 Quick Capture",
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
     "children": [
       {
-        "string": "see #[[📥 Inbox]]",
+        "string": "",
         "create-time": 1614195349303,
-        ":block/refs": [
-          {
-            ":block/uid": "0lAddRQzh"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "0lAddRQzh"
-          }
-        ],
+        "uid": "k2qz53XpP",
+        "edit-time": 1614884508701,
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "uid": "k2qz53XpP",
-        "edit-time": 1614195442847,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
       }
     ],
     "uid": "sSeeG88c9",
-    "edit-time": 1614195164279,
+    "edit-time": 1614884511258,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -28592,11 +28582,14 @@
     },
     "children": [
       {
-        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
+        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }} **Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[query]]}}}}",
         "create-time": 1614841329394,
         ":block/refs": [
           {
             ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "sSeeG88c9"
           },
           {
             ":block/uid": "sS9KVdL8B"
@@ -28616,6 +28609,9 @@
             "uid": "hhvTau8RH"
           },
           {
+            "uid": "sSeeG88c9"
+          },
+          {
             "uid": "sS9KVdL8B"
           },
           {
@@ -28632,7 +28628,7 @@
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "1c0Uonl2C",
-        "edit-time": 1614841329394,
+        "edit-time": 1614884511258,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -28660,65 +28656,57 @@
         }
       },
       {
-        "string": "",
-        "create-time": 1614843763793,
-        "uid": "Gs2yRFgKL",
-        "edit-time": 1614843763793,
+        "string": "{{[[TODO]]}} Dear John letter to PDM/POP #core",
+        "create-time": 1614884195175,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "A0Su1fppo"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "A0Su1fppo"
+          }
+        ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
+        "uid": "0siF20sun",
+        "edit-time": 1614884219495,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
       },
       {
-        "edit-time": 1614849067374,
-        "children": [
+        "string": "#CIIS meeting re: search[[March 5th, 2021]]\n- Issues: \n\t- Unresolved conflict re: Aneel candidacy \n\t- Corresponding lack of confidence is search committee\n\t- Serious enough to precipitate resignations if not resolved\n- Path to resolution:\n\t- Convene a board meeting to:\n\t\t- consider Aneel's status as a future candidate\n\t\t- affirm its path forward after resolving primary question \n\n",
+        "create-time": 1614849056832,
+        ":block/refs": [
           {
-            "string": "#CIIS meeting re: search[[March 5th, 2021]]\n- Issues: \n\t- Unresolved conflict re: Aneel candidacy \n\t- Corresponding lack of confidence is search committee\n\t- Serious enough to precipitate resignations if not resolved\n- Path to resolution:\n\t- Convene a board meeting to:\n\t\t- consider Aneel's status as a future candidate\n\t\t- affirm its path forward after resolving primary question \n\n",
-            "create-time": 1614849056832,
-            ":block/refs": [
-              {
-                ":block/uid": "03-05-2021"
-              },
-              {
-                ":block/uid": "phs_OdVPb"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "03-05-2021"
-              },
-              {
-                "uid": "phs_OdVPb"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            "uid": "OVSzBCgdj",
-            "edit-time": 1614849067374,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
+            ":block/uid": "03-05-2021"
+          },
+          {
+            ":block/uid": "phs_OdVPb"
           }
         ],
         "refs": [
           {
-            "uid": "sSeeG88c9"
-          }
-        ],
-        "uid": "IGRCn9tzN",
-        ":block/refs": [
+            "uid": "03-05-2021"
+          },
           {
-            ":block/uid": "sSeeG88c9"
+            "uid": "phs_OdVPb"
           }
         ],
-        "string": "#[[Quick Capture]]",
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "create-time": 1614849056832,
+        "uid": "OVSzBCgdj",
+        "edit-time": 1614849067374,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }

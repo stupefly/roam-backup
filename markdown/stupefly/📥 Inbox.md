@@ -1,1 +1,1 @@
-- roam inbox (also: [[inbox]], [[Quick Capture]])
+- roam inbox (also: [[inbox]], [[📥 Quick Capture]])
