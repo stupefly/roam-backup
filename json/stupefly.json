@@ -16494,7 +16494,7 @@
         }
       },
       {
-        "edit-time": 1614472279215,
+        "edit-time": 1614885259745,
         "children": [
           {
             "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }} ",
@@ -16541,6 +16541,40 @@
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
+          },
+          {
+            "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
+            "create-time": 1614885272587,
+            ":block/refs": [
+              {
+                ":block/uid": "0lAddRQzh"
+              },
+              {
+                ":block/uid": "sSeeG88c9"
+              },
+              {
+                ":block/uid": "sS9KVdL8B"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "0lAddRQzh"
+              },
+              {
+                "uid": "sSeeG88c9"
+              },
+              {
+                "uid": "sS9KVdL8B"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "Oc4dywBAM",
+            "edit-time": 1614885272587,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
           }
         ],
         "refs": [
@@ -16554,7 +16588,7 @@
             ":block/uid": "QkDgwdCwc"
           }
         ],
-        "string": "DailyCore #roam/templates",
+        "string": "Core #roam/templates",
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
@@ -28582,14 +28616,11 @@
     },
     "children": [
       {
-        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }} **Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[query]]}}}}",
-        "create-time": 1614841329394,
+        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
+        "create-time": 1614885207981,
         ":block/refs": [
           {
             ":block/uid": "hhvTau8RH"
-          },
-          {
-            ":block/uid": "sSeeG88c9"
           },
           {
             ":block/uid": "sS9KVdL8B"
@@ -28609,9 +28640,6 @@
             "uid": "hhvTau8RH"
           },
           {
-            "uid": "sSeeG88c9"
-          },
-          {
             "uid": "sS9KVdL8B"
           },
           {
@@ -28627,30 +28655,64 @@
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "uid": "1c0Uonl2C",
-        "edit-time": 1614884511258,
+        "uid": "eQH40mwWj",
+        "edit-time": 1614885207981,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
       },
       {
-        "string": "{{[[TODO]]}} Add quick capture to daily core",
-        "create-time": 1614843702714,
+        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
+        "create-time": 1614841329394,
         ":block/refs": [
           {
-            ":block/uid": "hhvTau8RH"
+            ":block/uid": "0lAddRQzh"
+          },
+          {
+            ":block/uid": "sSeeG88c9"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
           }
         ],
         "refs": [
           {
-            "uid": "hhvTau8RH"
+            "uid": "0lAddRQzh"
+          },
+          {
+            "uid": "sSeeG88c9"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "1c0Uonl2C",
+        "edit-time": 1614885208015,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "{{[[DONE]]}} Add quick capture to daily core",
+        "create-time": 1614843702714,
+        ":block/refs": [
+          {
+            ":block/uid": "0HeuefVvJ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0HeuefVvJ"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "bItBtVDqn",
-        "edit-time": 1614843756101,
+        "edit-time": 1614884649233,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -28684,14 +28746,109 @@
         }
       },
       {
-        "string": "#CIIS meeting re: search[[March 5th, 2021]]\n- Issues: \n\t- Unresolved conflict re: Aneel candidacy \n\t- Corresponding lack of confidence is search committee\n\t- Serious enough to precipitate resignations if not resolved\n- Path to resolution:\n\t- Convene a board meeting to:\n\t\t- consider Aneel's status as a future candidate\n\t\t- affirm its path forward after resolving primary question \n\n",
-        "create-time": 1614849056832,
-        ":block/refs": [
+        "edit-time": 1614885019412,
+        "children": [
           {
-            ":block/uid": "03-05-2021"
+            "string": "Issues: ",
+            "create-time": 1614885020303,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "Unresolved conflict re: Aneel candidacy ",
+                "create-time": 1614885020303,
+                "uid": "HoOijSVLJ",
+                "edit-time": 1614885020317,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Corresponding lack of confidence is search committee",
+                "create-time": 1614885020303,
+                "uid": "jQQig0rJ2",
+                "edit-time": 1614885020317,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Serious enough to precipitate resignations if not resolved",
+                "create-time": 1614885020303,
+                "uid": "fTh2CYYNo",
+                "edit-time": 1614885020317,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "VQvEOJ0E3",
+            "edit-time": 1614885020317,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
           },
           {
-            ":block/uid": "phs_OdVPb"
+            "string": "Path to resolution:",
+            "create-time": 1614885020303,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "Convene a board meeting to:",
+                "create-time": 1614885020303,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "consider Aneel's status as a future candidate",
+                    "create-time": 1614885020303,
+                    "uid": "YqxscvG7D",
+                    "edit-time": 1614885020317,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "affirm its path forward after resolving primary question \n",
+                    "create-time": 1614885020303,
+                    "uid": "6VbOb2vrc",
+                    "edit-time": 1614885029450,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "3zTC2lbs6",
+                "edit-time": 1614885020317,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "4JMJ33sGw",
+            "edit-time": 1614885020317,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
           }
         ],
         "refs": [
@@ -28702,11 +28859,20 @@
             "uid": "phs_OdVPb"
           }
         ],
+        "uid": "OVSzBCgdj",
+        ":block/refs": [
+          {
+            ":block/uid": "03-05-2021"
+          },
+          {
+            ":block/uid": "phs_OdVPb"
+          }
+        ],
+        "string": "#CIIS meeting re: search on [[March 5th, 2021]]",
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "uid": "OVSzBCgdj",
-        "edit-time": 1614849067374,
+        "create-time": 1614849056832,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
