@@ -23,4 +23,17 @@ Keywords: #[[🗄 Resources]], #[[♻️ Archives]]
     - Arbor press
     - Band saw
     - Spindle sander
-- 
+- Client Dismissal Letter
+    - Honest and direct
+        - Take responsibility for our part
+        - Don't blame the client
+    - Offer a 60-day window for transition 
+    - Collaborate with new vendor
+    - Be a partner, not a vendor
+        - Push back, ask questions, understand business problems, figure out the steps to achieve the outcome
+    - Give a referral
+    - Solicit feedback
+        - What went right/wrong in the relationship?
+    - Suggest a contract 'pause'
+    - Wording
+        - Our best work is not being produced

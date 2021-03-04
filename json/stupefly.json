@@ -25378,14 +25378,14 @@
         }
       },
       {
-        "string": "{{[[TODO]]}} Book dental appointments for boys #[[Personal Todos]]",
+        "string": "{{[[DONE]]}} Book dental appointments for boys #[[Personal Todos]]",
         "create-time": 1614409056030,
         ":block/refs": [
           {
             ":block/uid": "P5uQTWVPt"
           },
           {
-            ":block/uid": "hhvTau8RH"
+            ":block/uid": "0HeuefVvJ"
           }
         ],
         "refs": [
@@ -25393,14 +25393,14 @@
             "uid": "P5uQTWVPt"
           },
           {
-            "uid": "hhvTau8RH"
+            "uid": "0HeuefVvJ"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "dtiNAnVEw",
-        "edit-time": 1614409056030,
+        "edit-time": 1614837353040,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -25799,23 +25799,13 @@
         "edit-time": 1614794691413,
         "children": [
           {
-            "string": "[Council Post: Need To Let A Client Go? Here's How To Do It Professionally](https://www.forbes.com/sites/forbesagencycouncil/2018/03/22/need-to-let-a-client-go-heres-how-to-do-it-professionally/?sh=239acf733d9d) - [[Forbes Agency Council]] Mar 2, 2021 at 05:00\nIt can happen to even the best agencies: You sign a client only to discover that your working relationship is less than ideal. Whether the client is demanding and difficult or you're simply exhausted by the projects you have to do for them, you can see that it's no longer worth your time and energy to continue working together.\nIn situations like this, it's in the best interest of both parties to have an honest but respectful conversation about parting ways. If you're seeing a problem, it's likely that your client is, too. But it's still important to handle this discussion with the utmost professionalism. Follow this advice from Forbes Agency Council members if you find that you need to \"break up\" with one of your clients.\nMembers of the Forbes Agency Council weigh in.\nImages courtesy of FAC members. \n1. Tell Them The Honest Truth \nThere will always be moments of tension between clients and agencies. However, if these become the norm, and your team is not excited about the account anymore, creatives get less creative and account executives become biased toward the bra...\n\n",
+            "string": "\n\n",
             "create-time": 1614750107318,
-            ":block/refs": [
-              {
-                ":block/uid": "lIb6cO69j"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "lIb6cO69j"
-              }
-            ],
+            "uid": "xGR82PCYn",
+            "edit-time": 1614837811715,
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
-            "uid": "xGR82PCYn",
-            "edit-time": 1614794691413,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
@@ -26314,13 +26304,179 @@
         }
       },
       {
-        "string": "",
+        "string": "Client Dismissal Letter",
         "create-time": 1614794991736,
-        "uid": "NRx8yEqvf",
-        "edit-time": 1614794991736,
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
+        "children": [
+          {
+            "string": "Honest and direct",
+            "create-time": 1614837395040,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "Take responsibility for our part",
+                "create-time": 1614837659939,
+                "uid": "7Xhuv1lkj",
+                "edit-time": 1614837661931,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Don't blame the client",
+                "create-time": 1614837662614,
+                "uid": "zA8L8KUJz",
+                "edit-time": 1614837667875,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "c4vIPF9g_",
+            "edit-time": 1614837425678,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Offer a 60-day window for transition ",
+            "create-time": 1614837455262,
+            "uid": "VS7Yz9LdD",
+            "edit-time": 1614837510510,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Collaborate with new vendor",
+            "create-time": 1614837510490,
+            "uid": "0AWHW5gHR",
+            "edit-time": 1614837515885,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Be a partner, not a vendor",
+            "create-time": 1614837545653,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "Push back, ask questions, understand business problems, figure out the steps to achieve the outcome",
+                "create-time": 1614837561139,
+                "uid": "4eLLDGdPZ",
+                "edit-time": 1614837596163,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "wgAE0YCWm",
+            "edit-time": 1614837552594,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Give a referral",
+            "create-time": 1614837613576,
+            "uid": "Fkq3BVoem",
+            "edit-time": 1614837618258,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Solicit feedback",
+            "create-time": 1614837618899,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "What went right/wrong in the relationship?",
+                "create-time": 1614837681354,
+                "uid": "EfVASF9bu",
+                "edit-time": 1614837698188,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "I2oHTOaTy",
+            "edit-time": 1614837675879,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Suggest a contract 'pause'",
+            "create-time": 1614837732954,
+            "uid": "r7-JtlxiE",
+            "edit-time": 1614837741524,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Wording",
+            "create-time": 1614837426738,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "Our best work is not being produced",
+                "create-time": 1614837437224,
+                "uid": "WEOO47ITT",
+                "edit-time": 1614837450758,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "hJyW43Hba",
+            "edit-time": 1614837437081,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "uid": "NRx8yEqvf",
+        "edit-time": 1614837390653,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
