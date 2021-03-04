@@ -2,3 +2,55 @@
 Keywords: #[[🗺 Areas]], #active
 - =======================================================
 - #[[client training - QBO]]
+- [[Client Dismissal]]
+    - Dismissal reasons
+        - Broken client [[communication]]
+        - Unrealistic demands
+        - No support for vital projects
+        - No acknowledgement of [[expertise]]
+        - New process that generates more costs
+        - Bad temper / hostile attitude / non-constructive criticism
+        - Late payments / unpaid bills
+    - Questions to ask before dismissing
+        - Have we exhausted avenues to improving the situation?
+            - Different account manager
+            - Process clarity
+            - Better [[onboarding]]/[[documentation]]
+            - Improve [[expectation management]]
+            - Brainstorm solutions with client
+        - Have we checked our egos?
+            - Are our egos driving dismissal?
+            - Clients are assholes just because they reject our advice
+            - Perhaps we just simply failed to fully understand the client's problem
+        - Are we losing money on the client?
+            - Examine communication and handholding overhead
+        - Are we losing staff because of the client?
+            - The [[talent]] in our [[team]] is the mojo that attracts clients
+    - Alternatives to dismissal
+        - Suggest a contract 'pause'
+        - Be a [partner](partnership), not a vendor
+            - Push back, ask questions, understand business problems, figure out the steps to achieve the outcome
+        - Amend service delivery process so that it will be unsuitable to client
+        - Amend [[pricing]]
+        - Is it a challenging project or challenging client? The former could propel us forward in maturity and reputation
+    - Communication of dismissal
+        - Method: Don't fire over email unless followed with face-to-face or call
+        - Qualities
+            - Honest and direct
+            - Take responsibility for our part
+            - Never blame the client; focus on their interests
+            - Don't leave openings for [[negotiation]]
+        - Content
+            - "Our best work is not being produced"
+            - Reason(s) given
+                - New situation preventing us from given client our fullest attention
+                - Change of business focus (sitting outside of client needs)
+            - Offer a 60-day window for [[transition]] 
+                - Set expectations / next steps
+                - Complete outstanding work or identify transition steps
+                - Create final task lists for us and the client
+                    - Vendor transition
+                - Collaborate with new vendor
+            - Suggest our replacement
+            - Solicit feedback
+                - What went right/wrong in the relationship?

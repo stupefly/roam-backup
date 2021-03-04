@@ -2287,6 +2287,764 @@
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
+      },
+      {
+        "edit-time": 1614841579467,
+        "children": [
+          {
+            "string": "Dismissal reasons",
+            "create-time": 1614837881082,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "Broken client [[communication]]",
+                "create-time": 1614837888742,
+                ":block/refs": [
+                  {
+                    ":block/uid": "9EV2Uf2Gb"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "9EV2Uf2Gb"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "uid": "oMMLtpD2Z",
+                "edit-time": 1614840757659,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Unrealistic demands",
+                "create-time": 1614837898043,
+                "uid": "MhKfEw-Hj",
+                "edit-time": 1614837904793,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "No support for vital projects",
+                "create-time": 1614837904934,
+                "uid": "gb5NOMx7A",
+                "edit-time": 1614837922785,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "No acknowledgement of [[expertise]]",
+                "create-time": 1614838859458,
+                ":block/refs": [
+                  {
+                    ":block/uid": "KnefYd4D7"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "KnefYd4D7"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "uid": "_fx2K9R6Z",
+                "edit-time": 1614840767260,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "New process that generates more costs",
+                "create-time": 1614837925249,
+                "uid": "VaI-8boaw",
+                "edit-time": 1614837949518,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Bad temper / hostile attitude / non-constructive criticism",
+                "create-time": 1614837955538,
+                "uid": "77NIVUdWA",
+                "edit-time": 1614839031886,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Late payments / unpaid bills",
+                "create-time": 1614837984026,
+                "uid": "1UkW9IOan",
+                "edit-time": 1614838001068,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "-rQUYcs-s",
+            "edit-time": 1614837888774,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Questions to ask before dismissing",
+            "create-time": 1614839225908,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "Have we exhausted avenues to improving the situation?",
+                "create-time": 1614839266796,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "Different account manager",
+                    "create-time": 1614839319271,
+                    "uid": "zQSKIBBt9",
+                    "edit-time": 1614839325768,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Process clarity",
+                    "create-time": 1614839327446,
+                    "uid": "FE903wVuo",
+                    "edit-time": 1614839332003,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Better [[onboarding]]/[[documentation]]",
+                    "create-time": 1614839333785,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "JnvuuHVNp"
+                      },
+                      {
+                        ":block/uid": "4eVohnyOi"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "JnvuuHVNp"
+                      },
+                      {
+                        "uid": "4eVohnyOi"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "uid": "GbH9shnyF",
+                    "edit-time": 1614840482961,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Improve [[expectation management]]",
+                    "create-time": 1614839354613,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "H7DpUhxpj"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "H7DpUhxpj"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "uid": "uq79cFYBl",
+                    "edit-time": 1614840494330,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Brainstorm solutions with client",
+                    "create-time": 1614839380604,
+                    "uid": "avpQgkBMM",
+                    "edit-time": 1614839400403,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "uQtiFeByk",
+                "edit-time": 1614839296321,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Have we checked our egos?",
+                "create-time": 1614839405321,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "Are our egos driving dismissal?",
+                    "create-time": 1614839466196,
+                    "uid": "nCQzxAObm",
+                    "edit-time": 1614839485102,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Clients are assholes just because they reject our advice",
+                    "create-time": 1614839595376,
+                    "uid": "HzFGO89xv",
+                    "edit-time": 1614839607141,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Perhaps we just simply failed to fully understand the client's problem",
+                    "create-time": 1614839485089,
+                    "uid": "qcIF-AMnr",
+                    "edit-time": 1614839596727,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "0JONONNBa",
+                "edit-time": 1614839427315,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Are we losing money on the client?",
+                "create-time": 1614839636812,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "Examine communication and handholding overhead",
+                    "create-time": 1614839693427,
+                    "uid": "U-jFf90B_",
+                    "edit-time": 1614839718395,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "jLoF9viAD",
+                "edit-time": 1614839647376,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Are we losing staff because of the client?",
+                "create-time": 1614839730900,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "The [[talent]] in our [[team]] is the mojo that attracts clients",
+                    "create-time": 1614839745531,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "1muEMAmPo"
+                      },
+                      {
+                        ":block/uid": "P_3VUe618"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "1muEMAmPo"
+                      },
+                      {
+                        "uid": "P_3VUe618"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "uid": "6qWOxG_GA",
+                    "edit-time": 1614840786051,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "TNOzQNjzK",
+                "edit-time": 1614839745566,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "rH0751ikf",
+            "edit-time": 1614839266831,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Alternatives to dismissal",
+            "create-time": 1614838318907,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "Suggest a contract 'pause'",
+                "create-time": 1614838327782,
+                "uid": "n0Ce0GpBC",
+                "edit-time": 1614838336742,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Be a [partner](partnership), not a vendor",
+                "create-time": 1614837545653,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "Push back, ask questions, understand business problems, figure out the steps to achieve the outcome",
+                    "create-time": 1614837561139,
+                    "uid": "4eLLDGdPZ",
+                    "edit-time": 1614837596163,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "wgAE0YCWm",
+                "edit-time": 1614840621860,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Amend service delivery process so that it will be unsuitable to client",
+                "create-time": 1614838641769,
+                "uid": "j0GCPRFO2",
+                "edit-time": 1614838755429,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Amend [[pricing]]",
+                "create-time": 1614838761404,
+                ":block/refs": [
+                  {
+                    ":block/uid": "XrJuc1wZp"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "XrJuc1wZp"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "uid": "sp8-ZNo_n",
+                "edit-time": 1614840639961,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Is it a challenging project or challenging client? The former could propel us forward in maturity and reputation",
+                "create-time": 1614839073771,
+                "uid": "l-QKDjvUm",
+                "edit-time": 1614839192519,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "qXvcXQEYB",
+            "edit-time": 1614838327618,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Communication of dismissal",
+            "create-time": 1614838279319,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "Method: Don't fire over email unless followed with face-to-face or call",
+                "create-time": 1614838134686,
+                "uid": "g8KfxZrwg",
+                "edit-time": 1614838533293,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Qualities",
+                "create-time": 1614840120043,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "Honest and direct",
+                    "create-time": 1614837395040,
+                    "uid": "c4vIPF9g_",
+                    "edit-time": 1614837425678,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Take responsibility for our part",
+                    "create-time": 1614837659939,
+                    "uid": "7Xhuv1lkj",
+                    "edit-time": 1614837661931,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Never blame the client; focus on their interests",
+                    "create-time": 1614837662614,
+                    "uid": "zA8L8KUJz",
+                    "edit-time": 1614840382237,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Don't leave openings for [[negotiation]]",
+                    "create-time": 1614838101641,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ncn4oB-Jn"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "ncn4oB-Jn"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "uid": "vr14TQjYW",
+                    "edit-time": 1614840665745,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "DY3p6dl7T",
+                "edit-time": 1614840124588,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Content",
+                "create-time": 1614837426738,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "\"Our best work is not being produced\"",
+                    "create-time": 1614837437224,
+                    "uid": "WEOO47ITT",
+                    "edit-time": 1614840347342,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Reason(s) given",
+                    "create-time": 1614838554697,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "string": "New situation preventing us from given client our fullest attention",
+                        "create-time": 1614838568448,
+                        "uid": "7DGWcgKiF",
+                        "edit-time": 1614838596243,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Change of business focus (sitting outside of client needs)",
+                        "create-time": 1614838614460,
+                        "uid": "aKNd_ZVhc",
+                        "edit-time": 1614838637845,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "NoTXVEVP0",
+                    "edit-time": 1614838567766,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "edit-time": 1614840675071,
+                    "children": [
+                      {
+                        "string": "Set expectations / next steps",
+                        "create-time": 1614840398004,
+                        "uid": "fzy4ekp15",
+                        "edit-time": 1614840412201,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Complete outstanding work or identify transition steps",
+                        "create-time": 1614838049139,
+                        "uid": "weTCGa_vX",
+                        "edit-time": 1614838091984,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Create final task lists for us and the client",
+                        "create-time": 1614838218604,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Vendor transition",
+                            "create-time": 1614838252899,
+                            "uid": "sCmHb84cX",
+                            "edit-time": 1614838261926,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "mXT3ceP1I",
+                        "edit-time": 1614838241001,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Collaborate with new vendor",
+                        "create-time": 1614837510490,
+                        "uid": "0AWHW5gHR",
+                        "edit-time": 1614837515885,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "o_6tbwaN1"
+                      }
+                    ],
+                    "uid": "VS7Yz9LdD",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "o_6tbwaN1"
+                      }
+                    ],
+                    "string": "Offer a 60-day window for [[transition]] ",
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "create-time": 1614837455262,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Suggest our replacement",
+                    "create-time": 1614837613576,
+                    "uid": "Fkq3BVoem",
+                    "edit-time": 1614838478789,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Solicit feedback",
+                    "create-time": 1614837618899,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "string": "What went right/wrong in the relationship?",
+                        "create-time": 1614837681354,
+                        "uid": "EfVASF9bu",
+                        "edit-time": 1614837698188,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "I2oHTOaTy",
+                    "edit-time": 1614837675879,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "hJyW43Hba",
+                "edit-time": 1614840282592,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "v8S9CU3Xc",
+            "edit-time": 1614838294292,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hW_NJnNw_"
+          }
+        ],
+        "uid": "NRx8yEqvf",
+        ":block/refs": [
+          {
+            ":block/uid": "hW_NJnNw_"
+          }
+        ],
+        "string": "[[Client Dismissal]]",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1614794991736,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
       }
     ],
     "uid": "y1YbT2NJ6",
@@ -26300,764 +27058,6 @@
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
-      },
-      {
-        "edit-time": 1614840733147,
-        "children": [
-          {
-            "string": "Dismissal reasons",
-            "create-time": 1614837881082,
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            "children": [
-              {
-                "string": "Broken client [[communication]]",
-                "create-time": 1614837888742,
-                ":block/refs": [
-                  {
-                    ":block/uid": "9EV2Uf2Gb"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "9EV2Uf2Gb"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "uid": "oMMLtpD2Z",
-                "edit-time": 1614840757659,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Unrealistic demands",
-                "create-time": 1614837898043,
-                "uid": "MhKfEw-Hj",
-                "edit-time": 1614837904793,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "No support for vital projects",
-                "create-time": 1614837904934,
-                "uid": "gb5NOMx7A",
-                "edit-time": 1614837922785,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "No acknowledgement of [[expertise]]",
-                "create-time": 1614838859458,
-                ":block/refs": [
-                  {
-                    ":block/uid": "KnefYd4D7"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "KnefYd4D7"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "uid": "_fx2K9R6Z",
-                "edit-time": 1614840767260,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "New process that generates more costs",
-                "create-time": 1614837925249,
-                "uid": "VaI-8boaw",
-                "edit-time": 1614837949518,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Bad temper / hostile attitude / non-constructive criticism",
-                "create-time": 1614837955538,
-                "uid": "77NIVUdWA",
-                "edit-time": 1614839031886,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Late payments / unpaid bills",
-                "create-time": 1614837984026,
-                "uid": "1UkW9IOan",
-                "edit-time": 1614838001068,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "-rQUYcs-s",
-            "edit-time": 1614837888774,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Questions to ask before dismissing",
-            "create-time": 1614839225908,
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            "children": [
-              {
-                "string": "Have we exhausted avenues to improving the situation?",
-                "create-time": 1614839266796,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "Different account manager",
-                    "create-time": 1614839319271,
-                    "uid": "zQSKIBBt9",
-                    "edit-time": 1614839325768,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Process clarity",
-                    "create-time": 1614839327446,
-                    "uid": "FE903wVuo",
-                    "edit-time": 1614839332003,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Better [[onboarding]]/[[documentation]]",
-                    "create-time": 1614839333785,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "JnvuuHVNp"
-                      },
-                      {
-                        ":block/uid": "4eVohnyOi"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "JnvuuHVNp"
-                      },
-                      {
-                        "uid": "4eVohnyOi"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    "uid": "GbH9shnyF",
-                    "edit-time": 1614840482961,
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Improve [[expectation management]]",
-                    "create-time": 1614839354613,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "H7DpUhxpj"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "H7DpUhxpj"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    "uid": "uq79cFYBl",
-                    "edit-time": 1614840494330,
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Brainstorm solutions with client",
-                    "create-time": 1614839380604,
-                    "uid": "avpQgkBMM",
-                    "edit-time": 1614839400403,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "uQtiFeByk",
-                "edit-time": 1614839296321,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Have we checked our egos?",
-                "create-time": 1614839405321,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "Are our egos driving dismissal?",
-                    "create-time": 1614839466196,
-                    "uid": "nCQzxAObm",
-                    "edit-time": 1614839485102,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Clients are assholes just because they reject our advice",
-                    "create-time": 1614839595376,
-                    "uid": "HzFGO89xv",
-                    "edit-time": 1614839607141,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Perhaps we just simply failed to fully understand the client's problem",
-                    "create-time": 1614839485089,
-                    "uid": "qcIF-AMnr",
-                    "edit-time": 1614839596727,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "0JONONNBa",
-                "edit-time": 1614839427315,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Are we losing money on the client?",
-                "create-time": 1614839636812,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "Examine communication and handholding overhead",
-                    "create-time": 1614839693427,
-                    "uid": "U-jFf90B_",
-                    "edit-time": 1614839718395,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "jLoF9viAD",
-                "edit-time": 1614839647376,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Are we losing staff because of the client?",
-                "create-time": 1614839730900,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "The [[talent]] in our [[team]] is the mojo that attracts clients",
-                    "create-time": 1614839745531,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "1muEMAmPo"
-                      },
-                      {
-                        ":block/uid": "P_3VUe618"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "1muEMAmPo"
-                      },
-                      {
-                        "uid": "P_3VUe618"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    "uid": "6qWOxG_GA",
-                    "edit-time": 1614840786051,
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "TNOzQNjzK",
-                "edit-time": 1614839745566,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "rH0751ikf",
-            "edit-time": 1614839266831,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Alternatives to dismissal",
-            "create-time": 1614838318907,
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            "children": [
-              {
-                "string": "Suggest a contract 'pause'",
-                "create-time": 1614838327782,
-                "uid": "n0Ce0GpBC",
-                "edit-time": 1614838336742,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Be a [partner](partnership), not a vendor",
-                "create-time": 1614837545653,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "Push back, ask questions, understand business problems, figure out the steps to achieve the outcome",
-                    "create-time": 1614837561139,
-                    "uid": "4eLLDGdPZ",
-                    "edit-time": 1614837596163,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "wgAE0YCWm",
-                "edit-time": 1614840621860,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Amend service delivery process so that it will be unsuitable to client",
-                "create-time": 1614838641769,
-                "uid": "j0GCPRFO2",
-                "edit-time": 1614838755429,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Amend [[pricing]]",
-                "create-time": 1614838761404,
-                ":block/refs": [
-                  {
-                    ":block/uid": "XrJuc1wZp"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "XrJuc1wZp"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "uid": "sp8-ZNo_n",
-                "edit-time": 1614840639961,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Is it a challenging project or challenging client? The former could propel us forward in maturity and reputation",
-                "create-time": 1614839073771,
-                "uid": "l-QKDjvUm",
-                "edit-time": 1614839192519,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "qXvcXQEYB",
-            "edit-time": 1614838327618,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Communication of dismissal",
-            "create-time": 1614838279319,
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            "children": [
-              {
-                "string": "Method: Don't fire over email unless followed with face-to-face or call",
-                "create-time": 1614838134686,
-                "uid": "g8KfxZrwg",
-                "edit-time": 1614838533293,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Qualities",
-                "create-time": 1614840120043,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "Honest and direct",
-                    "create-time": 1614837395040,
-                    "uid": "c4vIPF9g_",
-                    "edit-time": 1614837425678,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Take responsibility for our part",
-                    "create-time": 1614837659939,
-                    "uid": "7Xhuv1lkj",
-                    "edit-time": 1614837661931,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Never blame the client; focus on their interests",
-                    "create-time": 1614837662614,
-                    "uid": "zA8L8KUJz",
-                    "edit-time": 1614840382237,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Don't leave openings for [[negotiation]]",
-                    "create-time": 1614838101641,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "ncn4oB-Jn"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "ncn4oB-Jn"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    "uid": "vr14TQjYW",
-                    "edit-time": 1614840665745,
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "DY3p6dl7T",
-                "edit-time": 1614840124588,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Content",
-                "create-time": 1614837426738,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "\"Our best work is not being produced\"",
-                    "create-time": 1614837437224,
-                    "uid": "WEOO47ITT",
-                    "edit-time": 1614840347342,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Reason(s) given",
-                    "create-time": 1614838554697,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    "children": [
-                      {
-                        "string": "New situation preventing us from given client our fullest attention",
-                        "create-time": 1614838568448,
-                        "uid": "7DGWcgKiF",
-                        "edit-time": 1614838596243,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Change of business focus (sitting outside of client needs)",
-                        "create-time": 1614838614460,
-                        "uid": "aKNd_ZVhc",
-                        "edit-time": 1614838637845,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      }
-                    ],
-                    "uid": "NoTXVEVP0",
-                    "edit-time": 1614838567766,
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "edit-time": 1614840675071,
-                    "children": [
-                      {
-                        "string": "Set expectations / next steps",
-                        "create-time": 1614840398004,
-                        "uid": "fzy4ekp15",
-                        "edit-time": 1614840412201,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Complete outstanding work or identify transition steps",
-                        "create-time": 1614838049139,
-                        "uid": "weTCGa_vX",
-                        "edit-time": 1614838091984,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Create final task lists for us and the client",
-                        "create-time": 1614838218604,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        "children": [
-                          {
-                            "string": "Vendor transition",
-                            "create-time": 1614838252899,
-                            "uid": "sCmHb84cX",
-                            "edit-time": 1614838261926,
-                            ":create/user": {
-                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                            }
-                          }
-                        ],
-                        "uid": "mXT3ceP1I",
-                        "edit-time": 1614838241001,
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Collaborate with new vendor",
-                        "create-time": 1614837510490,
-                        "uid": "0AWHW5gHR",
-                        "edit-time": 1614837515885,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "o_6tbwaN1"
-                      }
-                    ],
-                    "uid": "VS7Yz9LdD",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "o_6tbwaN1"
-                      }
-                    ],
-                    "string": "Offer a 60-day window for [[transition]] ",
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    "create-time": 1614837455262,
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Suggest our replacement",
-                    "create-time": 1614837613576,
-                    "uid": "Fkq3BVoem",
-                    "edit-time": 1614838478789,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Solicit feedback",
-                    "create-time": 1614837618899,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    "children": [
-                      {
-                        "string": "What went right/wrong in the relationship?",
-                        "create-time": 1614837681354,
-                        "uid": "EfVASF9bu",
-                        "edit-time": 1614837698188,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      }
-                    ],
-                    "uid": "I2oHTOaTy",
-                    "edit-time": 1614837675879,
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "hJyW43Hba",
-                "edit-time": 1614840282592,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "v8S9CU3Xc",
-            "edit-time": 1614838294292,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          }
-        ],
-        "refs": [
-          {
-            "uid": "hW_NJnNw_"
-          }
-        ],
-        "uid": "NRx8yEqvf",
-        ":block/refs": [
-          {
-            ":block/uid": "hW_NJnNw_"
-          }
-        ],
-        "string": "[[Client Dismissal]]",
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "create-time": 1614794991736,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
       }
     ],
     "uid": "03-03-2021",
@@ -28636,6 +28636,40 @@
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
+      },
+      {
+        "string": "{{[[TODO]]}} Add quick capture to daily core",
+        "create-time": 1614843702714,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "bItBtVDqn",
+        "edit-time": 1614843756101,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1614843763793,
+        "uid": "Gs2yRFgKL",
+        "edit-time": 1614843763793,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
       }
     ],
     "uid": "03-04-2021",
@@ -28719,11 +28753,25 @@
   {
     "create-time": 1614840733185,
     "title": "Client Dismissal",
-    "uid": "hW_NJnNw_",
-    "edit-time": 1614840733191,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1614841595650,
+        "uid": "T8oqRWUSW",
+        "edit-time": 1614841595650,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "hW_NJnNw_",
+    "edit-time": 1614841579467,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
