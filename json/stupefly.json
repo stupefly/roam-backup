@@ -28670,10 +28670,62 @@
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
+      },
+      {
+        "edit-time": 1614849067374,
+        "children": [
+          {
+            "string": "#CIIS meeting re: search[[March 5th, 2021]]\n- Issues: \n\t- Unresolved conflict re: Aneel candidacy \n\t- Corresponding lack of confidence is search committee\n\t- Serious enough to precipitate resignations if not resolved\n- Path to resolution:\n\t- Convene a board meeting to:\n\t\t- consider Aneel's status as a future candidate\n\t\t- affirm its path forward after resolving primary question \n\n",
+            "create-time": 1614849056832,
+            ":block/refs": [
+              {
+                ":block/uid": "03-05-2021"
+              },
+              {
+                ":block/uid": "phs_OdVPb"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "03-05-2021"
+              },
+              {
+                "uid": "phs_OdVPb"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "OVSzBCgdj",
+            "edit-time": 1614849067374,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "sSeeG88c9"
+          }
+        ],
+        "uid": "IGRCn9tzN",
+        ":block/refs": [
+          {
+            ":block/uid": "sSeeG88c9"
+          }
+        ],
+        "string": "#[[Quick Capture]]",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1614849056832,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
       }
     ],
     "uid": "03-04-2021",
-    "edit-time": 1614816407041,
+    "edit-time": 1614849067374,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -28829,6 +28881,44 @@
     "title": "embed",
     "uid": "GdXtrEIir",
     "edit-time": 1614841135129,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614849067392,
+    "title": "March 5th, 2021",
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1614849145075,
+        "uid": "1WCBhGsqj",
+        "edit-time": 1614849145075,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "03-05-2021",
+    "edit-time": 1614849067393,
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1614849067392,
+    "title": "CIIS",
+    "uid": "phs_OdVPb",
+    "edit-time": 1614849067393,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
