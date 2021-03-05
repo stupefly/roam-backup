@@ -28616,86 +28616,6 @@
     },
     "children": [
       {
-        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
-        "create-time": 1614885207981,
-        ":block/refs": [
-          {
-            ":block/uid": "hhvTau8RH"
-          },
-          {
-            ":block/uid": "sS9KVdL8B"
-          },
-          {
-            ":block/uid": "A0Su1fppo"
-          },
-          {
-            ":block/uid": "01-01-2000"
-          },
-          {
-            ":block/uid": "4wLPO9CQE"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "hhvTau8RH"
-          },
-          {
-            "uid": "sS9KVdL8B"
-          },
-          {
-            "uid": "A0Su1fppo"
-          },
-          {
-            "uid": "01-01-2000"
-          },
-          {
-            "uid": "4wLPO9CQE"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "eQH40mwWj",
-        "edit-time": 1614885207981,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
-        "create-time": 1614841329394,
-        ":block/refs": [
-          {
-            ":block/uid": "0lAddRQzh"
-          },
-          {
-            ":block/uid": "sSeeG88c9"
-          },
-          {
-            ":block/uid": "sS9KVdL8B"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "0lAddRQzh"
-          },
-          {
-            "uid": "sSeeG88c9"
-          },
-          {
-            "uid": "sS9KVdL8B"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "1c0Uonl2C",
-        "edit-time": 1614885208015,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
         "string": "{{[[DONE]]}} Add quick capture to daily core",
         "create-time": 1614843702714,
         ":block/refs": [
@@ -28718,11 +28638,11 @@
         }
       },
       {
-        "string": "{{[[TODO]]}} Dear John letter to PDM/POP #core",
+        "string": "{{[[DONE]]}} Dear John letter to PDM/POP #core",
         "create-time": 1614884195175,
         ":block/refs": [
           {
-            ":block/uid": "hhvTau8RH"
+            ":block/uid": "0HeuefVvJ"
           },
           {
             ":block/uid": "A0Su1fppo"
@@ -28730,7 +28650,7 @@
         ],
         "refs": [
           {
-            "uid": "hhvTau8RH"
+            "uid": "0HeuefVvJ"
           },
           {
             "uid": "A0Su1fppo"
@@ -28740,7 +28660,7 @@
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "0siF20sun",
-        "edit-time": 1614884219495,
+        "edit-time": 1614967276844,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -29050,10 +28970,90 @@
     },
     "children": [
       {
-        "string": "",
+        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
         "create-time": 1614849145075,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
+          },
+          {
+            ":block/uid": "A0Su1fppo"
+          },
+          {
+            ":block/uid": "01-01-2000"
+          },
+          {
+            ":block/uid": "4wLPO9CQE"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          },
+          {
+            "uid": "A0Su1fppo"
+          },
+          {
+            "uid": "01-01-2000"
+          },
+          {
+            "uid": "4wLPO9CQE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
         "uid": "1WCBhGsqj",
         "edit-time": 1614849145075,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
+        "create-time": 1614967256785,
+        ":block/refs": [
+          {
+            ":block/uid": "0lAddRQzh"
+          },
+          {
+            ":block/uid": "sSeeG88c9"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0lAddRQzh"
+          },
+          {
+            "uid": "sSeeG88c9"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "4EU_vjlbM",
+        "edit-time": 1614967256785,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1614967299672,
+        "uid": "8paoYTS2o",
+        "edit-time": 1614967299672,
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
