@@ -2536,10 +2536,10 @@
                     }
                   },
                   {
-                    "string": "Clients are assholes just because they reject our advice",
+                    "string": "Clients are not assholes just because they reject our advice",
                     "create-time": 1614839595376,
                     "uid": "HzFGO89xv",
-                    "edit-time": 1614839607141,
+                    "edit-time": 1614903237673,
                     ":create/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     },
@@ -2857,10 +2857,10 @@
                     },
                     "children": [
                       {
-                        "string": "New situation preventing us from given client our fullest attention",
+                        "string": "New situation preventing us from giving client our fullest attention",
                         "create-time": 1614838568448,
                         "uid": "7DGWcgKiF",
-                        "edit-time": 1614838596243,
+                        "edit-time": 1614904777411,
                         ":create/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                         },

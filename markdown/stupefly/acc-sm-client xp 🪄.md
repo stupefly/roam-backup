@@ -20,7 +20,7 @@ Keywords: #[[🗺 Areas]], #active
             - Brainstorm solutions with client
         - Have we checked our egos?
             - Are our egos driving dismissal?
-            - Clients are assholes just because they reject our advice
+            - Clients are not assholes just because they reject our advice
             - Perhaps we just simply failed to fully understand the client's problem
         - Are we losing money on the client?
             - Examine communication and handholding overhead
@@ -43,7 +43,7 @@ Keywords: #[[🗺 Areas]], #active
         - Content
             - "Our best work is not being produced"
             - Reason(s) given
-                - New situation preventing us from given client our fullest attention
+                - New situation preventing us from giving client our fullest attention
                 - Change of business focus (sitting outside of client needs)
             - Offer a 60-day window for [[transition]] 
                 - Set expectations / next steps

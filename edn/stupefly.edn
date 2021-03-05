@@ -68,8 +68,8 @@
   [2 :version/id "0.8.2" 536870914]
   [2
    :version/nonce
-   "uuidd55eb35b-a3f9-461c-a7fa-7e653d3118d3"
-   536883156]
+   "uuidc9278582-5119-4542-968a-cd56e4fd69d1"
+   536883159]
   [3 :block/uid "rRqBuP6q9" 536870915]
   [3 :user/display-name "Bill Mosca" 536872128]
   [3
@@ -24530,12 +24530,12 @@
   [3698 :block/parents 3697 536882659]
   [3698
    :block/string
-   "New situation preventing us from given client our fullest attention"
-   536882664]
+   "New situation preventing us from giving client our fullest attention"
+   536883159]
   [3698 :block/uid "7DGWcgKiF" 536882656]
   [3698 :create/time 1614838568448 536882656]
   [3698 :create/user 3 536882656]
-  [3698 :edit/time 1614838596243 536882664]
+  [3698 :edit/time 1614904777411 536883159]
   [3698 :edit/user 3 536882656]
   [3699 :block/open true 536882665]
   [3699 :block/order 1 536882665]
@@ -24777,12 +24777,12 @@
   [3718 :block/parents 3713 536882828]
   [3718
    :block/string
-   "Clients are assholes just because they reject our advice"
-   536882831]
+   "Clients are not assholes just because they reject our advice"
+   536883157]
   [3718 :block/uid "HzFGO89xv" 536882827]
   [3718 :create/time 1614839595376 536882827]
   [3718 :create/user 3 536882827]
-  [3718 :edit/time 1614839607141 536882831]
+  [3718 :edit/time 1614903237673 536883157]
   [3718 :edit/user 3 536882827]
   [3719 :block/children 3720 536882841]
   [3719 :block/open true 536882832]
