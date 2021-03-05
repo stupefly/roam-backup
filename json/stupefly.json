@@ -29050,29 +29050,23 @@
         }
       },
       {
-        "string": "{{[[TODO]]}} SPA - Feb 2021 sales entries #core",
+        "string": "{{[[TODO]]}} SPA - Feb 2021 sales entries ",
         "create-time": 1614967299672,
         ":block/refs": [
           {
             ":block/uid": "hhvTau8RH"
-          },
-          {
-            ":block/uid": "A0Su1fppo"
           }
         ],
         "refs": [
           {
             "uid": "hhvTau8RH"
-          },
-          {
-            "uid": "A0Su1fppo"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "8paoYTS2o",
-        "edit-time": 1614968119022,
+        "edit-time": 1614973433115,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }

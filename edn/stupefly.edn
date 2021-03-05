@@ -68,8 +68,8 @@
   [2 :version/id "0.8.2" 536870914]
   [2
    :version/nonce
-   "uuid0d8e7640-5889-4f40-aafa-41c38f8cb0ff"
-   536883211]
+   "uuid60bfc404-6f0f-4fde-8469-4ba80655ef20"
+   536883213]
   [3 :block/uid "rRqBuP6q9" 536870915]
   [3 :user/display-name "Bill Mosca" 536872128]
   [3
@@ -25294,15 +25294,14 @@
   [3785 :block/page 3751 536883173]
   [3785 :block/parents 3751 536883173]
   [3785 :block/refs 369 536883175]
-  [3785 :block/refs 1595 536883180]
   [3785
    :block/string
-   "{{[[TODO]]}} SPA - Feb 2021 sales entries #core"
-   536883179]
+   "{{[[TODO]]}} SPA - Feb 2021 sales entries "
+   536883212]
   [3785 :block/uid "8paoYTS2o" 536883172]
   [3785 :create/time 1614967299672 536883172]
   [3785 :create/user 3 536883172]
-  [3785 :edit/time 1614968119022 536883179]
+  [3785 :edit/time 1614973433115 536883212]
   [3785 :edit/user 3 536883172]
   [3786 :block/open true 536883181]
   [3786 :block/order 3 536883181]
