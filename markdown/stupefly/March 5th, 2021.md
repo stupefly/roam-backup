@@ -1,7 +1,4 @@
-- ⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}
-- **Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}
 - {{[[TODO]]}} SPA - Feb 2021 sales entries 
 - {{[[TODO]]}} MHM - CA 199 2019
 - {{[[TODO]]}} PDM/POP 2020 YE close #core
 - {{[[TODO]]}} Tribeca - Proposal development #core
-- 

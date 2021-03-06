@@ -28982,86 +28982,6 @@
     },
     "children": [
       {
-        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
-        "create-time": 1614849145075,
-        ":block/refs": [
-          {
-            ":block/uid": "hhvTau8RH"
-          },
-          {
-            ":block/uid": "sS9KVdL8B"
-          },
-          {
-            ":block/uid": "A0Su1fppo"
-          },
-          {
-            ":block/uid": "01-01-2000"
-          },
-          {
-            ":block/uid": "4wLPO9CQE"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "hhvTau8RH"
-          },
-          {
-            "uid": "sS9KVdL8B"
-          },
-          {
-            "uid": "A0Su1fppo"
-          },
-          {
-            "uid": "01-01-2000"
-          },
-          {
-            "uid": "4wLPO9CQE"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "1WCBhGsqj",
-        "edit-time": 1614849145075,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
-        "create-time": 1614967256785,
-        ":block/refs": [
-          {
-            ":block/uid": "0lAddRQzh"
-          },
-          {
-            ":block/uid": "sSeeG88c9"
-          },
-          {
-            ":block/uid": "sS9KVdL8B"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "0lAddRQzh"
-          },
-          {
-            "uid": "sSeeG88c9"
-          },
-          {
-            "uid": "sS9KVdL8B"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "4EU_vjlbM",
-        "edit-time": 1614967256785,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
         "string": "{{[[TODO]]}} SPA - Feb 2021 sales entries ",
         "create-time": 1614967299672,
         ":block/refs": [
@@ -29160,18 +29080,6 @@
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
-      },
-      {
-        "string": "",
-        "create-time": 1614968215174,
-        "uid": "7CtkXvZ9L",
-        "edit-time": 1614968215174,
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
       }
     ],
     "uid": "03-05-2021",
@@ -29195,11 +29103,2713 @@
   {
     "create-time": 1614989223731,
     "title": "March 6th, 2021",
-    "uid": "03-06-2021",
-    "edit-time": 1614989223731,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
+    "children": [
+      {
+        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
+        "create-time": 1615070132019,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
+          },
+          {
+            ":block/uid": "A0Su1fppo"
+          },
+          {
+            ":block/uid": "01-01-2000"
+          },
+          {
+            ":block/uid": "4wLPO9CQE"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          },
+          {
+            "uid": "A0Su1fppo"
+          },
+          {
+            "uid": "01-01-2000"
+          },
+          {
+            "uid": "4wLPO9CQE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "Jgxj_c6ja",
+        "edit-time": 1615070132019,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
+        "create-time": 1615070135626,
+        ":block/refs": [
+          {
+            ":block/uid": "0lAddRQzh"
+          },
+          {
+            ":block/uid": "sSeeG88c9"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0lAddRQzh"
+          },
+          {
+            "uid": "sSeeG88c9"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "IhuCm1gNy",
+        "edit-time": 1615070135626,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "Be Our Guest",
+        "create-time": 1615068221721,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "children": [
+          {
+            "string": "Quality Service",
+            "create-time": 1615068221721,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "Exceeding expectations by paying attention to every detail of the delivery of products/services",
+                "create-time": 1615068221721,
+                "uid": "gfWdOGsVq",
+                "edit-time": 1615068221892,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Plethora of little wows",
+                "create-time": 1615068221721,
+                "uid": "9NHLdaA-u",
+                "edit-time": 1615068221892,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Compass",
+                "create-time": 1615068221721,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "Guestology",
+                    "create-time": 1615068221721,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "string": "Art & science of knowing and understanding customers",
+                        "create-time": 1615068221721,
+                        "uid": "Lc3gQgiHL",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Purposes",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Basis for initial course of action and continuous fine-tuning",
+                            "create-time": 1615068221721,
+                            "uid": "j1AgIjeI4",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Inform service goals, strategy, improvement",
+                            "create-time": 1615068221721,
+                            "uid": "lk4S8BiJL",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "rnBD4-arq",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Dimensions",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Demographics",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Who customers are",
+                                "create-time": 1615068221721,
+                                "uid": "0NGm5OtUz",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Who customers are NOT",
+                                "create-time": 1615068221721,
+                                "uid": "dbSWPTiNN",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "22hDdi5cL",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Psychographics",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Needs",
+                                "create-time": 1615068221721,
+                                "uid": "vCkeTZwsK",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Wants",
+                                "create-time": 1615068221721,
+                                "uid": "Ag7oNyAJi",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Stereotypes",
+                                "create-time": 1615068221721,
+                                "uid": "MTpW4Q-hx",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Emotions",
+                                "create-time": 1615068221721,
+                                "uid": "-wptVw-Gn",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "iUK1t9RG6",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "PzbEAy7m4",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Techniques",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Surveys",
+                            "create-time": 1615068221721,
+                            "uid": "swE_2Tihm",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Listening posts",
+                            "create-time": 1615068221721,
+                            "uid": "mox1uADN_",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Utilization studies",
+                            "create-time": 1615068221721,
+                            "uid": "8QRBJOfyF",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Focus groups",
+                            "create-time": 1615068221721,
+                            "uid": "4IAQz_9y-",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Mystery shoppers",
+                            "create-time": 1615068221721,
+                            "uid": "9UnyL3YlQ",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "O-ShsJP4T",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Timing",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Assess over broad spectrum of time",
+                            "create-time": 1615068221721,
+                            "uid": "A5PxQDWs1",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Before, during, after experience",
+                            "create-time": 1615068221721,
+                            "uid": "etgzK3g4c",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "5QwZAnozO",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "BwKpAAc1t",
+                    "edit-time": 1615068221892,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Quality Standards",
+                    "create-time": 1615068221721,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "string": "Responsiveness",
+                        "create-time": 1615068221721,
+                        "uid": "3pMN4y2-E",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Efficiency",
+                        "create-time": 1615068221721,
+                        "uid": "yFJ4buys0",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Warmth & courtesy",
+                        "create-time": 1615068221721,
+                        "uid": "kHAtrY_-6",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Accountability",
+                        "create-time": 1615068221721,
+                        "uid": "uFCGidDfp",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Reliability",
+                        "create-time": 1615068221721,
+                        "uid": "Ees_iIg0s",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Demonstrate & Show",
+                        "create-time": 1615068221721,
+                        "uid": "1AuhIk38V",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Accessibility",
+                        "create-time": 1615068221721,
+                        "uid": "YQrKfJjNg",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Service provision",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Purposes",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Establish criteria for actions necessary to accomplish service strategy",
+                                "create-time": 1615068221721,
+                                "uid": "YDwGn8hpp",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Measures of Quality Service",
+                                "create-time": 1615068221721,
+                                "uid": "bejRRgn5p",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "9HnySU2YP",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Strictly prioritized",
+                            "create-time": 1615068221721,
+                            "uid": "CHYFWbkON",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Disney",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Safety",
+                                "create-time": 1615068221721,
+                                "uid": "kdVWMEDR4",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Courtesy",
+                                "create-time": 1615068221721,
+                                "uid": "4ahVtqKYv",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Show",
+                                "create-time": 1615068221721,
+                                "uid": "U5qmXhaBb",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Efficiency",
+                                "create-time": 1615068221721,
+                                "uid": "_dfN0iJQ4",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "GuTn6FeLr",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "p6-53VFVH",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "CdrYPx1iC",
+                    "edit-time": 1615068221892,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Delivery Systems",
+                    "create-time": 1615068221721,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "string": "Cast",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Performance cultures",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Elements",
+                                "create-time": 1615068221721,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                "children": [
+                                  {
+                                    "string": "Behaviors",
+                                    "create-time": 1615068221721,
+                                    "uid": "tw44Wmubw",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Mannerisms",
+                                    "create-time": 1615068221721,
+                                    "uid": "HOcl9R_rB",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Terms",
+                                    "create-time": 1615068221721,
+                                    "uid": "AYZtpIULf",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Values",
+                                    "create-time": 1615068221721,
+                                    "uid": "Cq9gwCpMG",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  }
+                                ],
+                                "uid": "YcIxTAd41",
+                                "edit-time": 1615068221892,
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "location specific",
+                                "create-time": 1615068221721,
+                                "uid": "p7Xn8Va3C",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Development",
+                                "create-time": 1615068221721,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                "children": [
+                                  {
+                                    "string": "Design mission/vision to sign workforce to business unit",
+                                    "create-time": 1615068221721,
+                                    "uid": "02byk8v6-",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Identify values connected to mission/vision",
+                                    "create-time": 1615068221721,
+                                    "uid": "eIDX9W18y",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Link values to job behaviors",
+                                    "create-time": 1615068221721,
+                                    "uid": "sWv1OZzfr",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Turn workforce loose",
+                                    "create-time": 1615068221721,
+                                    "uid": "sN3RcHSep",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Tips",
+                                    "create-time": 1615068221721,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "Keep it simple",
+                                        "create-time": 1615068221721,
+                                        "uid": "-eRq-cv2x",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Make it Global",
+                                        "create-time": 1615068221721,
+                                        "uid": "2QliNiziz",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Make it measurable",
+                                        "create-time": 1615068221721,
+                                        "uid": "PN-90UhG5",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Provide training and coaching",
+                                        "create-time": 1615068221721,
+                                        "uid": "5nGJsI9H1",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Solicit Ideas and feedback from team",
+                                        "create-time": 1615068221721,
+                                        "uid": "RIX2KdC1J",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Recognize and reward performance",
+                                        "create-time": 1615068221721,
+                                        "uid": "fzlv19OAB",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "vTynERE0f",
+                                    "edit-time": 1615068221892,
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  }
+                                ],
+                                "uid": "gjyi2xknM",
+                                "edit-time": 1615068221892,
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "W6d1nYLHQ",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "First impressions",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Cast",
+                                "create-time": 1615068221721,
+                                "uid": "n_uWyi6fk",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Guests",
+                                "create-time": 1615068221721,
+                                "uid": "t7wFWYbrP",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "R93WkQdfj",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Performance tips",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Image & behavioral standards",
+                                "create-time": 1615068221721,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                "children": [
+                                  {
+                                    "string": "communicate responsibilities",
+                                    "create-time": 1615068221721,
+                                    "uid": "DPQwl8kAr",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Basis for accountability and performance disciplinary action",
+                                    "create-time": 1615068221721,
+                                    "uid": "QCmmR6I6n",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Minimum expectations / jumping-off point",
+                                    "create-time": 1615068221721,
+                                    "uid": "_XH6M_TWs",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  }
+                                ],
+                                "uid": "_rYAQGR5T",
+                                "edit-time": 1615068221892,
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Ideas",
+                                "create-time": 1615068221721,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                "children": [
+                                  {
+                                    "string": "Provide immediate service recovery",
+                                    "create-time": 1615068221721,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "Resolve service failures before they escalate to service problems",
+                                        "create-time": 1615068221721,
+                                        "uid": "B-0HetTOP",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Always find an answer or find someone who can help",
+                                        "create-time": 1615068221721,
+                                        "uid": "MXmSHEjca",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "is-2Ftusp",
+                                    "edit-time": 1615068221892,
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Seek contact and opportunities to assist",
+                                    "create-time": 1615068221721,
+                                    "uid": "fUEImJqFV",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  }
+                                ],
+                                "uid": "z_Iupe0cV",
+                                "edit-time": 1615068221892,
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Encapsulate in 7 or fewer guidelines",
+                                "create-time": 1615068221721,
+                                "uid": "jZYvxLgNI",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "xY8-Mo-Ul",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Training",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Disney levels",
+                                "create-time": 1615068221721,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                "children": [
+                                  {
+                                    "string": "Global",
+                                    "create-time": 1615068221721,
+                                    "uid": "7dLQjkKMD",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Line of business",
+                                    "create-time": 1615068221721,
+                                    "uid": "NlqjRHqmo",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Local",
+                                    "create-time": 1615068221721,
+                                    "uid": "Dl2ZfXOt7",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "On-the-job",
+                                    "create-time": 1615068221721,
+                                    "uid": "UeAZFE1Fk",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  }
+                                ],
+                                "uid": "g16vC3vqJ",
+                                "edit-time": 1615068221892,
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Speak to hearts, not just brains",
+                                "create-time": 1615068221721,
+                                "uid": "IVyauZQvz",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "guKbH7nKK",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "vMX3bDXqJ",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Setting",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Where customers meet you",
+                            "create-time": 1615068221721,
+                            "uid": "vp9cLaUGP",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Everything speaks",
+                            "create-time": 1615068221721,
+                            "uid": "IO0-eTQyU",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Physical and virtual",
+                            "create-time": 1615068221721,
+                            "uid": "d_b-mTYY2",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Keep Onstage and Backstage separated",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "anything that doesn't contribute, detracts",
+                                "create-time": 1615068221721,
+                                "uid": "kboR4ncWT",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Backstage is less expensive to develop and maintain",
+                                "create-time": 1615068221721,
+                                "uid": "p7C9jf9EA",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Employees need space to relax",
+                                "create-time": 1615068221721,
+                                "uid": "A4ruh_ySg",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Customers are distracting",
+                                "create-time": 1615068221721,
+                                "uid": "37dPXQfaV",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "gMPz5ve-t",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Major uses",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Sending a message",
+                                "create-time": 1615068221721,
+                                "uid": "vwBfoZlvB",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Guiding the guest experience",
+                                "create-time": 1615068221721,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                "children": [
+                                  {
+                                    "string": "Cues to where they have been and are headed",
+                                    "create-time": 1615068221721,
+                                    "uid": "4xdycLT7t",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  }
+                                ],
+                                "uid": "eZiybOXUD",
+                                "edit-time": 1615068221892,
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "PemvfFq1B",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Process",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Know your audience",
+                                "create-time": 1615068221721,
+                                "uid": "FeVAOuzHc",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Wear your guest's does",
+                                "create-time": 1615068221721,
+                                "uid": "Fo7bt00fU",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Create a \"wienie\" (visual landmark)",
+                                "create-time": 1615068221721,
+                                "uid": "hgYXFyzHH",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Communicate with visual literacy",
+                                "create-time": 1615068221721,
+                                "uid": "Q1GAvmE57",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Avoid overload",
+                                "create-time": 1615068221721,
+                                "uid": "71Ro0VN06",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Tell one story at a time (one setting for each big idea)",
+                                "create-time": 1615068221721,
+                                "uid": "6B9MgQ7mZ",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Avoid contradictions; maintain identity",
+                                "create-time": 1615068221721,
+                                "uid": "TlhTVZYuk",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Build interactivity; exercise all senses",
+                                "create-time": 1615068221721,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                "children": [
+                                  {
+                                    "string": "Sight",
+                                    "create-time": 1615068221721,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "Primary transmitter of setting",
+                                        "create-time": 1615068221721,
+                                        "uid": "2KJ3C-XgP",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Unseen is as important as seen",
+                                        "create-time": 1615068221721,
+                                        "uid": "lw8T0d8C1",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Color",
+                                        "create-time": 1615068221721,
+                                        "uid": "6x5pEWzTN",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "HJnTHQCq4",
+                                    "edit-time": 1615068221892,
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Sound",
+                                    "create-time": 1615068221721,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "Only exposure to \"good\" sounds",
+                                        "create-time": 1615068221721,
+                                        "uid": "EBUgAKBD5",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "MWsljfI8a",
+                                    "edit-time": 1615068221892,
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Smell",
+                                    "create-time": 1615068221721,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "Memory trigger",
+                                        "create-time": 1615068221721,
+                                        "uid": "uUg4RHeXy",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "FTx2eOV2N",
+                                    "edit-time": 1615068221892,
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Touch",
+                                    "create-time": 1615068221721,
+                                    "uid": "gDHP-WRwS",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Taste",
+                                    "create-time": 1615068221721,
+                                    "uid": "1w7-rwcbx",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  }
+                                ],
+                                "uid": "3kH-NUZ4z",
+                                "edit-time": 1615068221892,
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Keep it up",
+                                "create-time": 1615068221721,
+                                "uid": "oDtIyWCgA",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "m0XHcckO5",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Maintenance",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Build into setting",
+                                "create-time": 1615068221721,
+                                "uid": "oJe8tmoDB",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Enlist every employee in effort",
+                                "create-time": 1615068221721,
+                                "uid": "xJ-2qnPaA",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "nP6kc7jWU",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "tP0l6-Q21",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Processes",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Series of operations (policies, tasks, procedures) used to deliver product/service",
+                            "create-time": 1615068221721,
+                            "uid": "Rc2xHQx-O",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Encompass and utilize cast and setting",
+                            "create-time": 1615068221721,
+                            "uid": "tnbfnOmYN",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Key combustion points",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Must be identified and controlled",
+                                "create-time": 1615068221721,
+                                "uid": "bVci9MKYX",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Combustion statements",
+                                "create-time": 1615068221721,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                "children": [
+                                  {
+                                    "string": "Common complaints",
+                                    "create-time": 1615068221721,
+                                    "uid": "6f6JCZfk3",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Sticking points",
+                                    "create-time": 1615068221721,
+                                    "uid": "hdw0I1zks",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Common problems/hassles when interacting",
+                                    "create-time": 1615068221721,
+                                    "uid": "adoAlvHDS",
+                                    "edit-time": 1615068221892,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  }
+                                ],
+                                "uid": "xqQ34FoFJ",
+                                "edit-time": 1615068221892,
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Can become explosion points",
+                                "create-time": 1615068221721,
+                                "uid": "HdREIpAzR",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Defused by service patches",
+                                "create-time": 1615068221721,
+                                "uid": "ZOQV4tur0",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Universal service process points",
+                                "create-time": 1615068221721,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                "children": [
+                                  {
+                                    "string": "Guest flow (waiting time)",
+                                    "create-time": 1615068221721,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "Optimize operation of product/service processes",
+                                        "create-time": 1615068221721,
+                                        "uid": "jjISw86R6",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Allow guests to self-manage service flow",
+                                        "create-time": 1615068221721,
+                                        "uid": "KJh3ytXjA",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Optimize the queue experience",
+                                        "create-time": 1615068221721,
+                                        "uid": "-UKN6K2Z0",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "U78conx1D",
+                                    "edit-time": 1615068221892,
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Cast-to-Guest Communications",
+                                    "create-time": 1615068221721,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "Avoid bounces and runarounds",
+                                        "create-time": 1615068221721,
+                                        "uid": "1NmBFkRaa",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Never make guest feel stupid",
+                                        "create-time": 1615068221721,
+                                        "uid": "jpXckFR5A",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Get information to EEs who need it when and where they need it",
+                                        "create-time": 1615068221721,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        "children": [
+                                          {
+                                            "string": "Newsletters",
+                                            "create-time": 1615068221721,
+                                            "uid": "zQusDjY2H",
+                                            "edit-time": 1615068221892,
+                                            ":create/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            }
+                                          },
+                                          {
+                                            "string": "Job shadowing",
+                                            "create-time": 1615068221721,
+                                            "uid": "0HC2q_y5q",
+                                            "edit-time": 1615068221892,
+                                            ":create/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            }
+                                          },
+                                          {
+                                            "string": "Central info repositories",
+                                            "create-time": 1615068221721,
+                                            "uid": "Q96v_ri8K",
+                                            "edit-time": 1615068221892,
+                                            ":create/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            }
+                                          }
+                                        ],
+                                        "uid": "_PNtQZI7F",
+                                        "edit-time": 1615068221892,
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Provide critical content and memorable presentations in simplest way possible",
+                                        "create-time": 1615068221721,
+                                        "uid": "AIACX8NWn",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "gwYloRUcy",
+                                    "edit-time": 1615068221892,
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Service Attention",
+                                    "create-time": 1615068221721,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "Processes serve guests else needs cannot be meet by existing processes",
+                                        "create-time": 1615068221721,
+                                        "uid": "4q3MxvMPg",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Disney examples",
+                                        "create-time": 1615068221721,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        "children": [
+                                          {
+                                            "string": "International guests",
+                                            "create-time": 1615068221721,
+                                            "uid": "XBRGi_R-I",
+                                            "edit-time": 1615068221892,
+                                            ":create/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            }
+                                          },
+                                          {
+                                            "string": "Small children",
+                                            "create-time": 1615068221721,
+                                            "uid": "titejkAzo",
+                                            "edit-time": 1615068221892,
+                                            ":create/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            }
+                                          },
+                                          {
+                                            "string": "Guests with disabilities",
+                                            "create-time": 1615068221721,
+                                            "uid": "JC293mpxl",
+                                            "edit-time": 1615068221892,
+                                            ":create/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            }
+                                          }
+                                        ],
+                                        "uid": "_59lwx_GT",
+                                        "edit-time": 1615068221892,
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "h3YCz4dTW",
+                                    "edit-time": 1615068221892,
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  },
+                                  {
+                                    "string": "Service Process Debugging",
+                                    "create-time": 1615068221721,
+                                    ":create/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "Debugging flawed processes",
+                                        "create-time": 1615068221721,
+                                        "uid": "6EvY3XNy4",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Improving outdated processes",
+                                        "create-time": 1615068221721,
+                                        "uid": "BeTAYuoot",
+                                        "edit-time": 1615068221892,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      },
+                                      {
+                                        "string": "Debugging guest-owned processes",
+                                        "create-time": 1615068221721,
+                                        ":create/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        },
+                                        "children": [
+                                          {
+                                            "string": "Solve guest-created problems",
+                                            "create-time": 1615068221721,
+                                            "uid": "0TJYyi2p2",
+                                            "edit-time": 1615068221892,
+                                            ":create/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                            }
+                                          }
+                                        ],
+                                        "uid": "RRXEyU61O",
+                                        "edit-time": 1615068221892,
+                                        ":edit/user": {
+                                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "Xb3BWFBfd",
+                                    "edit-time": 1615068221892,
+                                    ":edit/user": {
+                                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                    }
+                                  }
+                                ],
+                                "uid": "h1GSK2Jd4",
+                                "edit-time": 1615068221892,
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "gXUVbkgVP",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "liymvvkRG",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "j1qTizq6U",
+                    "edit-time": 1615068221892,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Integration",
+                    "create-time": 1615068221721,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "string": "Combine and align quality standards and all three Delivery Systems into complete operating system",
+                        "create-time": 1615068221721,
+                        "uid": "o_vXZORrL",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Logical, step-by-step process",
+                        "create-time": 1615068221721,
+                        "uid": "8tBClOMXm",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Headliners",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "delivery systems particularly well aligned with a particular quality standard",
+                            "create-time": 1615068221721,
+                            "uid": "OQyew9nyz",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Warrant identification and special attention",
+                            "create-time": 1615068221721,
+                            "uid": "rNuil9LEo",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "FtHPrpuhr",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Landmarks",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Secondary delivery systems",
+                            "create-time": 1615068221721,
+                            "uid": "qdUjBn-Nu",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Offer opportunity for further alignment",
+                            "create-time": 1615068221721,
+                            "uid": "DBzBt_SOd",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "usb0n0Tif",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Integration Matrix",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Delivery Systems x Quality Standards",
+                            "create-time": 1615068221721,
+                            "uid": "lL6bIZLoO",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Each intersection represents a \"service moment of truth\"",
+                            "create-time": 1615068221721,
+                            "uid": "ADkaqZPa_",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Uses",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Integration",
+                                "create-time": 1615068221721,
+                                "uid": "mgycqI99C",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Diagnose, isolate, analyze, brainstorm service lapses",
+                                "create-time": 1615068221721,
+                                "uid": "q-0WqlFla",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Benchmark competitor's/partner's service",
+                                "create-time": 1615068221721,
+                                "uid": "GJZvpcyZ5",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Consider and analyze additional parameters",
+                                "create-time": 1615068221721,
+                                "uid": "_kiDVJfaB",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "gtKGcqNjz",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "Levels",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Strategic",
+                                "create-time": 1615068221721,
+                                "uid": "FXq3TMgKr",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Departmental",
+                                "create-time": 1615068221721,
+                                "uid": "Ja7VWIepq",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Process",
+                                "create-time": 1615068221721,
+                                "uid": "rrzCAzgp4",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Focus on a single service moment",
+                                "create-time": 1615068221721,
+                                "uid": "nG26SuBGK",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "UW82-rFtg",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "bWgi2o9WK",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Elements of Magical Service Moments",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "High-touch",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Participation",
+                                "create-time": 1615068221721,
+                                "uid": "nftOAR70U",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Interaction",
+                                "create-time": 1615068221721,
+                                "uid": "pmJkixgIG",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Cast-centered",
+                                "create-time": 1615068221721,
+                                "uid": "S913YEMxa",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "oRU_-BKV4",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "High-show",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Vivid, memorable experiences",
+                                "create-time": 1615068221721,
+                                "uid": "KzXe0_vPe",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Setting-centered",
+                                "create-time": 1615068221721,
+                                "uid": "_MLyIDhCp",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "iAKz0Zkw1",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          },
+                          {
+                            "string": "High-tech",
+                            "create-time": 1615068221721,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            "children": [
+                              {
+                                "string": "Build in speed, accuracy, expertise",
+                                "create-time": 1615068221721,
+                                "uid": "CsHDw_VbG",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              },
+                              {
+                                "string": "Process-centered",
+                                "create-time": 1615068221721,
+                                "uid": "ShghoieyF",
+                                "edit-time": 1615068221892,
+                                ":create/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                                }
+                              }
+                            ],
+                            "uid": "nHqxGgGOJ",
+                            "edit-time": 1615068221892,
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "NlalKJiyY",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Storyboarding",
+                        "create-time": 1615068221721,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        "children": [
+                          {
+                            "string": "Visualize and organize service solutions",
+                            "create-time": 1615068221721,
+                            "uid": "dblhksYNk",
+                            "edit-time": 1615068221892,
+                            ":create/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                            }
+                          }
+                        ],
+                        "uid": "FKs3LBm0u",
+                        "edit-time": 1615068221892,
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "gf06-DmzK",
+                    "edit-time": 1615068221892,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "eqaW3Imch",
+                "edit-time": 1615068221892,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Cues",
+                "create-time": 1615068221721,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "Become expert guestologist",
+                    "create-time": 1615068221721,
+                    "uid": "4TEX56bhr",
+                    "edit-time": 1615068221892,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Create guest profile",
+                    "create-time": 1615068221721,
+                    "uid": "vcGODAHXE",
+                    "edit-time": 1615068221892,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Collect/analyze psychographics",
+                    "create-time": 1615068221721,
+                    "uid": "Yn0muAaqn",
+                    "edit-time": 1615068221892,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Articulate unique common purpose",
+                    "create-time": 1615068221721,
+                    "uid": "bLFuwV1y4",
+                    "edit-time": 1615068221892,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Define critical Quality Standards",
+                    "create-time": 1615068221721,
+                    "uid": "z4f4dZgI8",
+                    "edit-time": 1615068221892,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Recognize 3 primary service delivery systems",
+                    "create-time": 1615068221721,
+                    "uid": "nuJgysVn0",
+                    "edit-time": 1615068221892,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "qkm3W3Vvm",
+                "edit-time": 1615068221892,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "RSli0tAHv",
+            "edit-time": 1615068221892,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Miscellaneous",
+            "create-time": 1615068221721,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "Wow with every interaction",
+                "create-time": 1615068221721,
+                "uid": "--ktYsw-w",
+                "edit-time": 1615068221892,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "-Bt_1VLha",
+            "edit-time": 1615068221892,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "uid": "yI3XN_KTj",
+        "edit-time": 1615068221892,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1615069935342,
+        "uid": "Oi6HJoE3y",
+        "edit-time": 1615069935342,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "03-06-2021",
+    "edit-time": 1614989223731,
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1615070211675,
+    "title": "roam/js/random-page",
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    "children": [
+      {
+        "edit-time": 1615070214825,
+        "children": [
+          {
+            "string": "```javascript\nfunction randomPagePlugin() {\n  function isMac() {\n    return window.navigator.platform.startsWith('Mac');\n  }\n  \n  // settings\n  const title = 'Go to random page';\n  const icon = 'bp3-button bp3-minimal bp3-icon-random pointer bp3-small';\n  const shortcut = isMac() ? {ctrlKey: true, key: \"r\"} : {altKey: true, key: \"r\"};\n\n  function addButton() {\n    // cleanup old versions of the button\n    var randomButton = document.querySelector('#random-button');\n    if (randomButton != null) {\n      randomButton.parentNode.removeChild(randomButton);\n    }\n    // create button\n    var template = document.createElement('template');\n    template.innerHTML = '<span id=\"random-button\" title=\"' + title + '\" class=\"' + icon + '\"></span>';\n    template.content.firstChild.onclick = goToRandomPage;\n    randomButton = template.content.firstChild;\n    \n    // create spacer\n    var spacer = document.querySelector('#random-spacer');\n    if (spacer != null) {\n      spacer.parentNode.removeChild(spacer);\n    }\n    template.innerHTML = '<div id=\"random-spacer\" class=\"rm-topbar__spacer-sm\"></div>';\n    spacer = template.content.firstChild;\n\n    // insert button into topbar\n    const search = document.querySelector('.rm-topbar .rm-find-or-create-wrapper');\n    search.insertAdjacentElement('afterend', randomButton);\n    search.insertAdjacentElement('afterend', spacer);\n  }\n\n  function addKeyboardShortcut() {\n    document.onkeyup = function(e) {\n      if (shortcut.ctrlKey && !e.ctrlKey) return;\n      if (shortcut.shiftKey && !e.shiftKey) return;\n      if (shortcut.altKey && !e.altKey) return;\n      if (shortcut.key === e.key) goToRandomPage(e);\n    }\n  }\n\n  function goToRandomPage(e) {\n    if (isAllPages()) {\n      clickRandomPageLink(e.shiftKey);\n    } else if (e.shiftKey) {\n      goToAllPagesThen(function() {\n        clickRandomPageLink(e.shiftKey);\n        history.back();\n      });\n    } else {\n      const allPages = roamAlphaAPI.q('[ :find (pull ?e [:block/uid]) :where [?e :node/title]]');\n      const page = getRandomElement(allPages);\n      const uid = page[0].uid;\n      const db = location.hash.split('/')[2];\n      location.assign('/#/app/' + db + '/page/' + uid);\n    }\n  }\n\n  function isAllPages() {\n    return location.hash.endsWith('/search');\n  }\n\n  function goToAllPagesThen(f) {\n    document.querySelector('.bp3-icon-list').parentNode.parentNode.click();\n    setTimeout(f, 0);\n  }\n\n  function clickRandomPageLink(shift) {\n    // https://forum.roamresearch.com/t/what-would-be-your-top-3-tips-for-beginners/255/9\n    var allPages = document.querySelectorAll('div.rm-pages-title-col a');\n    var pageLink = getRandomElement(allPages);\n    getEventHandlers(pageLink).onClick({ shiftKey: shift });\n  }\n\n  function getRandomElement(array) {\n    return array[Math.floor(Math.random() * array.length)];\n  }\n\n  function getEventHandlers(element) {\n    for (var prop in element) {\n      if (prop.includes('reactEventHandlers')) {\n        return element[prop];\n      }\n    }\n  }\n\n  addButton();\n  addKeyboardShortcut();\n}\nsetTimeout(randomPagePlugin, 0);```",
+            "create-time": 1615070214825,
+            "uid": "2jkwuc3nw",
+            "edit-time": 1615070228471,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "kiX5c0C02"
+          }
+        ],
+        "uid": "zrYNexzTZ",
+        ":block/refs": [
+          {
+            ":block/uid": "kiX5c0C02"
+          }
+        ],
+        "string": "{{{[[roam/js]]}}}",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1615070214825,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "7f5CK6b9q",
+    "edit-time": 1615070211675,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }

@@ -1,0 +1,206 @@
+- ⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}
+- **Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}
+- Be Our Guest
+    - Quality Service
+        - Exceeding expectations by paying attention to every detail of the delivery of products/services
+        - Plethora of little wows
+        - Compass
+            - Guestology
+                - Art & science of knowing and understanding customers
+                - Purposes
+                    - Basis for initial course of action and continuous fine-tuning
+                    - Inform service goals, strategy, improvement
+                - Dimensions
+                    - Demographics
+                        - Who customers are
+                        - Who customers are NOT
+                    - Psychographics
+                        - Needs
+                        - Wants
+                        - Stereotypes
+                        - Emotions
+                - Techniques
+                    - Surveys
+                    - Listening posts
+                    - Utilization studies
+                    - Focus groups
+                    - Mystery shoppers
+                - Timing
+                    - Assess over broad spectrum of time
+                    - Before, during, after experience
+            - Quality Standards
+                - Responsiveness
+                - Efficiency
+                - Warmth & courtesy
+                - Accountability
+                - Reliability
+                - Demonstrate & Show
+                - Accessibility
+                - Service provision
+                    - Purposes
+                        - Establish criteria for actions necessary to accomplish service strategy
+                        - Measures of Quality Service
+                    - Strictly prioritized
+                    - Disney
+                        - Safety
+                        - Courtesy
+                        - Show
+                        - Efficiency
+            - Delivery Systems
+                - Cast
+                    - Performance cultures
+                        - Elements
+                            - Behaviors
+                            - Mannerisms
+                            - Terms
+                            - Values
+                        - location specific
+                        - Development
+                            - Design mission/vision to sign workforce to business unit
+                            - Identify values connected to mission/vision
+                            - Link values to job behaviors
+                            - Turn workforce loose
+                            - Tips
+                                - Keep it simple
+                                - Make it Global
+                                - Make it measurable
+                                - Provide training and coaching
+                                - Solicit Ideas and feedback from team
+                                - Recognize and reward performance
+                    - First impressions
+                        - Cast
+                        - Guests
+                    - Performance tips
+                        - Image & behavioral standards
+                            - communicate responsibilities
+                            - Basis for accountability and performance disciplinary action
+                            - Minimum expectations / jumping-off point
+                        - Ideas
+                            - Provide immediate service recovery
+                                - Resolve service failures before they escalate to service problems
+                                - Always find an answer or find someone who can help
+                            - Seek contact and opportunities to assist
+                        - Encapsulate in 7 or fewer guidelines
+                    - Training
+                        - Disney levels
+                            - Global
+                            - Line of business
+                            - Local
+                            - On-the-job
+                        - Speak to hearts, not just brains
+                - Setting
+                    - Where customers meet you
+                    - Everything speaks
+                    - Physical and virtual
+                    - Keep Onstage and Backstage separated
+                        - anything that doesn't contribute, detracts
+                        - Backstage is less expensive to develop and maintain
+                        - Employees need space to relax
+                        - Customers are distracting
+                    - Major uses
+                        - Sending a message
+                        - Guiding the guest experience
+                            - Cues to where they have been and are headed
+                    - Process
+                        - Know your audience
+                        - Wear your guest's does
+                        - Create a "wienie" (visual landmark)
+                        - Communicate with visual literacy
+                        - Avoid overload
+                        - Tell one story at a time (one setting for each big idea)
+                        - Avoid contradictions; maintain identity
+                        - Build interactivity; exercise all senses
+                            - Sight
+                                - Primary transmitter of setting
+                                - Unseen is as important as seen
+                                - Color
+                            - Sound
+                                - Only exposure to "good" sounds
+                            - Smell
+                                - Memory trigger
+                            - Touch
+                            - Taste
+                        - Keep it up
+                    - Maintenance
+                        - Build into setting
+                        - Enlist every employee in effort
+                - Processes
+                    - Series of operations (policies, tasks, procedures) used to deliver product/service
+                    - Encompass and utilize cast and setting
+                    - Key combustion points
+                        - Must be identified and controlled
+                        - Combustion statements
+                            - Common complaints
+                            - Sticking points
+                            - Common problems/hassles when interacting
+                        - Can become explosion points
+                        - Defused by service patches
+                        - Universal service process points
+                            - Guest flow (waiting time)
+                                - Optimize operation of product/service processes
+                                - Allow guests to self-manage service flow
+                                - Optimize the queue experience
+                            - Cast-to-Guest Communications
+                                - Avoid bounces and runarounds
+                                - Never make guest feel stupid
+                                - Get information to EEs who need it when and where they need it
+                                    - Newsletters
+                                    - Job shadowing
+                                    - Central info repositories
+                                - Provide critical content and memorable presentations in simplest way possible
+                            - Service Attention
+                                - Processes serve guests else needs cannot be meet by existing processes
+                                - Disney examples
+                                    - International guests
+                                    - Small children
+                                    - Guests with disabilities
+                            - Service Process Debugging
+                                - Debugging flawed processes
+                                - Improving outdated processes
+                                - Debugging guest-owned processes
+                                    - Solve guest-created problems
+            - Integration
+                - Combine and align quality standards and all three Delivery Systems into complete operating system
+                - Logical, step-by-step process
+                - Headliners
+                    - delivery systems particularly well aligned with a particular quality standard
+                    - Warrant identification and special attention
+                - Landmarks
+                    - Secondary delivery systems
+                    - Offer opportunity for further alignment
+                - Integration Matrix
+                    - Delivery Systems x Quality Standards
+                    - Each intersection represents a "service moment of truth"
+                    - Uses
+                        - Integration
+                        - Diagnose, isolate, analyze, brainstorm service lapses
+                        - Benchmark competitor's/partner's service
+                        - Consider and analyze additional parameters
+                    - Levels
+                        - Strategic
+                        - Departmental
+                        - Process
+                        - Focus on a single service moment
+                - Elements of Magical Service Moments
+                    - High-touch
+                        - Participation
+                        - Interaction
+                        - Cast-centered
+                    - High-show
+                        - Vivid, memorable experiences
+                        - Setting-centered
+                    - High-tech
+                        - Build in speed, accuracy, expertise
+                        - Process-centered
+                - Storyboarding
+                    - Visualize and organize service solutions
+        - Cues
+            - Become expert guestologist
+            - Create guest profile
+            - Collect/analyze psychographics
+            - Articulate unique common purpose
+            - Define critical Quality Standards
+            - Recognize 3 primary service delivery systems
+    - Miscellaneous
+        - Wow with every interaction
+- 
