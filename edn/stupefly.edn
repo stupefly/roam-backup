@@ -68,8 +68,8 @@
   [2 :version/id "0.8.2" 536870914]
   [2
    :version/nonce
-   "uuidda750f1e-186a-45f8-9699-1db3150a4778"
-   536883214]
+   "uuiddc9634d8-8c7c-45f2-adda-b9406d9616d0"
+   536883226]
   [3 :block/uid "rRqBuP6q9" 536870915]
   [3 :user/display-name "Bill Mosca" 536872128]
   [3
@@ -24102,6 +24102,7 @@
   [3666 :block/children 3672 536882879]
   [3666 :block/children 3673 536882881]
   [3666 :block/children 3697 536882885]
+  [3666 :block/children 3791 536883215]
   [3666 :block/open true 536882448]
   [3666 :block/order 2 536882890]
   [3666 :block/page 166 536882988]
@@ -24135,7 +24136,7 @@
   [3668 :block/children 3689 536882581]
   [3668 :block/children 3724 536882892]
   [3668 :block/open true 536882460]
-  [3668 :block/order 2 536882887]
+  [3668 :block/order 3 536883215]
   [3668 :block/page 166 536882988]
   [3668 :block/parents 166 536882988]
   [3668 :block/parents 3436 536882461]
@@ -24198,7 +24199,7 @@
   [3671 :edit/time 1614837596163 536882481]
   [3671 :edit/user 3 536882473]
   [3672 :block/open true 536882482]
-  [3672 :block/order 3 536882887]
+  [3672 :block/order 4 536883215]
   [3672 :block/page 166 536882988]
   [3672 :block/parents 166 536882988]
   [3672 :block/parents 3436 536882483]
@@ -24212,7 +24213,7 @@
   [3672 :edit/user 3 536882482]
   [3673 :block/children 3676 536882505]
   [3673 :block/open true 536882487]
-  [3673 :block/order 4 536882887]
+  [3673 :block/order 5 536883215]
   [3673 :block/page 166 536882988]
   [3673 :block/parents 166 536882988]
   [3673 :block/parents 3436 536882488]
@@ -24506,7 +24507,7 @@
   [3697 :block/children 3698 536882658]
   [3697 :block/children 3699 536882665]
   [3697 :block/open true 536882648]
-  [3697 :block/order 1 536882885]
+  [3697 :block/order 2 536883215]
   [3697 :block/page 166 536882988]
   [3697 :block/parents 166 536882988]
   [3697 :block/parents 3436 536882649]
@@ -25360,4 +25361,20 @@
   [3790 :edit/time 1614989223731 536883214]
   [3790 :edit/user 3 536883214]
   [3790 :log/id 1614989223730 536883214]
-  [3790 :node/title "March 6th, 2021" 536883214]]}
+  [3790 :node/title "March 6th, 2021" 536883214]
+  [3791 :block/open true 536883215]
+  [3791 :block/order 1 536883215]
+  [3791 :block/page 166 536883216]
+  [3791 :block/parents 166 536883216]
+  [3791 :block/parents 3436 536883216]
+  [3791 :block/parents 3666 536883216]
+  [3791 :block/parents 3691 536883216]
+  [3791
+   :block/string
+   "“too heavy a lift for us at this time”"
+   536883226]
+  [3791 :block/uid "fuS0aClhN" 536883215]
+  [3791 :create/time 1615006907143 536883215]
+  [3791 :create/user 3 536883215]
+  [3791 :edit/time 1615006935473 536883226]
+  [3791 :edit/user 3 536883215]]}

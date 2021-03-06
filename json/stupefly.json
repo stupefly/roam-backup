@@ -2850,6 +2850,18 @@
                     }
                   },
                   {
+                    "string": "“too heavy a lift for us at this time”",
+                    "create-time": 1615006907143,
+                    "uid": "fuS0aClhN",
+                    "edit-time": 1615006935473,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
                     "string": "Reason(s) given",
                     "create-time": 1614838554697,
                     ":create/user": {

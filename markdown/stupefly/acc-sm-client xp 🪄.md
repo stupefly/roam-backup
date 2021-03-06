@@ -42,6 +42,7 @@ Keywords: #[[🗺 Areas]], #active
             - Don't leave openings for [[negotiation]]
         - Content
             - "Our best work is not being produced"
+            - “too heavy a lift for us at this time”
             - Reason(s) given
                 - New situation preventing us from giving client our fullest attention
                 - Change of business focus (sitting outside of client needs)
