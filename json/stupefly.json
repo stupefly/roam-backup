@@ -29108,91 +29108,7 @@
     },
     "children": [
       {
-        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
-        "create-time": 1615070132019,
-        ":block/refs": [
-          {
-            ":block/uid": "hhvTau8RH"
-          },
-          {
-            ":block/uid": "sS9KVdL8B"
-          },
-          {
-            ":block/uid": "A0Su1fppo"
-          },
-          {
-            ":block/uid": "01-01-2000"
-          },
-          {
-            ":block/uid": "4wLPO9CQE"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "hhvTau8RH"
-          },
-          {
-            "uid": "sS9KVdL8B"
-          },
-          {
-            "uid": "A0Su1fppo"
-          },
-          {
-            "uid": "01-01-2000"
-          },
-          {
-            "uid": "4wLPO9CQE"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "Jgxj_c6ja",
-        "edit-time": 1615070132019,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
-        "create-time": 1615070135626,
-        ":block/refs": [
-          {
-            ":block/uid": "0lAddRQzh"
-          },
-          {
-            ":block/uid": "sSeeG88c9"
-          },
-          {
-            ":block/uid": "sS9KVdL8B"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "0lAddRQzh"
-          },
-          {
-            "uid": "sSeeG88c9"
-          },
-          {
-            "uid": "sS9KVdL8B"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "IhuCm1gNy",
-        "edit-time": 1615070135626,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "Be Our Guest",
-        "create-time": 1615068221721,
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
+        "edit-time": 1615226568132,
         "children": [
           {
             "string": "Quality Service",
@@ -29214,10 +29130,10 @@
                 }
               },
               {
-                "string": "Plethora of little wows",
+                "string": "Plethora of \"little wows\"",
                 "create-time": 1615068221721,
                 "uid": "9NHLdaA-u",
-                "edit-time": 1615068221892,
+                "edit-time": 1615226587436,
                 ":create/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 },
@@ -29233,26 +29149,14 @@
                 },
                 "children": [
                   {
-                    "string": "Guestology",
+                    "string": "**Guestology**: the art & science of knowing and understanding customers",
                     "create-time": 1615068221721,
                     ":create/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     },
                     "children": [
                       {
-                        "string": "Art & science of knowing and understanding customers",
-                        "create-time": 1615068221721,
-                        "uid": "Lc3gQgiHL",
-                        "edit-time": 1615068221892,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Purposes",
+                        "string": "Guestology Purposes",
                         "create-time": 1615068221721,
                         ":create/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
@@ -29284,13 +29188,13 @@
                           }
                         ],
                         "uid": "rnBD4-arq",
-                        "edit-time": 1615068221892,
+                        "edit-time": 1615226650956,
                         ":edit/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                         }
                       },
                       {
-                        "string": "Dimensions",
+                        "string": "Guestology Dimensions",
                         "create-time": 1615068221721,
                         ":create/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
@@ -29398,13 +29302,13 @@
                           }
                         ],
                         "uid": "PzbEAy7m4",
-                        "edit-time": 1615068221892,
+                        "edit-time": 1615226656597,
                         ":edit/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                         }
                       },
                       {
-                        "string": "Techniques",
+                        "string": "Guestology Techniques",
                         "create-time": 1615068221721,
                         ":create/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
@@ -29472,13 +29376,13 @@
                           }
                         ],
                         "uid": "O-ShsJP4T",
-                        "edit-time": 1615068221892,
+                        "edit-time": 1615226659696,
                         ":edit/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                         }
                       },
                       {
-                        "string": "Timing",
+                        "string": "Guestology Timing",
                         "create-time": 1615068221721,
                         ":create/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
@@ -29510,20 +29414,20 @@
                           }
                         ],
                         "uid": "5QwZAnozO",
-                        "edit-time": 1615068221892,
+                        "edit-time": 1615226664310,
                         ":edit/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                         }
                       }
                     ],
                     "uid": "BwKpAAc1t",
-                    "edit-time": 1615068221892,
+                    "edit-time": 1615226691130,
                     ":edit/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     }
                   },
                   {
-                    "string": "Quality Standards",
+                    "string": "**Quality Standards**",
                     "create-time": 1615068221721,
                     ":create/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
@@ -29741,13 +29645,13 @@
                       }
                     ],
                     "uid": "CdrYPx1iC",
-                    "edit-time": 1615068221892,
+                    "edit-time": 1615226705119,
                     ":edit/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     }
                   },
                   {
-                    "string": "Delivery Systems",
+                    "string": "**Delivery Systems**",
                     "create-time": 1615068221721,
                     ":create/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
@@ -30722,7 +30626,7 @@
                         }
                       },
                       {
-                        "string": "Processes",
+                        "string": "**Processes**",
                         "create-time": 1615068221721,
                         ":create/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
@@ -31158,14 +31062,14 @@
                           }
                         ],
                         "uid": "liymvvkRG",
-                        "edit-time": 1615068221892,
+                        "edit-time": 1615226717168,
                         ":edit/user": {
                           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                         }
                       }
                     ],
                     "uid": "j1qTizq6U",
-                    "edit-time": 1615068221892,
+                    "edit-time": 1615226710427,
                     ":edit/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     }
@@ -31739,8 +31643,22 @@
             }
           }
         ],
+        "refs": [
+          {
+            "uid": "o6Grrhu6r"
+          }
+        ],
         "uid": "yI3XN_KTj",
-        "edit-time": 1615068221892,
+        ":block/refs": [
+          {
+            ":block/uid": "o6Grrhu6r"
+          }
+        ],
+        "string": "[[book/Be Our Guest]]",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1615068221721,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -31829,8 +31747,160 @@
   {
     "create-time": 1615162027289,
     "title": "March 8th, 2021",
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    "children": [
+      {
+        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
+        "create-time": 1615226522970,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
+          },
+          {
+            ":block/uid": "A0Su1fppo"
+          },
+          {
+            ":block/uid": "01-01-2000"
+          },
+          {
+            ":block/uid": "4wLPO9CQE"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          },
+          {
+            "uid": "A0Su1fppo"
+          },
+          {
+            "uid": "01-01-2000"
+          },
+          {
+            "uid": "4wLPO9CQE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "VU-jRA8i_",
+        "edit-time": 1615226522970,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
+        "create-time": 1615226525533,
+        ":block/refs": [
+          {
+            ":block/uid": "0lAddRQzh"
+          },
+          {
+            ":block/uid": "sSeeG88c9"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0lAddRQzh"
+          },
+          {
+            "uid": "sSeeG88c9"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "YiFnp3m-b",
+        "edit-time": 1615226525533,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "edit-time": 1615226518049,
+        "children": [
+          {
+            "string": "{{[[TODO]]}} Rebook southwest tix to Tampa ",
+            "create-time": 1615221987641,
+            ":block/refs": [
+              {
+                ":block/uid": "hhvTau8RH"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "hhvTau8RH"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "alEuTEF9n",
+            "edit-time": 1615226518049,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "gb9IkFGb3"
+          }
+        ],
+        "uid": "AS5VyV1Py",
+        ":block/refs": [
+          {
+            ":block/uid": "gb9IkFGb3"
+          }
+        ],
+        "string": "#[[Quick Capture]]",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1615221987641,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
     "uid": "03-08-2021",
-    "edit-time": 1615162027289,
+    "edit-time": 1615226518049,
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1615226518104,
+    "title": "Quick Capture",
+    "uid": "gb9IkFGb3",
+    "edit-time": 1615226518116,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1615226568143,
+    "title": "book/Be Our Guest",
+    "uid": "o6Grrhu6r",
+    "edit-time": 1615226568146,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },

@@ -1,16 +1,13 @@
-- ⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}
-- **Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}
-- Be Our Guest
+- [[book/Be Our Guest]]
     - Quality Service
         - Exceeding expectations by paying attention to every detail of the delivery of products/services
-        - Plethora of little wows
-        - Compass
-            - Guestology
-                - Art & science of knowing and understanding customers
-                - Purposes
+        - Plethora of "little wows"
+        - Compass: guestology, 
+            - **Guestology**: the art & science of knowing and understanding customers
+                - Guestology Purposes
                     - Basis for initial course of action and continuous fine-tuning
                     - Inform service goals, strategy, improvement
-                - Dimensions
+                - Guestology Dimensions
                     - Demographics
                         - Who customers are
                         - Who customers are NOT
@@ -19,16 +16,16 @@
                         - Wants
                         - Stereotypes
                         - Emotions
-                - Techniques
+                - Guestology Techniques
                     - Surveys
                     - Listening posts
                     - Utilization studies
                     - Focus groups
                     - Mystery shoppers
-                - Timing
+                - Guestology Timing
                     - Assess over broad spectrum of time
                     - Before, during, after experience
-            - Quality Standards
+            - **Quality Standards**
                 - Responsiveness
                 - Efficiency
                 - Warmth & courtesy
@@ -46,7 +43,7 @@
                         - Courtesy
                         - Show
                         - Efficiency
-            - Delivery Systems
+            - **Delivery Systems**
                 - Cast
                     - Performance cultures
                         - Elements
@@ -124,7 +121,7 @@
                     - Maintenance
                         - Build into setting
                         - Enlist every employee in effort
-                - Processes
+                - **Processes**
                     - Series of operations (policies, tasks, procedures) used to deliver product/service
                     - Encompass and utilize cast and setting
                     - Key combustion points
