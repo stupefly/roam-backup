@@ -29108,41 +29108,137 @@
     },
     "children": [
       {
-        "edit-time": 1615226568132,
+        "edit-time": 1615226888162,
         "children": [
           {
-            "string": "Quality Service",
-            "create-time": 1615068221721,
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
+            "edit-time": 1615226568132,
             "children": [
               {
-                "string": "Exceeding expectations by paying attention to every detail of the delivery of products/services",
+                "string": "Quality Service",
                 "create-time": 1615068221721,
-                "uid": "gfWdOGsVq",
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "Exceeding expectations by paying attention to every detail of the delivery of products/services",
+                    "create-time": 1615068221721,
+                    "uid": "gfWdOGsVq",
+                    "edit-time": 1615068221892,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Plethora of \"little wows\" / wow with every interaction",
+                    "create-time": 1615068221721,
+                    "uid": "9NHLdaA-u",
+                    "edit-time": 1615226794158,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Cues",
+                    "create-time": 1615068221721,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    "children": [
+                      {
+                        "string": "Become expert guestologist",
+                        "create-time": 1615068221721,
+                        "uid": "4TEX56bhr",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Create guest profile",
+                        "create-time": 1615068221721,
+                        "uid": "vcGODAHXE",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Collect/analyze psychographics",
+                        "create-time": 1615068221721,
+                        "uid": "Yn0muAaqn",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Articulate unique common purpose",
+                        "create-time": 1615068221721,
+                        "uid": "bLFuwV1y4",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Define critical Quality Standards",
+                        "create-time": 1615068221721,
+                        "uid": "z4f4dZgI8",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      },
+                      {
+                        "string": "Recognize 3 primary service delivery systems",
+                        "create-time": 1615068221721,
+                        "uid": "nuJgysVn0",
+                        "edit-time": 1615068221892,
+                        ":create/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                        }
+                      }
+                    ],
+                    "uid": "qkm3W3Vvm",
+                    "edit-time": 1615068221892,
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "RSli0tAHv",
                 "edit-time": 1615068221892,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
                 ":edit/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 }
               },
               {
-                "string": "Plethora of \"little wows\"",
-                "create-time": 1615068221721,
-                "uid": "9NHLdaA-u",
-                "edit-time": 1615226587436,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Compass",
+                "string": "**Compass**: guestology, quality standards, delivery systems, processes",
                 "create-time": 1615068221721,
                 ":create/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
@@ -31075,7 +31171,7 @@
                     }
                   },
                   {
-                    "string": "Integration",
+                    "string": "**Integration**",
                     "create-time": 1615068221721,
                     ":create/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
@@ -31511,133 +31607,35 @@
                       }
                     ],
                     "uid": "gf06-DmzK",
-                    "edit-time": 1615068221892,
+                    "edit-time": 1615226849651,
                     ":edit/user": {
                       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                     }
                   }
                 ],
                 "uid": "eqaW3Imch",
-                "edit-time": 1615068221892,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Cues",
-                "create-time": 1615068221721,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "Become expert guestologist",
-                    "create-time": 1615068221721,
-                    "uid": "4TEX56bhr",
-                    "edit-time": 1615068221892,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Create guest profile",
-                    "create-time": 1615068221721,
-                    "uid": "vcGODAHXE",
-                    "edit-time": 1615068221892,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Collect/analyze psychographics",
-                    "create-time": 1615068221721,
-                    "uid": "Yn0muAaqn",
-                    "edit-time": 1615068221892,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Articulate unique common purpose",
-                    "create-time": 1615068221721,
-                    "uid": "bLFuwV1y4",
-                    "edit-time": 1615068221892,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Define critical Quality Standards",
-                    "create-time": 1615068221721,
-                    "uid": "z4f4dZgI8",
-                    "edit-time": 1615068221892,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Recognize 3 primary service delivery systems",
-                    "create-time": 1615068221721,
-                    "uid": "nuJgysVn0",
-                    "edit-time": 1615068221892,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "qkm3W3Vvm",
-                "edit-time": 1615068221892,
+                "edit-time": 1615226822546,
                 ":edit/user": {
                   ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
                 }
               }
             ],
-            "uid": "RSli0tAHv",
-            "edit-time": 1615068221892,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Miscellaneous",
-            "create-time": 1615068221721,
+            "refs": [
+              {
+                "uid": "o6Grrhu6r"
+              }
+            ],
+            "uid": "yI3XN_KTj",
+            ":block/refs": [
+              {
+                ":block/uid": "o6Grrhu6r"
+              }
+            ],
+            "string": "[[book/Be Our Guest]]",
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
-            "children": [
-              {
-                "string": "Wow with every interaction",
-                "create-time": 1615068221721,
-                "uid": "--ktYsw-w",
-                "edit-time": 1615068221892,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "-Bt_1VLha",
-            "edit-time": 1615068221892,
+            "create-time": 1615068221721,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
@@ -31645,20 +31643,20 @@
         ],
         "refs": [
           {
-            "uid": "o6Grrhu6r"
+            "uid": "sSeeG88c9"
           }
         ],
-        "uid": "yI3XN_KTj",
+        "uid": "EkWzknwJ1",
         ":block/refs": [
           {
-            ":block/uid": "o6Grrhu6r"
+            ":block/uid": "sSeeG88c9"
           }
         ],
-        "string": "[[book/Be Our Guest]]",
+        "string": "#[[📥 Quick Capture]]",
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "create-time": 1615068221721,
+        "create-time": 1615226877027,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -31852,6 +31850,28 @@
             },
             "uid": "alEuTEF9n",
             "edit-time": 1615226518049,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "{{[[TODO]]}} Schedule DMV visit for RealID",
+            "create-time": 1615227278233,
+            ":block/refs": [
+              {
+                ":block/uid": "hhvTau8RH"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "hhvTau8RH"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "KR-LUf9XN",
+            "edit-time": 1615227290714,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }

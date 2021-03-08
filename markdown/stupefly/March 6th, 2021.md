@@ -1,8 +1,16 @@
-- [[book/Be Our Guest]]
-    - Quality Service
-        - Exceeding expectations by paying attention to every detail of the delivery of products/services
-        - Plethora of "little wows"
-        - Compass: guestology, 
+- #[[📥 Quick Capture]]
+    - [[book/Be Our Guest]]
+        - Quality Service
+            - Exceeding expectations by paying attention to every detail of the delivery of products/services
+            - Plethora of "little wows" / wow with every interaction
+            - Cues
+                - Become expert guestologist
+                - Create guest profile
+                - Collect/analyze psychographics
+                - Articulate unique common purpose
+                - Define critical Quality Standards
+                - Recognize 3 primary service delivery systems
+        - **Compass**: guestology, quality standards, delivery systems, processes
             - **Guestology**: the art & science of knowing and understanding customers
                 - Guestology Purposes
                     - Basis for initial course of action and continuous fine-tuning
@@ -156,7 +164,7 @@
                                 - Improving outdated processes
                                 - Debugging guest-owned processes
                                     - Solve guest-created problems
-            - Integration
+            - **Integration**
                 - Combine and align quality standards and all three Delivery Systems into complete operating system
                 - Logical, step-by-step process
                 - Headliners
@@ -191,13 +199,4 @@
                         - Process-centered
                 - Storyboarding
                     - Visualize and organize service solutions
-        - Cues
-            - Become expert guestologist
-            - Create guest profile
-            - Collect/analyze psychographics
-            - Articulate unique common purpose
-            - Define critical Quality Standards
-            - Recognize 3 primary service delivery systems
-    - Miscellaneous
-        - Wow with every interaction
 - 
