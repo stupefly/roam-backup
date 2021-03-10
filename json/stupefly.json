@@ -31751,7 +31751,7 @@
     "children": [
       {
         "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
-        "create-time": 1615226522970,
+        "create-time": 1615409521666,
         ":block/refs": [
           {
             ":block/uid": "hhvTau8RH"
@@ -31789,15 +31789,15 @@
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "uid": "VU-jRA8i_",
-        "edit-time": 1615226522970,
+        "uid": "T613nCcqJ",
+        "edit-time": 1615409523682,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
       },
       {
         "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
-        "create-time": 1615226525533,
+        "create-time": 1615409525847,
         ":block/refs": [
           {
             ":block/uid": "0lAddRQzh"
@@ -31823,8 +31823,8 @@
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "uid": "YiFnp3m-b",
-        "edit-time": 1615226525533,
+        "uid": "-TMx7gGGG",
+        "edit-time": 1615409525847,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -31833,23 +31833,23 @@
         "edit-time": 1615226518049,
         "children": [
           {
-            "string": "{{[[TODO]]}} Rebook southwest tix to Tampa ",
+            "string": "{{[[DONE]]}} Rebook southwest tix to Tampa ",
             "create-time": 1615221987641,
             ":block/refs": [
               {
-                ":block/uid": "hhvTau8RH"
+                ":block/uid": "0HeuefVvJ"
               }
             ],
             "refs": [
               {
-                "uid": "hhvTau8RH"
+                "uid": "0HeuefVvJ"
               }
             ],
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
             "uid": "alEuTEF9n",
-            "edit-time": 1615226518049,
+            "edit-time": 1615409535149,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
@@ -31931,11 +31931,49 @@
   {
     "create-time": 1615322611601,
     "title": "March 9th, 2021",
-    "uid": "03-09-2021",
-    "edit-time": 1615322611601,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
+    "children": [
+      {
+        "edit-time": 1615409482762,
+        "children": [
+          {
+            "string": "[How to Get Subscribers on YouTube (Even Though Subscribers Don’t Matter)](https://reneritchie.net/how-to-get-subscribers-on-youtube-even-though-subscribers-dont-matter/)When I quit my big media job in April of 2020, I needed to build a new channel and I needed to build it as fast as possible. I'd built my previous, company-owned channel to 170K subscribers in 2 years. I ended up building the new indie one to over 200K in 9 months. Here's what I learned:\n\t•\tBest way to get subscribers is to ask for them.\n\t•\tNever be ashamed to ask and never let anyone shame you for asking.\n\t•\tAsk for subscribers near the beginning of the video, right after you’ve delivered value. ~20 seconds in, right after the hook.\n\t•\tAsking for subscribers is not about converting first-time viewers, it’s about reminding viewers who have watched and enjoyed several of your videos to subscribe.\n\t•\tPeople who enjoy your videos can often be so engrossed in watching they don’t even think about subscribing, so it really is a helpful reminder.\n\t•\tOne of the best converting CTA for subscribers is Dream’s: “YouTube shows me X% of you watching haven’t subscribed yet. Please hit that button and bell so we can build the biggest/best community together. It’s free and you can always...\n\n",
+            "create-time": 1615322628154,
+            "uid": "d0mc4uGbi",
+            "edit-time": 1615409482762,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "gb9IkFGb3"
+          }
+        ],
+        "uid": "bgluN_ozQ",
+        ":block/refs": [
+          {
+            ":block/uid": "gb9IkFGb3"
+          }
+        ],
+        "string": "#[[Quick Capture]]",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1615322628154,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "03-09-2021",
+    "edit-time": 1615409482762,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
