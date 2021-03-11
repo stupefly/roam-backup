@@ -1,5 +1,5 @@
 - Author(s): David Jenyns, Michael E. Gerber
-- Keywords: #SYSTEMology, 
+- Keywords: #SYSTEMology, #systems, #[[systems thinking]], #[[business process]]
 - ========================================
 - General Guidance for Systemization
     - Create an ‘overview system’ to outline the high-level steps in the delivery of your product or service.

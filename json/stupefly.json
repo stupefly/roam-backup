@@ -14597,29 +14597,13 @@
     },
     "children": [
       {
-        "string": "roam inbox (also: [[inbox]], [[📥 Quick Capture]])",
+        "string": "roam inbox (also: inbox, 📥 Quick Capture)",
         "create-time": 1614142760273,
-        ":block/refs": [
-          {
-            ":block/uid": "sSeeG88c9"
-          },
-          {
-            ":block/uid": "Yl7BoOfIx"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "sSeeG88c9"
-          },
-          {
-            "uid": "Yl7BoOfIx"
-          }
-        ],
+        "uid": "fdAYyHPDo",
+        "edit-time": 1615486329714,
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "uid": "fdAYyHPDo",
-        "edit-time": 1614884511258,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -15562,32 +15546,6 @@
     }
   },
   {
-    "create-time": 1614195164279,
-    "title": "📥 Quick Capture",
-    ":create/user": {
-      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-    },
-    "children": [
-      {
-        "string": "",
-        "create-time": 1614195349303,
-        "uid": "k2qz53XpP",
-        "edit-time": 1614884508701,
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      }
-    ],
-    "uid": "sSeeG88c9",
-    "edit-time": 1614884511258,
-    ":edit/user": {
-      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-    }
-  },
-  {
     "create-time": 1614195164284,
     "title": "T: Weekly Review",
     "uid": "55Tt4OYwQ",
@@ -15800,18 +15758,6 @@
     "title": "remove-this-page",
     "uid": "fC5vt-k8i",
     "edit-time": 1614240420351,
-    ":create/user": {
-      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-    },
-    ":edit/user": {
-      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-    }
-  },
-  {
-    "create-time": 1614240490346,
-    "title": "inbox",
-    "uid": "Yl7BoOfIx",
-    "edit-time": 1614240490362,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
@@ -16555,17 +16501,17 @@
             }
           },
           {
-            "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
+            "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[Quick Capture]] {not: [[📥 Inbox]]} }}}",
             "create-time": 1614885272587,
             ":block/refs": [
               {
                 ":block/uid": "0lAddRQzh"
               },
               {
-                ":block/uid": "sSeeG88c9"
+                ":block/uid": "sS9KVdL8B"
               },
               {
-                ":block/uid": "sS9KVdL8B"
+                ":block/uid": "gb9IkFGb3"
               }
             ],
             "refs": [
@@ -16573,17 +16519,17 @@
                 "uid": "0lAddRQzh"
               },
               {
-                "uid": "sSeeG88c9"
+                "uid": "sS9KVdL8B"
               },
               {
-                "uid": "sS9KVdL8B"
+                "uid": "gb9IkFGb3"
               }
             ],
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
             "uid": "Oc4dywBAM",
-            "edit-time": 1614885272587,
+            "edit-time": 1615486286296,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
@@ -26248,14 +26194,14 @@
         }
       },
       {
-        "string": "{{[[TODO]]}} Buy merchant parking permits #[[Accountiful Todos]]",
+        "string": "{{[[DONE]]}} Buy merchant parking permits #[[Accountiful Todos]]",
         "create-time": 1614298225203,
         ":block/refs": [
           {
             ":block/uid": "CEVcUQzIF"
           },
           {
-            ":block/uid": "hhvTau8RH"
+            ":block/uid": "0HeuefVvJ"
           }
         ],
         "refs": [
@@ -26263,14 +26209,14 @@
             "uid": "CEVcUQzIF"
           },
           {
-            "uid": "hhvTau8RH"
+            "uid": "0HeuefVvJ"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "2uO6Uhv_-",
-        "edit-time": 1614450392850,
+        "edit-time": 1615486082754,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -29286,7 +29232,7 @@
     },
     "children": [
       {
-        "edit-time": 1615226888162,
+        "edit-time": 1615486138257,
         "children": [
           {
             "edit-time": 1615226568132,
@@ -31821,16 +31767,16 @@
         ],
         "refs": [
           {
-            "uid": "sSeeG88c9"
+            "uid": "gb9IkFGb3"
           }
         ],
         "uid": "EkWzknwJ1",
         ":block/refs": [
           {
-            ":block/uid": "sSeeG88c9"
+            ":block/uid": "gb9IkFGb3"
           }
         ],
-        "string": "#[[📥 Quick Capture]]",
+        "string": "#[[Quick Capture]]",
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
@@ -31928,149 +31874,45 @@
     },
     "children": [
       {
-        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
-        "create-time": 1615409521666,
+        "string": "{{[[DONE]]}} Rebook southwest tix to Tampa ",
+        "create-time": 1615221987641,
+        ":block/refs": [
+          {
+            ":block/uid": "0HeuefVvJ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0HeuefVvJ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "alEuTEF9n",
+        "edit-time": 1615409535149,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "{{[[TODO]]}} Schedule DMV visit for RealID",
+        "create-time": 1615227278233,
         ":block/refs": [
           {
             ":block/uid": "hhvTau8RH"
-          },
-          {
-            ":block/uid": "sS9KVdL8B"
-          },
-          {
-            ":block/uid": "A0Su1fppo"
-          },
-          {
-            ":block/uid": "01-01-2000"
-          },
-          {
-            ":block/uid": "4wLPO9CQE"
           }
         ],
         "refs": [
           {
             "uid": "hhvTau8RH"
-          },
-          {
-            "uid": "sS9KVdL8B"
-          },
-          {
-            "uid": "A0Su1fppo"
-          },
-          {
-            "uid": "01-01-2000"
-          },
-          {
-            "uid": "4wLPO9CQE"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
-        "uid": "T613nCcqJ",
-        "edit-time": 1615409523682,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
-        "create-time": 1615409525847,
-        ":block/refs": [
-          {
-            ":block/uid": "0lAddRQzh"
-          },
-          {
-            ":block/uid": "sSeeG88c9"
-          },
-          {
-            ":block/uid": "sS9KVdL8B"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "0lAddRQzh"
-          },
-          {
-            "uid": "sSeeG88c9"
-          },
-          {
-            "uid": "sS9KVdL8B"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "-TMx7gGGG",
-        "edit-time": 1615409525847,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "edit-time": 1615226518049,
-        "children": [
-          {
-            "string": "{{[[DONE]]}} Rebook southwest tix to Tampa ",
-            "create-time": 1615221987641,
-            ":block/refs": [
-              {
-                ":block/uid": "0HeuefVvJ"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "0HeuefVvJ"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            "uid": "alEuTEF9n",
-            "edit-time": 1615409535149,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "{{[[TODO]]}} Schedule DMV visit for RealID",
-            "create-time": 1615227278233,
-            ":block/refs": [
-              {
-                ":block/uid": "hhvTau8RH"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "hhvTau8RH"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            "uid": "KR-LUf9XN",
-            "edit-time": 1615227290714,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          }
-        ],
-        "refs": [
-          {
-            "uid": "gb9IkFGb3"
-          }
-        ],
-        "uid": "AS5VyV1Py",
-        ":block/refs": [
-          {
-            ":block/uid": "gb9IkFGb3"
-          }
-        ],
-        "string": "#[[Quick Capture]]",
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "create-time": 1615221987641,
+        "uid": "KR-LUf9XN",
+        "edit-time": 1615227290714,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -32163,168 +32005,6 @@
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
     "children": [
-      {
-        "edit-time": 1615423211896,
-        "children": [
-          {
-            "string": "Stage 1 - DEFINE",
-            "create-time": 1615423211874,
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            "children": [
-              {
-                "string": "Primary target client",
-                "create-time": 1615423223447,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "Entrepreneur",
-                    "create-time": 1615423262727,
-                    "uid": "7oRalUKjz",
-                    "edit-time": 1615423481644,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Value, but don't understand, the importance of finance",
-                    "create-time": 1615423482438,
-                    "uid": "RdWqjtVGR",
-                    "edit-time": 1615423511929,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Complex needs",
-                    "create-time": 1615423512540,
-                    "uid": "KTzID7H39",
-                    "edit-time": 1615423543689,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Deficient and/or uncontrolled finance function",
-                    "create-time": 1615424073606,
-                    "uid": "zXBgmA7br",
-                    "edit-time": 1615424092821,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Friendly ",
-                    "create-time": 1615423527293,
-                    "uid": "mFYKT2DRF",
-                    "edit-time": 1615423535837,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Retail/eTail",
-                    "create-time": 1615423545677,
-                    "uid": "eDKOL3gxG",
-                    "edit-time": 1615423550964,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Ambitious growth plans",
-                    "create-time": 1615423560918,
-                    "uid": "bJovg3o1T",
-                    "edit-time": 1615423568814,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "xgXpf_MGD",
-                "edit-time": 1615423233667,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Primary product",
-                "create-time": 1615423235970,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "children": [
-                  {
-                    "string": "",
-                    "create-time": 1615423579781,
-                    "uid": "XmOKdYMIG",
-                    "edit-time": 1615423579781,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "uid": "Pe4DfgPNn",
-                "edit-time": 1615423258543,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "lrQjED5io",
-            "edit-time": 1615423223204,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          }
-        ],
-        "refs": [
-          {
-            "uid": "TGtREr6aV"
-          }
-        ],
-        "uid": "fmi_cqZZ0",
-        ":block/refs": [
-          {
-            ":block/uid": "TGtREr6aV"
-          }
-        ],
-        "string": "[[SYSTEMology]]",
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "create-time": 1615423175997,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
       {
         "edit-time": 1615484675539,
         "children": [
@@ -32450,17 +32130,17 @@
         }
       },
       {
-        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
+        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[Quick Capture]] {not: [[📥 Inbox]]} }}}",
         "create-time": 1615485827455,
         ":block/refs": [
           {
             ":block/uid": "0lAddRQzh"
           },
           {
-            ":block/uid": "sSeeG88c9"
+            ":block/uid": "sS9KVdL8B"
           },
           {
-            ":block/uid": "sS9KVdL8B"
+            ":block/uid": "gb9IkFGb3"
           }
         ],
         "refs": [
@@ -32468,17 +32148,17 @@
             "uid": "0lAddRQzh"
           },
           {
-            "uid": "sSeeG88c9"
+            "uid": "sS9KVdL8B"
           },
           {
-            "uid": "sS9KVdL8B"
+            "uid": "gb9IkFGb3"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "vyr0JEr-a",
-        "edit-time": 1615485827455,
+        "edit-time": 1615486159058,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -32510,23 +32190,41 @@
         }
       },
       {
-        "string": "Keywords: #SYSTEMology, ",
+        "string": "Keywords: #SYSTEMology, #systems, #[[systems thinking]], #[[business process]]",
         "create-time": 1615485950611,
         ":block/refs": [
           {
             ":block/uid": "TGtREr6aV"
+          },
+          {
+            ":block/uid": "8BFTQHHdP"
+          },
+          {
+            ":block/uid": "F_8Yr9FYG"
+          },
+          {
+            ":block/uid": "G56OYvQmz"
           }
         ],
         "refs": [
           {
             "uid": "TGtREr6aV"
+          },
+          {
+            "uid": "8BFTQHHdP"
+          },
+          {
+            "uid": "F_8Yr9FYG"
+          },
+          {
+            "uid": "G56OYvQmz"
           }
         ],
         ":create/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         },
         "uid": "-3lOaDatZ",
-        "edit-time": 1615485964898,
+        "edit-time": 1615485998664,
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
@@ -32923,6 +32621,42 @@
     "title": "idea",
     "uid": "bRjRDBPNa",
     "edit-time": 1615484675620,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1615485988073,
+    "title": "systems thinking",
+    "uid": "8BFTQHHdP",
+    "edit-time": 1615485988079,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1615485988073,
+    "title": "systems",
+    "uid": "F_8Yr9FYG",
+    "edit-time": 1615485988079,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1615485998687,
+    "title": "business process",
+    "uid": "G56OYvQmz",
+    "edit-time": 1615485998694,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },

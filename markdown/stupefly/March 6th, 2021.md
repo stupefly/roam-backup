@@ -1,4 +1,4 @@
-- #[[📥 Quick Capture]]
+- #[[Quick Capture]]
     - [[book/Be Our Guest]]
         - Quality Service
             - Exceeding expectations by paying attention to every detail of the delivery of products/services
