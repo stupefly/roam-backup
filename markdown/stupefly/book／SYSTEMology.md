@@ -1,0 +1,28 @@
+- Author(s): David Jenyns, Michael E. Gerber
+- Keywords: #SYSTEMology, 
+- ========================================
+- General Guidance for Systemization
+    - Create an ‘overview system’ to outline the high-level steps in the delivery of your product or service.
+    - Avoid getting too granular
+    - Don’t over-document the business
+- Stage 1 : Define
+    - Step #1: Identify ONE primary target client and ONE primary product you sell to that client.
+        - What is the dream client? The ones you enjoy working with the most. The ones who pay your advertised prices and then happily refer their friends and family.
+        - Pick the product that would be the best starting point for that client. What is a great first purchase for this client? Which one will open the door for you to continue working with them long-term?
+        - Be clear on where the sweet spot is 
+    - Step #2: Define your Critical Client Flow.
+        - Guidelines
+            - Don’t overthink this
+            - Don’t go into detail – two or three words to label a step is all
+            - Only populate the CCF with activities you are currently doing
+        - Critical Client Flow (CCF)
+            - Attention: How do people learn about your business?
+            - Enquiry: When someone is ready to enquire about your products, how do they do it?
+            - Sales: Your prospect has shown interest in your wares and now they’re primed to become a client. What happens next?
+            - Money: How do you collect payment?
+            - Onboarding: How do you get your clients started?
+            - identify how new client projects are set up as opposed to how you deliver the actual work.
+            - Delivery: How is the work completed?
+            - Repeat or referral: Last, but not least, how do you go about encouraging clients to either remain a client or come back again to make additional purchases?
+        - Trouble with clients who constantly follow up and micromanage you and your team probably indicates a poor onboarding sequence that fails to set expectations
+- 

@@ -1,29 +1,3 @@
-- [[book/SYSTEMology]]
-by David Jenyns, Michael E. Gerber
-    - General Guidance for Systemization
-        - Create an ‘overview system’ to outline the high-level steps in the delivery of your product or service.
-        - Avoid getting too granular
-        - Don’t over-document the business
-    - Stage 1 : Define
-        - Step #1: Identify ONE primary target client and ONE primary product you sell to that client.
-            - What is the dream client? The ones you enjoy working with the most. The ones who pay your advertised prices and then happily refer their friends and family.
-            - Pick the product that would be the best starting point for that client. What is a great first purchase for this client? Which one will open the door for you to continue working with them long-term?
-            - Be clear on where the sweet spot is 
-        - Step #2: Define your Critical Client Flow.
-            - Guidelines
-                - Don’t overthink this
-                - Don’t go into detail – two or three words to label a step is all
-                - Only populate the CCF with activities you are currently doing
-            - Critical Client Flow (CCF)
-                - Attention: How do people learn about your business?
-                - Enquiry: When someone is ready to enquire about your products, how do they do it?
-                - Sales: Your prospect has shown interest in your wares and now they’re primed to become a client. What happens next?
-                - Money: How do you collect payment?
-                - Onboarding: How do you get your clients started?
-                - identify how new client projects are set up as opposed to how you deliver the actual work.
-                - Delivery: How is the work completed?
-                - Repeat or referral: Last, but not least, how do you go about encouraging clients to either remain a client or come back again to make additional purchases?
-            - Trouble with clients who constantly follow up and micromanage you and your team probably indicates a poor onboarding sequence that fails to set expectations
 - [[SYSTEMology]]
     - Stage 1 - DEFINE
         - Primary target client
@@ -36,3 +10,16 @@ by David Jenyns, Michael E. Gerber
             - Ambitious growth plans
         - Primary product
             - 
+- #[[Quick Capture]]
+    - {{[[TODO]]}} [[idea]] Hire consultant to document core systems 
+    - [Business Process Technical Writer - Freelance Technical Writer](https://straygoat.co.uk/process-technical-writer/)I’ll document your processes so staff know what to do
+Keep knowledge in your business by documenting your processes
+If your organisation’s processes are not documented, you are taking an unnecessary risk. Think about it. What would happen if:
+	•	Key members of your staff leave or are unable to work, with no notice?
+	•	You unexpectedly need to recreate your business, or part of your business, in another location?
+	•	The quality of your products/services is affected because staff are not following a consistent workflow?
+Any of these situations could prove costly, especially if specialist knowledge was lost due to staff leaving. Yes, you can get a replacement in, but how long will it take and what will happen in the meantime? Why take the risk, when you can hire me as a process technical writer?
+As your process technical writer, I will document your business processes, including design, assembly, installation, and health and safety. To do this, I will need to shadow your staff, so that I can see what they do, ask about what would happen in different circumstances, and create a record of the correct way of doing things. 
+The end result is a manual or web content that gives clear in...
+
+

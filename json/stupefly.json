@@ -27177,13 +27177,191 @@
             }
           },
           {
-            "string": "Tell me about some of the most difficult problems you worked on and how you solved them (Look for the little details that show they know __exactly__ how they solved them)",
-            "create-time": 1614795509394,
-            "uid": "witneiCPk",
-            "edit-time": 1614795574441,
+            "string": "Self-awareness",
+            "create-time": 1615485511243,
             ":create/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             },
+            "children": [
+              {
+                "string": "What do you suck at?",
+                "create-time": 1615485515328,
+                "uid": "Cga3dios_",
+                "edit-time": 1615485521399,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "What was the best day at work you've had in the past three months? Why?",
+                "create-time": 1615485553418,
+                "uid": "LMqnT9Rnl",
+                "edit-time": 1615485572793,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "h6j-eAcww",
+            "edit-time": 1615485515355,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Thinking & attitude",
+            "create-time": 1615485346783,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "If you were a box of cereal, what cereal would you be and why?\" (Alternative: \"What's your favorite board game and why?)",
+                "create-time": 1615485363223,
+                "uid": "tkFR5UqK-",
+                "edit-time": 1615485391567,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Do you like to win or hate to lose? (Those who hate to lose are more likely to learn from mistakes and past experience)",
+                "create-time": 1615485449709,
+                "uid": "CSlnsaGLg",
+                "edit-time": 1615485484923,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Tell us about a time when you've had to deal with rejection (Evaluates sales aptitude in particular)",
+                "create-time": 1615485740327,
+                "uid": "VXrEhlfNj",
+                "edit-time": 1615485766020,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "Xi_wNAh_s",
+            "edit-time": 1615485361202,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Problem solving, learning, and adaptation",
+            "create-time": 1615485272354,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "Tell me about some of the most difficult problems you worked on and how you solved them (Look for the little details that show they know __exactly__ how they solved them)",
+                "create-time": 1614795509394,
+                "uid": "witneiCPk",
+                "edit-time": 1614795574441,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "What do you do if the Internet goes out at the office?",
+                "create-time": 1615485314946,
+                "uid": "6UgVhDC7g",
+                "edit-time": 1615485317253,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Tell me about a a project you worked on that failed? What did you learn?",
+                "create-time": 1615485588688,
+                "uid": "v3dGp9aoL",
+                "edit-time": 1615485590160,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "MI9LvrUqH",
+            "edit-time": 1615485688300,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Math assessment",
+            "create-time": 1615485170745,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "A screwdriver and a screw together cost $2.20. The screwdriver costs $2 more than the screw. How much does the screw cost? (A: $0.10)",
+                "create-time": 1615485186347,
+                "uid": "_Iuzw3rQk",
+                "edit-time": 1615485207601,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "bdJPdad-Z",
+            "edit-time": 1615485186369,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "[Culture](culture) assessment",
+            "create-time": 1615485224138,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "children": [
+              {
+                "string": "If you could kick one state out of the United States, which one would you pick and why?",
+                "create-time": 1615485232688,
+                "uid": "2ayfreqqS",
+                "edit-time": 1615485235988,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "uid": "ooG82l0kt",
+            "edit-time": 1615485263016,
             ":edit/user": {
               ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
             }
@@ -31986,350 +32164,6 @@
     },
     "children": [
       {
-        "edit-time": 1615422753857,
-        "children": [
-          {
-            "string": "General Guidance for Systemization",
-            "create-time": 1615423085610,
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            "children": [
-              {
-                "string": "Create an ‘overview system’ to outline the high-level steps in the delivery of your product or service.",
-                "create-time": 1615422766219,
-                "uid": "6iVs4-k64",
-                "edit-time": 1615423093082,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Avoid getting too granular",
-                "create-time": 1615422766219,
-                "uid": "8R5CiEct4",
-                "edit-time": 1615423096655,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "string": "Don’t over-document the business",
-                "create-time": 1615422766219,
-                "uid": "RXN7AcHN1",
-                "edit-time": 1615423115601,
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "KPnCP_nf5",
-            "edit-time": 1615423104744,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          },
-          {
-            "string": "Stage 1 : Define",
-            "create-time": 1615422784152,
-            ":create/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            },
-            "children": [
-              {
-                "edit-time": 1615422766241,
-                "children": [
-                  {
-                    "string": "What is the dream client? The ones you enjoy working with the most. The ones who pay your advertised prices and then happily refer their friends and family.",
-                    "create-time": 1615422766219,
-                    "uid": "tIuz94Lo4",
-                    "edit-time": 1615423018829,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Pick the product that would be the best starting point for that client. What is a great first purchase for this client? Which one will open the door for you to continue working with them long-term?",
-                    "create-time": 1615422766219,
-                    "uid": "Aa-Vrc7Ej",
-                    "edit-time": 1615423047349,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Be clear on where the sweet spot is ",
-                    "create-time": 1615422766219,
-                    "uid": "iwRp8s5aX",
-                    "edit-time": 1615423062399,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "SxRiCV0vy"
-                  }
-                ],
-                "uid": "5WhUIuYvw",
-                ":block/refs": [
-                  {
-                    ":block/uid": "SxRiCV0vy"
-                  }
-                ],
-                "string": "Step #1: Identify ONE primary target client and ONE primary product you sell to that client.",
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "create-time": 1615422766219,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              },
-              {
-                "edit-time": 1615422766241,
-                "children": [
-                  {
-                    "string": "Guidelines",
-                    "create-time": 1615422867514,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    "children": [
-                      {
-                        "string": "Don’t overthink this",
-                        "create-time": 1615422876133,
-                        "uid": "IgCUPfYny",
-                        "edit-time": 1615422894555,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Don’t go into detail – two or three words to label a step is all",
-                        "create-time": 1615422880335,
-                        "uid": "z2XGReOTM",
-                        "edit-time": 1615422905948,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Only populate the CCF with activities you are currently doing",
-                        "create-time": 1615422766219,
-                        "uid": "sjIHHgiMP",
-                        "edit-time": 1615422911634,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      }
-                    ],
-                    "uid": "Cvq0tehW6",
-                    "edit-time": 1615422872818,
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Critical Client Flow (CCF)",
-                    "create-time": 1615422931026,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    "children": [
-                      {
-                        "string": "Attention: How do people learn about your business?",
-                        "create-time": 1615422766219,
-                        "uid": "0XOj7QwJ8",
-                        "edit-time": 1615422766241,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Enquiry: When someone is ready to enquire about your products, how do they do it?",
-                        "create-time": 1615422766219,
-                        "uid": "ubVSJ7yps",
-                        "edit-time": 1615422766241,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Sales: Your prospect has shown interest in your wares and now they’re primed to become a client. What happens next?",
-                        "create-time": 1615422766219,
-                        "uid": "-jNJbgoql",
-                        "edit-time": 1615422766241,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Money: How do you collect payment?",
-                        "create-time": 1615422766219,
-                        "uid": "nsTF5-qIr",
-                        "edit-time": 1615422766241,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Onboarding: How do you get your clients started?",
-                        "create-time": 1615422766219,
-                        "uid": "LNFCCA-ZN",
-                        "edit-time": 1615422766241,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "identify how new client projects are set up as opposed to how you deliver the actual work.",
-                        "create-time": 1615422766219,
-                        "uid": "RORjcymw-",
-                        "edit-time": 1615422766241,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Delivery: How is the work completed?",
-                        "create-time": 1615422766219,
-                        "uid": "-ngy8lOao",
-                        "edit-time": 1615422766241,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      },
-                      {
-                        "string": "Repeat or referral: Last, but not least, how do you go about encouraging clients to either remain a client or come back again to make additional purchases?",
-                        "create-time": 1615422766219,
-                        "uid": "RqbYsgojc",
-                        "edit-time": 1615422766241,
-                        ":create/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                        }
-                      }
-                    ],
-                    "uid": "OpyLwF2Ir",
-                    "edit-time": 1615422937761,
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  },
-                  {
-                    "string": "Trouble with clients who constantly follow up and micromanage you and your team probably indicates a poor onboarding sequence that fails to set expectations",
-                    "create-time": 1615422766219,
-                    "uid": "qEduik153",
-                    "edit-time": 1615422984132,
-                    ":create/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "nGmZz5iar"
-                  }
-                ],
-                "uid": "KXD3eArT4",
-                ":block/refs": [
-                  {
-                    ":block/uid": "nGmZz5iar"
-                  }
-                ],
-                "string": "Step #2: Define your Critical Client Flow.",
-                ":create/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                },
-                "create-time": 1615422766219,
-                ":edit/user": {
-                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-                }
-              }
-            ],
-            "uid": "nhE1LqdvA",
-            "edit-time": 1615422819122,
-            ":edit/user": {
-              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-            }
-          }
-        ],
-        "refs": [
-          {
-            "uid": "bqSG1Fk6s"
-          }
-        ],
-        "uid": "RFS-E9P7s",
-        ":block/refs": [
-          {
-            ":block/uid": "bqSG1Fk6s"
-          }
-        ],
-        "string": "[[book/SYSTEMology]]\nby David Jenyns, Michael E. Gerber",
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "create-time": 1615422717941,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
         "edit-time": 1615423211896,
         "children": [
           {
@@ -32490,10 +32324,74 @@
         ":edit/user": {
           ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
         }
+      },
+      {
+        "edit-time": 1615484675539,
+        "children": [
+          {
+            "string": "{{[[TODO]]}} [[idea]] Hire consultant to document core systems ",
+            "create-time": 1615445562586,
+            ":block/refs": [
+              {
+                ":block/uid": "hhvTau8RH"
+              },
+              {
+                ":block/uid": "bRjRDBPNa"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "hhvTau8RH"
+              },
+              {
+                "uid": "bRjRDBPNa"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "uid": "cPQYBdxfz",
+            "edit-time": 1615484675539,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "[Business Process Technical Writer - Freelance Technical Writer](https://straygoat.co.uk/process-technical-writer/)I’ll document your processes so staff know what to do\nKeep knowledge in your business by documenting your processes\nIf your organisation’s processes are not documented, you are taking an unnecessary risk. Think about it. What would happen if:\n\t•\tKey members of your staff leave or are unable to work, with no notice?\n\t•\tYou unexpectedly need to recreate your business, or part of your business, in another location?\n\t•\tThe quality of your products/services is affected because staff are not following a consistent workflow?\nAny of these situations could prove costly, especially if specialist knowledge was lost due to staff leaving. Yes, you can get a replacement in, but how long will it take and what will happen in the meantime? Why take the risk, when you can hire me as a process technical writer?\nAs your process technical writer, I will document your business processes, including design, assembly, installation, and health and safety. To do this, I will need to shadow your staff, so that I can see what they do, ask about what would happen in different circumstances, and create a record of the correct way of doing things. \nThe end result is a manual or web content that gives clear in...\n\n",
+            "create-time": 1615447214051,
+            "uid": "jSSvcaUJo",
+            "edit-time": 1615484675539,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "gb9IkFGb3"
+          }
+        ],
+        "uid": "ViJSzV8OH",
+        ":block/refs": [
+          {
+            ":block/uid": "gb9IkFGb3"
+          }
+        ],
+        "string": "#[[Quick Capture]]",
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "create-time": 1615445562586,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
       }
     ],
     "uid": "03-10-2021",
-    "edit-time": 1615334818723,
+    "edit-time": 1615484675539,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -32501,11 +32399,93 @@
   {
     "create-time": 1615421217222,
     "title": "March 11th, 2021",
-    "uid": "03-11-2021",
-    "edit-time": 1615421217222,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
+    "children": [
+      {
+        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}\n\n",
+        "create-time": 1615478365855,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
+          },
+          {
+            ":block/uid": "A0Su1fppo"
+          },
+          {
+            ":block/uid": "01-01-2000"
+          },
+          {
+            ":block/uid": "4wLPO9CQE"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          },
+          {
+            "uid": "A0Su1fppo"
+          },
+          {
+            "uid": "01-01-2000"
+          },
+          {
+            "uid": "4wLPO9CQE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "3sXo0nSux",
+        "edit-time": 1615485121353,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[📥 Quick Capture]] {not: [[📥 Inbox]]} }}}",
+        "create-time": 1615485827455,
+        ":block/refs": [
+          {
+            ":block/uid": "0lAddRQzh"
+          },
+          {
+            ":block/uid": "sSeeG88c9"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0lAddRQzh"
+          },
+          {
+            "uid": "sSeeG88c9"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "vyr0JEr-a",
+        "edit-time": 1615485827455,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "03-11-2021",
+    "edit-time": 1615484675539,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -32513,11 +32493,391 @@
   {
     "create-time": 1615422746188,
     "title": "book/SYSTEMology",
-    "uid": "bqSG1Fk6s",
-    "edit-time": 1615422746208,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
+    "children": [
+      {
+        "string": "Author(s): David Jenyns, Michael E. Gerber",
+        "create-time": 1615485907383,
+        "uid": "ejWK0jbdD",
+        "edit-time": 1615485910017,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "Keywords: #SYSTEMology, ",
+        "create-time": 1615485950611,
+        ":block/refs": [
+          {
+            ":block/uid": "TGtREr6aV"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "TGtREr6aV"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "-3lOaDatZ",
+        "edit-time": 1615485964898,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "========================================",
+        "create-time": 1615485911287,
+        "uid": "ZirQ6Zdb6",
+        "edit-time": 1615485911287,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "General Guidance for Systemization",
+        "create-time": 1615423085610,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "children": [
+          {
+            "string": "Create an ‘overview system’ to outline the high-level steps in the delivery of your product or service.",
+            "create-time": 1615422766219,
+            "uid": "6iVs4-k64",
+            "edit-time": 1615423093082,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Avoid getting too granular",
+            "create-time": 1615422766219,
+            "uid": "8R5CiEct4",
+            "edit-time": 1615423096655,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "string": "Don’t over-document the business",
+            "create-time": 1615422766219,
+            "uid": "RXN7AcHN1",
+            "edit-time": 1615423115601,
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "uid": "KPnCP_nf5",
+        "edit-time": 1615423104744,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "Stage 1 : Define",
+        "create-time": 1615422784152,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "children": [
+          {
+            "edit-time": 1615422766241,
+            "children": [
+              {
+                "string": "What is the dream client? The ones you enjoy working with the most. The ones who pay your advertised prices and then happily refer their friends and family.",
+                "create-time": 1615422766219,
+                "uid": "tIuz94Lo4",
+                "edit-time": 1615423018829,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Pick the product that would be the best starting point for that client. What is a great first purchase for this client? Which one will open the door for you to continue working with them long-term?",
+                "create-time": 1615422766219,
+                "uid": "Aa-Vrc7Ej",
+                "edit-time": 1615423047349,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Be clear on where the sweet spot is ",
+                "create-time": 1615422766219,
+                "uid": "iwRp8s5aX",
+                "edit-time": 1615423062399,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "SxRiCV0vy"
+              }
+            ],
+            "uid": "5WhUIuYvw",
+            ":block/refs": [
+              {
+                ":block/uid": "SxRiCV0vy"
+              }
+            ],
+            "string": "Step #1: Identify ONE primary target client and ONE primary product you sell to that client.",
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "create-time": 1615422766219,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          },
+          {
+            "edit-time": 1615422766241,
+            "children": [
+              {
+                "string": "Guidelines",
+                "create-time": 1615422867514,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "Don’t overthink this",
+                    "create-time": 1615422876133,
+                    "uid": "IgCUPfYny",
+                    "edit-time": 1615422894555,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Don’t go into detail – two or three words to label a step is all",
+                    "create-time": 1615422880335,
+                    "uid": "z2XGReOTM",
+                    "edit-time": 1615422905948,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Only populate the CCF with activities you are currently doing",
+                    "create-time": 1615422766219,
+                    "uid": "sjIHHgiMP",
+                    "edit-time": 1615422911634,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "Cvq0tehW6",
+                "edit-time": 1615422872818,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Critical Client Flow (CCF)",
+                "create-time": 1615422931026,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                "children": [
+                  {
+                    "string": "Attention: How do people learn about your business?",
+                    "create-time": 1615422766219,
+                    "uid": "0XOj7QwJ8",
+                    "edit-time": 1615422766241,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Enquiry: When someone is ready to enquire about your products, how do they do it?",
+                    "create-time": 1615422766219,
+                    "uid": "ubVSJ7yps",
+                    "edit-time": 1615422766241,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Sales: Your prospect has shown interest in your wares and now they’re primed to become a client. What happens next?",
+                    "create-time": 1615422766219,
+                    "uid": "-jNJbgoql",
+                    "edit-time": 1615422766241,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Money: How do you collect payment?",
+                    "create-time": 1615422766219,
+                    "uid": "nsTF5-qIr",
+                    "edit-time": 1615422766241,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Onboarding: How do you get your clients started?",
+                    "create-time": 1615422766219,
+                    "uid": "LNFCCA-ZN",
+                    "edit-time": 1615422766241,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "identify how new client projects are set up as opposed to how you deliver the actual work.",
+                    "create-time": 1615422766219,
+                    "uid": "RORjcymw-",
+                    "edit-time": 1615422766241,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Delivery: How is the work completed?",
+                    "create-time": 1615422766219,
+                    "uid": "-ngy8lOao",
+                    "edit-time": 1615422766241,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  },
+                  {
+                    "string": "Repeat or referral: Last, but not least, how do you go about encouraging clients to either remain a client or come back again to make additional purchases?",
+                    "create-time": 1615422766219,
+                    "uid": "RqbYsgojc",
+                    "edit-time": 1615422766241,
+                    ":create/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                    }
+                  }
+                ],
+                "uid": "OpyLwF2Ir",
+                "edit-time": 1615422937761,
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              },
+              {
+                "string": "Trouble with clients who constantly follow up and micromanage you and your team probably indicates a poor onboarding sequence that fails to set expectations",
+                "create-time": 1615422766219,
+                "uid": "qEduik153",
+                "edit-time": 1615422984132,
+                ":create/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                },
+                ":edit/user": {
+                  ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "nGmZz5iar"
+              }
+            ],
+            "uid": "KXD3eArT4",
+            ":block/refs": [
+              {
+                ":block/uid": "nGmZz5iar"
+              }
+            ],
+            "string": "Step #2: Define your Critical Client Flow.",
+            ":create/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            },
+            "create-time": 1615422766219,
+            ":edit/user": {
+              ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+            }
+          }
+        ],
+        "uid": "nhE1LqdvA",
+        "edit-time": 1615422819122,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1615485887902,
+        "uid": "KcLNd2mgC",
+        "edit-time": 1615485887902,
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
+    "uid": "bqSG1Fk6s",
+    "edit-time": 1615422746208,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -32551,6 +32911,18 @@
     "title": "SYSTEMology",
     "uid": "TGtREr6aV",
     "edit-time": 1615423211912,
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1615484675619,
+    "title": "idea",
+    "uid": "bRjRDBPNa",
+    "edit-time": 1615484675620,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },

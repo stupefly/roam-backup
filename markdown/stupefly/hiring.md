@@ -3,6 +3,20 @@
 Questions for hiring [[interview]]
     - Tell me about your best boss
     - Tell me about your worst boss
-    - Tell me about some of the most difficult problems you worked on and how you solved them (Look for the little details that show they know __exactly__ how they solved them)
+    - Self-awareness
+        - What do you suck at?
+        - What was the best day at work you've had in the past three months? Why?
+    - Thinking & attitude
+        - If you were a box of cereal, what cereal would you be and why?" (Alternative: "What's your favorite board game and why?)
+        - Do you like to win or hate to lose? (Those who hate to lose are more likely to learn from mistakes and past experience)
+        - Tell us about a time when you've had to deal with rejection (Evaluates sales aptitude in particular)
+    - Problem solving, learning, and adaptation
+        - Tell me about some of the most difficult problems you worked on and how you solved them (Look for the little details that show they know __exactly__ how they solved them)
+        - What do you do if the Internet goes out at the office?
+        - Tell me about a a project you worked on that failed? What did you learn?
+    - Math assessment
+        - A screwdriver and a screw together cost $2.20. The screwdriver costs $2 more than the screw. How much does the screw cost? (A: $0.10)
+    - [Culture](culture) assessment
+        - If you could kick one state out of the United States, which one would you pick and why?
 - Hiring strategies
     - Look for evidence of exceptional ability. If there’s a track record of exceptional achievement, then it’s likely that that will continue into the future.
