@@ -32079,93 +32079,11 @@
   {
     "create-time": 1615421217222,
     "title": "March 11th, 2021",
+    "uid": "03-11-2021",
+    "edit-time": 1615484675539,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
-    "children": [
-      {
-        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}\n\n",
-        "create-time": 1615478365855,
-        ":block/refs": [
-          {
-            ":block/uid": "hhvTau8RH"
-          },
-          {
-            ":block/uid": "sS9KVdL8B"
-          },
-          {
-            ":block/uid": "A0Su1fppo"
-          },
-          {
-            ":block/uid": "01-01-2000"
-          },
-          {
-            ":block/uid": "4wLPO9CQE"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "hhvTau8RH"
-          },
-          {
-            "uid": "sS9KVdL8B"
-          },
-          {
-            "uid": "A0Su1fppo"
-          },
-          {
-            "uid": "01-01-2000"
-          },
-          {
-            "uid": "4wLPO9CQE"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "3sXo0nSux",
-        "edit-time": 1615485121353,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      },
-      {
-        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[Quick Capture]] {not: [[📥 Inbox]]} }}}",
-        "create-time": 1615485827455,
-        ":block/refs": [
-          {
-            ":block/uid": "0lAddRQzh"
-          },
-          {
-            ":block/uid": "sS9KVdL8B"
-          },
-          {
-            ":block/uid": "gb9IkFGb3"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "0lAddRQzh"
-          },
-          {
-            "uid": "sS9KVdL8B"
-          },
-          {
-            "uid": "gb9IkFGb3"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        },
-        "uid": "vyr0JEr-a",
-        "edit-time": 1615486159058,
-        ":edit/user": {
-          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
-        }
-      }
-    ],
-    "uid": "03-11-2021",
-    "edit-time": 1615484675539,
     ":edit/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     }
@@ -32667,8 +32585,102 @@
   {
     "create-time": 1615507629713,
     "title": "March 12th, 2021",
+    ":create/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    },
+    "children": [
+      {
+        "string": "⚠️ **Overdue Tasks**{{[[query]]: {and: [[TODO]]  {not: {or: [[query]] [[core]]}}{between:[[January 1st, 2000]][[yesterday]]} }}}🪓 **Today's Core**{{ [[query]]: {and: [[TODO]] [[core]] {not: [[query]]}} }}",
+        "create-time": 1615591539966,
+        ":block/refs": [
+          {
+            ":block/uid": "hhvTau8RH"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
+          },
+          {
+            ":block/uid": "A0Su1fppo"
+          },
+          {
+            ":block/uid": "01-01-2000"
+          },
+          {
+            ":block/uid": "4wLPO9CQE"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "hhvTau8RH"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          },
+          {
+            "uid": "A0Su1fppo"
+          },
+          {
+            "uid": "01-01-2000"
+          },
+          {
+            "uid": "4wLPO9CQE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "zFkq_Cv_O",
+        "edit-time": 1615591539966,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      },
+      {
+        "string": "**Unprocessed Quick Capture**{{[[query]]: {and: [[Quick Capture]] {not: [[📥 Inbox]]} }}}",
+        "create-time": 1615591542477,
+        ":block/refs": [
+          {
+            ":block/uid": "0lAddRQzh"
+          },
+          {
+            ":block/uid": "sS9KVdL8B"
+          },
+          {
+            ":block/uid": "gb9IkFGb3"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0lAddRQzh"
+          },
+          {
+            "uid": "sS9KVdL8B"
+          },
+          {
+            "uid": "gb9IkFGb3"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        },
+        "uid": "mJPOvL1Vx",
+        "edit-time": 1615591542477,
+        ":edit/user": {
+          ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+        }
+      }
+    ],
     "uid": "03-12-2021",
     "edit-time": 1615507629713,
+    ":edit/user": {
+      ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
+    }
+  },
+  {
+    "create-time": 1615594027775,
+    "title": "March 13th, 2021",
+    "uid": "03-13-2021",
+    "edit-time": 1615594027775,
     ":create/user": {
       ":user/uid": "5mjtAd6SjFbtrTvvI0SFpKBy4UG3"
     },
